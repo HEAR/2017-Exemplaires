@@ -2,6 +2,8 @@ Academy_*.otf
 
 *.otf
 
-Academy/*.otf
-Academy/*.woff
-Academy/*.woff2
+fonts/Academy/*.otf
+fonts/Academy/*.woff
+fonts/Academy/*.woff2
+fonts/Academy/*.html
+fonts/Academy/*
