@@ -1,0 +1,14 @@
+<style type="text/css">
+@font-face {
+    font-family: 'agenda-extragras';
+    src: url('web_sys/css/secure.php?t=agenda-extragras/agenda-extragras-webfont.eot');
+    src: url('web_sys/css/secure.php?t=agenda-extragras/agenda-extragras-webfont.eot?#iefix') format('embedded-opentype'),
+         url('web_sys/css/secure.php?t=agenda-extragras/agenda-extragras-webfont.woff2') format('woff2'),
+         url('web_sys/css/secure.php?t=agenda-extragras/agenda-extragras-webfont.woff') format('woff'),
+         url('web_sys/css/secure.php?t=agenda-extragras/agenda-extragras-webfont.ttf') format('truetype'),
+         url('web_sys/css/secure.php?t=agenda-extragras/agenda-extragras-webfont.svg#agendaextra_grasse') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.typed { font-family: "agenda-extragras", "Georgia", "Times New Roman", Times, serif; }
+</style>

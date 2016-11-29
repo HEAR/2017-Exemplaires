@@ -1,0 +1,27 @@
+html{
+	font-size:20px;
+}
+
+body {
+	background: rgb(0, 72, 153);
+	color:#FFF;
+	font-family: "Academy", Georgia, sans-serif;
+	font-weight: 700;
+	padding:2rem
+}
+
+h1,h2,p{
+	font-weight: bold;
+	font-size:1.5rem;
+	line-height: 1.15em;
+	margin: 0;
+	padding: 0;
+}
+
+p{
+	font-weight: 500;
+}
+
+p.small{
+	font-size:0.9rem;
+}
