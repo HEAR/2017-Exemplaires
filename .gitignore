@@ -1,3 +1,7 @@
 Academy_*.otf
 
 *.otf
+
+Academy/*.otf
+Academy/*.woff
+Academy/*.woff2
