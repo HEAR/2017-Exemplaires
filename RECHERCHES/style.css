@@ -3,47 +3,64 @@
 /* FONT */
 /* HTML reset */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  vertical-align: baseline;
-  list-style: none;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+	list-style: none;
 }
 
 /*GENERAL*/
 
 html{
-  width: 100%;
-  
+	width: 100%;
+
 }
 
 body {
-  font-family: "Arial";
-  padding-right: 50px;
-  background-color: black;
-  
+	font-family: "Arial";
+	padding-right: 50px;
+	background-color: black;
+}
+
+
+/*MASON*/
+body #fillers {
+	display: none;
+}
+body #container {
+	position: relative;
+	display: inline-block;
+	width: 350%;
+	margin-left: 25%;
+	padding-top: 7.5%;
+	background-color: black;
+}
+
+body #container .mason_filler{
+
+}
+
+body #container .mason_filler{
+	position: relative;
+	float: left;
 }
 
 
 nav{
-  
-  float: left;
-  width:20%;
-  height: 100%;
-  background-color: white;
-  display: inline;
-  position: fixed;
-  padding-top: 2.5%;
-  z-index: 99;
-  padding-left: 2%;
-  
-
+	float: left;
+	width:300px;
+	height: 100%;
+	background-color: white;
+	display: inline;
+	position: fixed;
+	padding: 30px 20px 20px;
+	z-index: 99;
+	box-sizing: border-box;
 }
 
 ul{
-  
-  margin-top: 10%;
-  
+	margin-top: 10%;
 }
 
 li{}
@@ -51,14 +68,13 @@ li{}
 
 h1{}
 
-h3{
-  
-  color: white;
-  margin-left:27.5%;
-  bottom: 5%;
-  position: fixed;
-  z-index: 1001;
-  height: 50px;
+ul#selection{
+	color: white;
+	margin-left:310px;
+	bottom: 10px;
+	position: fixed;
+	z-index: 1001;
+	font-weight: bold;
 }
 
 
@@ -66,70 +82,21 @@ h3{
 
 
 .box{
-  position: relative;
-  float: left;
-
+	position: relative;
+	float: left;
 }
 
 
-.un_livre_mon,
-.un_livre_ren,
-.un_livre_lyo,
-.un_livre_val,
-.un_livre_str,
-.un_livre_bru,
-.un_livre_gen,
-.un_livre_tou,
-.un_livre_bes{
+.livre{
+	margin-left: 20%;
+	background: linear-gradient( blue, #bae1ff); 
+	box-shadow: 0 0 0 black;
+}
 
-  margin-left: 20%;
-  background: linear-gradient( blue, #bae1ff); 
-  box-shadow: 0 0 0 black;
-
+.livre.select{
+	margin-left: 20%;
+	background: linear-gradient( red, #bae1ff); 
+	box-shadow: 0 0 40px white;
 }
 
 
-
-
-#nom_mon,
-#nom_ren,
-#nom_lyo,
-#nom_val,
-#nom_str,
-#nom_bru,
-#nom_gen,
-#nom_tou,
-#nom_bes{
-  
-display: none;
-  
-  }
-
-
-
-
-
-/*MASON*/
-body #fillers {
-  display: none;
-}
-body #container {
-  position: relative;
-  display: inline-block;
-  width: 350%;
-  margin-left: 25%;
-  padding-top: 7.5%;
-  background-color: black;
-  
-}
-
-body #container .mason_filler{
-
-}
-
-body #container .mason_filler{
-  position: relative;
-  float: left;
-
-
-}

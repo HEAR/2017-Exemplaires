@@ -1,65 +1,50 @@
+<div id='container'>
+
 <?php
 
 //Pour récupérer les données de la db
 //Et pouvoir les utiliser dans le html / js
 //(je suis pas sûre que ce soit ça qu'il faille faire haha mais bon ça marche)
 
-$nb_livres_selec = 6;
-$vil=array('mon','ren','lyo','val','str','bru','gen','tou','bes');
 
 
-for($i=0;$i<count($vil);$i++){
-    
+	$schools = array();
 
-    
-    $vil_h[$i]=$vil[$i].'_h';
-    $vil_w[$i]=$vil[$i].'_w';
-    $vil_tit[$i]=$vil[$i].'_tit';
-    $vil_aut[$i]=$vil[$i].'_aut';
-    $vil_des[$i]=$vil[$i].'_des';
-    $vil_alle[$i]=$vil[$i];
-
-    }
+	$sql= "SELECT cygle_ecole, nom_ecole, num_livre, titre, auteur, description, height, width, access FROM selection ORDER BY RAND() ";
+	$data = $conn->query($sql);
 
 
-for($i=0;$i<count($vil);$i++){
-
-$sql= "SELECT cygle_ecole, nom_ecole, num_livre, titre, auteur, description, height, width FROM selection WHERE num_ecole=$i+1";
-$data = $conn->query($sql);
-
-$$vil_h[$i]=array();
-$$vil_w[$i]=array();
-$$vil_tit[$i]=array();
-$$vil_aut[$i]=array();
-$$vil_des[$i]=array();
+	if ($data->num_rows > 0) {
 
 
-if ($data->num_rows > 0) {
-    // output data of each row
-    while($row = $data->fetch_assoc()) {
+		while ($row = $data->fetch_object() ){
+	        // print_r( $row );
 
-    
-    array_push($$vil_h[$i],$row["height"]/2.4);
-    array_push($$vil_w[$i],$row["width"]/2.4);
-    array_push($$vil_tit[$i],$row["titre"]);
-    array_push($$vil_aut[$i],$row["auteur"]);
-          
-    }
-} 
+	        $schools[$row->access] = $row->cygle_ecole.' '.$row->nom_ecole;
+	        
+	        ?>
+				<div class='box'>
+					<div class="livre" data-ville="<?php echo $row->access ?>" style="width: <?php echo $row->width.'px' ?>; height: <?php echo $row->height.'px' ?>;"></div>
+				</div>
+			<?php 
+	    }
+	} 
 
-}
-
-//ça donne:
-//$mon_h=(x, x, x...) ---> utilisable dans le script de taille des blocs de livres
-//$mon_w=(x, x, x...) ---> :)
-//....
-//puis
-//$ren_h=(x, x, x...)
-//$ren_w=(x, x, x...)
-//ETC ETC
-
-$conn->close();
+	$schools = array_unique($schools);
 
 
-
+// $conn->close();
 ?>
+</div>
+
+
+<ul id="selection">
+	<li class="titre"><h4>Sélection de :</h4><li>
+
+	<?php foreach($schools as $ville=>$school){ ?>
+
+		<li id='<?php echo $ville; ?>'><?php echo $school; ?></li>
+	
+	<?php } ?>
+
+</ul>
