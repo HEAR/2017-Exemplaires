@@ -35,6 +35,7 @@ $(document).ready(function(){
 	$(".livre").mouseleave(function(e){
 		var selection = $(this).data("ville");		
 		$(".livre[data-ville='"+selection+"']").removeClass('select');
+		$("#selection li").css("visibility","visible");
 	})
 
 
