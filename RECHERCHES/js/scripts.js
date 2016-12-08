@@ -9,6 +9,21 @@ $(document).ready(function(){
 
 	console.log("exemplaire 2017");
 
+
+	$(".livre").each(function(index){
+
+
+		var angle = Math.random()*20 - 10;
+		var x = Math.random()*100 - 50;
+		var y = Math.random()*100 - 50;
+
+
+		// $(this).css("transform", "rotate("+angle+"deg)");
+		$(this).css("transform", "translate("+x+"px, "+y+"px) rotate("+angle+"deg)");
+
+	})
+
+
 	$(".livre").mouseenter(function(e){
 		var selection = $(this).data("ville");
 		$(".livre[data-ville='"+selection+"']").addClass('select');

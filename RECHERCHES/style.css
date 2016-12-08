@@ -79,13 +79,10 @@ ul#selection{
 
 
 /*SELECTION*/
-
-
 .box{
 	position: relative;
 	float: left;
 }
-
 
 .livre{
 	margin-left: 20%;
