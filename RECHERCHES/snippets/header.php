@@ -4,7 +4,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link rel="stylesheet" type="text/css" media="screen" href="style.css">
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>   -->
-	<title>Exemplaires 2017</title>
+	<title>Exemplaires 2017 - gradient</title>
 
 	<?php
 	
