@@ -1,0 +1,202 @@
+/* Font */
+
+@font-face {
+   font-family: 'WorkSans-Regular';
+   src: url('../font/WorkSans-Regular.woff2') format('woff2'),
+      url('../font/WorkSans-Regular.woff2') format('woff2'),
+      url('../font/WorkSans-Regular.ttf') format('truetype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'WorkSans-Medium';
+   src: url('../font/WorkSans-Medium.woff2') format('woff2'),
+      url('../font/WorkSans-Medium.woff2') format('woff2'),
+      url('../font/WorkSans-Medium.ttf') format('truetype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+/* FONT */
+/* HTML reset */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+body{
+   line-height: 1;
+   padding-right: 50px;
+}
+ol,ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:none}
+table{border-collapse:collapse;border-spacing:0}
+html {box-sizing: border-box;}
+*, *:before, *:after {
+   box-sizing: inherit;}
+
+a {
+   text-decoration: none;
+   color: black;
+}
+
+/*GENERAL*/
+
+html, body{
+   font-family: 'WorkSans-Regular', sans-serif;
+   width: 100%;
+   height: 100%;
+}
+
+h1{
+   font-family: 'WorkSans-Medium', sans-serif;
+}
+
+
+/*MASON*/
+body #fillers {
+	display: none;
+}
+body #container {
+	position: relative;
+	display: inline-block;
+	width: 350%;
+	margin-left: 25%;
+	padding-top: 7.5%;
+	background-color: black;
+}
+
+body #container .mason_filler{
+
+}
+
+body #container .mason_filler{
+	position: relative;
+	float: left;
+}
+
+
+nav{
+	float: left;
+	width: 300px;
+   left: 25px;
+	background-color: white;
+	display: inline;
+	position: fixed;
+	padding: 30px 20px 20px;
+	z-index: 99999;
+	box-sizing: border-box;
+}
+
+ul{
+	margin-top: 10%;
+}
+
+li{}
+
+
+h1{}
+
+ul#selection{
+	color: white;
+	left: 45px;
+	bottom: 10px;
+	position: fixed;
+	z-index: 1001;
+	font-weight: bold;
+}
+
+
+/*SELECTION*/
+.box{
+	position: relative;
+	float: left;
+}
+
+.livre{
+	margin-left: 20%;
+   background: linear-gradient( white, grey);
+   display:flex;
+   overflow: hidden;
+   background-image: url();
+   background-position: center;
+   background-size: cover;
+/*	box-shadow: 0 0 0 black;*/
+}
+
+.livre h4{
+   padding: 5px;
+   margin: 5px;
+   opacity: 0;
+   position: absolute;
+   z-index: 100;
+   margin-bottom: 20px;
+   width: 130px;
+   background: black;
+   color: white;
+   display: inline-block;
+}
+
+.livre.select{
+	margin-left: 20%;
+   background: white;
+	box-shadow: 0 0 50px black;
+}
+
+.livre.select h4{
+   opacity: 100;
+}
+
+/*NOUVEAU*/
+
+.view {
+   display: none;
+   position: fixed;
+   width: 100%;
+   height: 100%;
+   top: 0;
+   right: 0;
+   z-index: 100;
+}
+
+.view_visible {
+   display:inline-block;
+}
+
+#frame {
+   width: 100%;
+   height: 100%;
+}
+
+#livre_container,
+#a_propos_container {
+   overflow-x: hidden;
+   overflow-y: hidden;  
+}
+
+
+.livre_desc,
+.a_propos_desc {
+   z-index: 100;
+   position: fixed;
+   display: inline;
+   background: white;
+   padding: 10px;
+   top: 20%;
+   left: 40%;
+   height: 500px;
+   width: 600px;
+}
+
+.ecoles_popup {
+   display: none;
+   position: fixed;
+   margin: 75px 0 0 350px;
+   z-index: 10000;
+}
+.ecoles_popup ul li{
+   width: 400px;
+   background: white;
+}
+.ecoles_popup_visible {
+   display: inline-block;
+}

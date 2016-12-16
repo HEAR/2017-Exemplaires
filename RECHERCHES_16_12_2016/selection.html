@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+   <meta charset="utf-8" />
+   <html lang="fr" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+     <link rel="stylesheet" type="text/css" media="screen" href="css/style_2.css" />
+   <title>Exemplaires 2017</title>
+
+     <script src="scripts/jquery-3.1.0.min.js"></script>
+   </head>
+
+   <body id="backgroundSheet">
+   
+<div id='container'>
+   
+   <a class="livre_link" href="livre_1.html"
+      onclick="document.getElementById('frame').src=this.href; return false;">
+      <div class='box'><div class ='un_livre_mon' style='width: 300px; height: 500px;'>
+      <h4>&nbsp;the Xerox Book&nbsp;</h4><h5>&nbsp;Seth Siegelaub&nbsp;</h5>
+      <img class="livre" src="img/xerox.jpg" /></div></div>
+   </a>
+      <a class="livre_link" href="livre_2.html"
+         onclick="document.getElementById('frame').src=this.href; return false;">
+         <div class='box'><div class ='un_livre_mon' style='width: 250px; height: 500px;'>
+      <h4>&nbsp;Untitled&nbsp;</h4><h5>&nbsp;de Paul Elliman&nbsp;</h5>
+      <img class="livre" src="img/untitled.jpeg" /></div></div>
+   </a>
+      <a class="livre_link" href="livre_3.html"
+      onclick="document.getElementById('frame').src=this.href; return false;">
+      <div class='box'><div class ='un_livre_mon' style='width: 300px; height: 500px;'>
+         <h4>&nbsp;Ravel ravel unravel&nbsp;</h4><h5>&nbsp;Anri Sala&nbsp;</h5>
+      <img class="livre" src="img/00-anri-sala-maurice-ravel-unravel-biennale-venise-2013-concerto-main-gauche-echenoz.jpg" /></div></div>
+   </a>
+      <a class="livre_link" href="livre_4.html"
+         onclick="document.getElementById('frame').src=this.href; return false;">
+         <div class='box'><div class ='un_livre_mon' style='width: 300px; height: 500px;'>
+            <h4>&nbsp;La vie et la mort des oeuvres d’art&nbsp;</h4><h5>&nbsp;Christophe Lemaître&nbsp;</h5>
+      <img class="livre" src="img/ca7ed2c9-33a5bb3-05729.png" /></div></div>
+   </a>   
+
+   <a href="#" class="view_link"><div class="view">
+      <iframe id="frame" src="iframe.php" frameborder="0" allowfullscreen></iframe>
+      </div>
+   </a>
+
+</div>
+
+      <script src="js/jquery-3.1.1.min.js"></script>
+      <script src="js/mason/js/mason.js"></script> <!-- plug-in mason, core -->
+      <script src="js/mousewheel.js"></script>
+      <script src="js/scripts.js"></script>
+
+</body>
+</html>
