@@ -23,4 +23,10 @@
       <?php snippet('menu') ?>
 
     </div>
+
+    <?php if($site->maintenance()->isTrue() and $page->uid() != 'maintenance') { go('maintenance');} ?>
   </header>
+
+
+
+
