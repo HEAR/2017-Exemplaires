@@ -1,9 +1,9 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
-    
-    SUPER
+<main class="main" role="main">
 
-  </main>
+	SUPER
+
+</main>
 
 <?php snippet('footer') ?>
