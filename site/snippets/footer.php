@@ -1,3 +1,5 @@
+<!-- snippets/footer.php -->
+
 <footer class="footer cf" role="contentinfo">
 	<div class="wrap wide">
 

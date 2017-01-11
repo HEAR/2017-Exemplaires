@@ -1,5 +1,7 @@
 <?php snippet('header') ?>
 
+<!-- default.php -->
+
 <main class="main" role="main">
 
 	<header class="wrap">
@@ -15,5 +17,7 @@
 	</div>
 
 </main>
+
+<!-- fin default.php -->
 
 <?php snippet('footer') ?>

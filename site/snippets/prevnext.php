@@ -18,6 +18,9 @@ $directionPrev = @$flip ? 'right' : 'left';
 $directionNext = @$flip ? 'left'  : 'right';
 
 if($page->hasNextVisible() || $page->hasPrevVisible()): ?>
+
+<!-- snippets/prevnext.php -->
+
 <nav class="pagination <?= !@$flip ?: ' flip' ?> wrap cf">
 
 	<?php if($page->hasPrevVisible()): ?>
@@ -41,4 +44,7 @@ if($page->hasNextVisible() || $page->hasPrevVisible()): ?>
 	<?php endif ?>
 
 </nav>
+
+<!-- fin snippets/prevnext.php -->
+
 <?php endif ?>

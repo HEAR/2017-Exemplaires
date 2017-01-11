@@ -31,4 +31,4 @@
 
 	<?php snippet('bookmosaic') ?>
 
-
+<!-- fin snippets/header.php -->

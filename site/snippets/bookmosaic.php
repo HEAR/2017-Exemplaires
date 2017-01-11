@@ -1,4 +1,4 @@
-<h2>MOSAIQUE DES livres</h2>
+<!-- snippets/bookmosaic.php -->
 
 <?php foreach($pages->children()->filterBy('template', 'livre')->visible() as $livre): ?>
 	
@@ -8,9 +8,7 @@
 
 	<div class='livre <?php echo  $livre->parent()->diruri() ?>'>
 	<?php echo  $livre->title()->html() ?> <?php echo  $livre->parent()->diruri() ?>
-		<a href="<?php echo $livre->url() ?>">
-			<!-- <img src="<?php echo $image->url() ?>" alt="<?php echo $livre->title()->html() ?>" > -->
-
+		<a href="<?php echo $livre->parent()->url() ?>">
 			<?php
 
 			$ratio = 0.3;
@@ -34,3 +32,4 @@
 
 <?php endforeach ?>
 
+<!-- fin snippets/bookmosaic.php -->

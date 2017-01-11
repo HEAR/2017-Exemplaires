@@ -1,3 +1,5 @@
+<!-- snippets/menu.php -->
+
 <nav class="menu" role="navigation">
 	<ul class="pages">
 		<?php foreach($pages->visible()->filterBy('template', 'default') as $item): ?>
@@ -16,3 +18,5 @@
 		<?php endforeach ?>
 	</ul>
 </nav>
+
+<!-- fin snippets/menu.php -->
