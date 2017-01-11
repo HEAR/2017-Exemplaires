@@ -1,4 +1,4 @@
-Title: Livre 1
+Title: Livre 2
 
 ----
 
@@ -11,3 +11,15 @@ Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo l
 ----
 
 Width: 
+
+----
+
+Height: 
+
+----
+
+Nbrpages: 
+
+----
+
+Isbn: 

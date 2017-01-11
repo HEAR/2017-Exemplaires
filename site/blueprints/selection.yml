@@ -3,12 +3,8 @@ title: Selection
 files: false
 
 pages:
-  template: livre
-
-options: 
-  template: true  
-  status: false  
-  url: false  
+  template:
+    - livre
 
 fields:
   title:
