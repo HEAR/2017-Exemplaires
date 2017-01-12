@@ -1,4 +1,7 @@
 <?php if($pagination->hasPages()): ?>
+
+<!-- snippets/pagination.php -->
+
 	<nav class="pagination wrap cf">
 
 		<?php if($pagination->hasPrevPage()): ?>
@@ -22,4 +25,7 @@
 		<?php endif ?>
 
 	</nav>
+
+<!-- fin snippets/pagination.php -->
+
 <?php endif ?>

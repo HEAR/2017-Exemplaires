@@ -1,3 +1,5 @@
+<!-- snippets/booklist.php -->
+
 <h2>Les livres</h2>
 
 <ul class="teaser cf">
@@ -14,3 +16,5 @@
 		</li>
 	<?php endforeach ?>
 </ul>
+
+<!-- fin snippets/booklist.php -->

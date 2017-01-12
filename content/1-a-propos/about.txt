@@ -1,0 +1,5 @@
+Title: À propos
+
+----
+
+Text: The approach of using subpages for storing content sections of a page can also be very useful for creating a (link: https://getkirby.com/docs/cookbook/one-pager text: one-page) website, featuring very different kinds of content.
