@@ -11,7 +11,7 @@
 	require_once("config.php");
 
 	// Create connection
-	$conn = new mysqli($servername, $username, $password,$dbasename);
+	$conn = new mysqli($servername, $username, $password, $dbasename);
 
 	// Check connection
 	if ($conn->connect_error) {

@@ -1,21 +1,17 @@
 /* Font */
 
 @font-face {
-   font-family: 'WorkSans-Regular';
-   src: url('../font/WorkSans-Regular.woff2') format('woff2'),
-      url('../font/WorkSans-Regular.woff2') format('woff2'),
-      url('../font/WorkSans-Regular.ttf') format('truetype');
-   font-weight: normal;
-   font-style: normal;
+   font-family: 'ak';
+   src: url('../font/AkkRg_Pro_1.otf') format('truetype');
 }
 
-@font-face {
-   font-family: 'WorkSans-Medium';
-   src: url('../font/WorkSans-Medium.woff2') format('woff2'),
-      url('../font/WorkSans-Medium.woff2') format('woff2'),
-      url('../font/WorkSans-Medium.ttf') format('truetype');
-   font-weight: normal;
-   font-style: normal;
+@font-face {font-family: 'century';
+   src: url("f0ff76482ca4e3978705a15123dafd10.eot"); /* IE9*/
+   src: url("f0ff76482ca4e3978705a15123dafd10.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+      url("f0ff76482ca4e3978705a15123dafd10.woff2") format("woff2"), /* chrome、firefox */
+      url("f0ff76482ca4e3978705a15123dafd10.woff") format("woff"), /* chrome、firefox */
+      url("f0ff76482ca4e3978705a15123dafd10.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+      url("f0ff76482ca4e3978705a15123dafd10.svg#New Century Schoolbook V1") format("svg"); /* iOS 4.1- */
 }
 
 /* FONT */
@@ -42,13 +38,13 @@ a {
 /*GENERAL*/
 
 html, body{
-   font-family: 'WorkSans-Regular', sans-serif;
+   font-family: 'ak', sans-serif;
    width: 100%;
    height: 100%;
 }
 
 h1{
-   font-family: 'WorkSans-Medium', sans-serif;
+   font-family: 'century', serif;
 }
 
 
