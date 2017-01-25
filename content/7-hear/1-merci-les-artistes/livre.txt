@@ -1,8 +1,8 @@
-Title: Livre 2
+Title: Merci les artistes
 
 ----
 
-Year: 
+Year: 2012
 
 ----
 
@@ -10,16 +10,36 @@ Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo l
 
 ----
 
-Width: 
+Width: 187
 
 ----
 
-Height: 
+Height: 290
 
 ----
 
-Nbrpages: 
+Nbrpages: 5
 
 ----
 
 Isbn: 
+
+----
+
+Author: Bunk Edition
+
+----
+
+Graphisme: Bunk Edition
+
+----
+
+Editor: Bunk Edition
+
+----
+
+Editor-website: www.bunkedition.fr
+
+----
+
+Price: 5€

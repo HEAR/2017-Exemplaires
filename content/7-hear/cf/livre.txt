@@ -1,8 +1,8 @@
-Title: Livre 3
+Title: Cf.
 
 ----
 
-Year: 
+Year: 2010
 
 ----
 
@@ -10,15 +10,15 @@ Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo l
 
 ----
 
-Width: 
+Width: 150
 
 ----
 
-Height: 
+Height: 218
 
 ----
 
-Nbrpages: 
+Nbrpages: 64
 
 ----
 

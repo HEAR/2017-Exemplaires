@@ -1,8 +1,8 @@
-Title: Livre 5
+Title: Doublure: catalogues d’exposition
 
 ----
 
-Year: 
+Year: 2011
 
 ----
 
@@ -10,16 +10,36 @@ Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo l
 
 ----
 
-Width: 
+Width: 215
 
 ----
 
-Height: 
+Height: 275
 
 ----
 
-Nbrpages: 
+Nbrpages: 18
 
 ----
 
 Isbn: 
+
+----
+
+Author: Koenraad Dedobbeleer
+
+----
+
+Graphisme: Koenraad Dedobbeleer
+
+----
+
+Editor: Christophe Daviet-Thery
+
+----
+
+Editor-website: http://www.daviet-thery.fr
+
+----
+
+Price: N/r

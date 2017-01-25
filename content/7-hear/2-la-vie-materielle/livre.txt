@@ -1,8 +1,8 @@
-Title: Livre 1
+Title: La vie matérielle
 
 ----
 
-Year: 
+Year: 2013
 
 ----
 
@@ -10,16 +10,36 @@ Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo l
 
 ----
 
-Width: 200
+Width: 187
 
 ----
 
-Height: 300
+Height: 240
 
 ----
 
-Nbrpages: 
+Nbrpages: 96
 
 ----
 
 Isbn: 
+
+----
+
+Author: Yann Chateigné, en collaboration avec la revue Criticism
+
+----
+
+Graphisme: Coline Sunier & Charles Mazé,
+
+----
+
+Editor: Éditions Fondation d’entreprise Ricard
+
+----
+
+Editor-website: http://www.fondation-entreprise-ricard.com/
+
+----
+
+Price: gratuit
