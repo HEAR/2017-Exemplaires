@@ -10,7 +10,10 @@
 			?></p>
 
 		</div>
-	</footer>
+</footer>
+
+<script src="scripts/jquery-3.1.0.min.js"></script>
+<script src="scripts/mousewheel.js"></script>
 
 </body>
 </html>

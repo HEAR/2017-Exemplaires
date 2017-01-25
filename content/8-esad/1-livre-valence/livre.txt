@@ -1,25 +1,45 @@
-Title: livre valence
+Title: Grammaire générale et raisonnée
 
 ----
 
-Year: 
+Year: 2016
 
 ----
 
-Text: 
+Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
 
 ----
 
-Width: 150
+Width: 115
 
 ----
 
-Height: 348
+Height: 185
 
 ----
 
-Nbrpages: 
+Nbrpages: 160
 
 ----
 
-Isbn: 
+Isbn: 979-10-304-0432-6
+
+----
+
+Author: Antoine Arnauld, Claude Lancelot
+
+----
+
+Graphisme: Allia
+
+----
+
+Editor: Allia
+
+----
+
+Editor-website: http://www.editions-allia.com/
+
+----
+
+Price: 9,50€
