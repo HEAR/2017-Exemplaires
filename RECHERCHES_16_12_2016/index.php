@@ -5,20 +5,26 @@
    </div>
 </a>
 
-<nav>
+<nav id="title">
    <a href="index.php"><h1>Exemplaires 2017</h1></a>
    <a href="index.php"><h2>Formes et pratiques de l'édition</h2></a>
-   
+   <a href="index.php"><h2>30.03 – 01.04.2017</h2></a>
+</nav>
+
+<nav id="menu">
    <ul>   
       <a class="livre_link" href="a_propos.html"
          onclick="document.getElementById('frame').src=this.href; return false;">
          <li>À propos</li></a>
       <a class="ecoles_link" href="#"
          onclick="document.getElementById('frame').src=this.href; return false;">
-         <li>Écoles participantes</li></a>
+         <li>Programme</li></a>
+      <a class="ecoles_link" href="#"
+         onclick="document.getElementById('frame').src=this.href; return false;">
+         <li>Écoles</li></a>
       <a class="livre_link" href="a_propos.html"
          onclick="document.getElementById('frame').src=this.href; return false;">
-         <li>Programme</li></a>
+         <li>Intervenants</li></a>
       <a class="livre_link" href="a_propos.html"
          onclick="document.getElementById('frame').src=this.href; return false;">
          <li>Accès</li></a>

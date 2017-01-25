@@ -25,4 +25,4 @@
 
 </head>
 
-<body style="background:black;">
+<body id="index-body">

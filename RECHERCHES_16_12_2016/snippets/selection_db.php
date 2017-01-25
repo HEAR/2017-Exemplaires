@@ -1,5 +1,7 @@
 <div id='container'>
 
+<div id='book-container'>
+
 <?php
 
 //Pour récupérer les données de la db
@@ -43,7 +45,10 @@
 ?>
 </div>
 
+</div>
 
+
+<!--
 <ul id="selection">
 	<li class="titre"><h4>Sélection de :</h4><li>
 
@@ -54,3 +59,4 @@
 	<?php } ?>
 
 </ul>
+-->

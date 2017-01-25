@@ -1,181 +1,19 @@
-/* Font */
-
-@font-face {
-   font-family: 'WorkSans-Regular';
-   src: url('../font/WorkSans-Regular.woff2') format('woff2'),
-      url('../font/WorkSans-Regular.woff2') format('woff2'),
-      url('../font/WorkSans-Regular.ttf') format('truetype');
-   font-weight: normal;
-   font-style: normal;
-}
-
-/* HTML reset */
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  vertical-align: baseline;
-  list-style: none;
-}
-
-/*GENERAL*/
-
-*{
-   color: white;
-}
-
-html{
-   width: 100%;
-   font-family: 'WorkSans-Regular', serif;
-}
-
-h1,h2,h3,h4,h5,h6,p,li{
-   color: white;
-   background-color: black;
-   font-family: 'WorkSans-Regular', sans-serif;
-}
-
-h1,
-h2{
-   font-size: 18px;
-   font-weight: 300;
-   display: inline-block;
-}
-
-body {
-}
-
-
-nav{
-  display: inline;
-  position: fixed;
-  z-index: 9999999;
-  padding: 2.5%;
-  left: 0;
-   bottom: 0;
-}
-
-ul{
-}
-
-li{
-}
-
-
-
-
-h3{
-  left: 0;
-  top: 125px;
-   padding: 10px;
-   width: 250px;
-   text-align: center;
-  position: fixed;
-  z-index: 50;
-  height: 50px;
-}
-
-
-/*SELECTION*/
-
-
-.box{
-   display: inline-block;
-   margin: 0 50px;   
-}
-
-
-.un_livre_mon,
-.un_livre_ren,
-.un_livre_lyo,
-.un_livre_val,
-.un_livre_str,
-.un_livre_bru,
-.un_livre_gen,
-.un_livre_tou,
-.un_livre_bes{
-  box-shadow: 0 0 0 black;
-   display:flex;
-   justify-content:center;
-   align-items:center;
-   
-}
-
-.un_livre_mon{
-   text-align: center;
-   /*border: 1px solid red;*/
-}
-
-.un_livre_mon .livre{
-   
-}
-
-.un_livre_mon:hover .livre{
-   
-}
-
-.un_livre_mon h4{
-   position: absolute;
-   opacity: 0;
-   z-index: 100;
-   margin-bottom: 20px;
-   background: black;
-   color: white;
-}
-.un_livre_mon h5{
-   position: absolute;
-   opacity: 0;
-   z-index: 100;
-   margin-top: 20px;
-}
-
-.un_livre_mon:hover h4,
-.un_livre_mon:hover h5{
-   opacity: 1;
-}
-
-
-
-
-#nom_mon,
-#nom_ren,
-#nom_lyo,
-#nom_val,
-#nom_str,
-#nom_bru,
-#nom_gen,
-#nom_tou,
-#nom_bes{
-  
-display: none;
-  
-  }
-
-
-
-
-
 /*MASON*/
 body #fillers {
   display: none;
 }
-body #container {
+body #selection-container {
    position: relative;
    display: inline-block;
    width: 150%;
    height: 100%;
-   padding-left: 20%;
-/*
-   padding-top: 5%;
-   margin-top: 100px;
-*/
 }
 
-body #container .mason_filler{
+body #selection-container .mason_filler{
 
 }
 
-body #container .mason_filler{
+body #selection-container .mason_filler{
   position: relative;
   float: left;
 
@@ -220,11 +58,6 @@ body,
  overflow-y: hidden;  
 }
 
-#frame {
-   width: 100%;
-   height: 100%;
-}
-
 .livre_desc,
 .a_propos_desc {
    z-index: 100;
@@ -246,85 +79,5 @@ body,
 
 .livre_cover {
    width: 50%;
-   display: inline-block;
-}
-
-.livre_desc h4,
-.livre_desc h5,
-.a_propos_desc h4,
-.a_propos_desc h5{
-   font-weight: 800;
-}
-
-.a_propos_desc h4{
-   margin-bottom: 10px;
-}
-
-
-.a_propos_infos {
-   padding: 50px 5px;
-   z-index: auto;
-   width: 500px;
-}
-.a_propos_infos:hover {
-   z-index: 9999999999;
-}
-.a_propos_infos h4,
-.a_propos_infos p{
-   border: 10px solid white;
-}
-
-a {
-   text-decoration: none;
-   color: black;
-}
-
-#header {
-   z-index: 1000;
-   position: fixed;
-   left: calc(50% - 150px);
-   width: 300px;
-   text-align: center;
-   padding: 10px 0;
-}
-
-.black{
-   z-index: 1001;
-   color: black;
-   background: white;
-}
-
-.margin{
-   padding: 1%;
-}
-
-.livre_infos {
-   width: 40%;
-   display: inline-block;
-   margin-left: 20px;
-}
-
-.ecoles_popup {
-   display: none;
-   position: fixed;
-   margin: 150px 0 0 250px;
-   z-index: 10000;
-}
-.ecoles_popup ul li{
-   width: 400px;
-}
-.ecoles_popup_visible {
-   display: inline-block;
-}
-
-.back {
-   position: fixed;
-   top: 50px;
-   left: 10px;
-   display: none;
-   z-index: 10000;
-}
-
-.back_visible{
    display: inline-block;
 }

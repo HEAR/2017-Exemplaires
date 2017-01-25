@@ -43,7 +43,7 @@ $(document).ready(function(){
 		ratio: 1.9,
 		sizes: [
 		[1,2],
-		[2,2]
+		[1,1]
 		],
 		columns: [
 		[0, 480, 2],
@@ -72,12 +72,10 @@ $(document).ready(function() {
 
 $('.livre_link').on('click', function(){
    $('.view').addClass('view_visible');
-   $('.back').addClass('back_visible');
 });
 
 $('.back_link').on('click', function(){
    $('.view').removeClass('view_visible');
-   $('.back').removeClass('back_visible');
 });
 
 $('.selection_link').on('click', function(){

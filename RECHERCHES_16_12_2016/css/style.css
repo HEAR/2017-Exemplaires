@@ -45,6 +45,8 @@ html, body{
 
 h1{
    font-family: 'century', serif;
+   font-size: 36px;
+   margin-top: 12px;
 }
 
 
@@ -52,20 +54,20 @@ h1{
 body #fillers {
 	display: none;
 }
-body #container {
+body #book-container {
 	position: relative;
 	display: inline-block;
 	width: 350%;
-	margin-left: 25%;
-	padding-top: 7.5%;
-	background-color: black;
+   height: calc(100% - 100px);
+   margin-top: 150px;
+   border: 1px solid red;
 }
 
-body #container .mason_filler{
+body #book-container .mason_filler{
 
 }
 
-body #container .mason_filler{
+body #book-container .mason_filler{
 	position: relative;
 	float: left;
 }
@@ -73,24 +75,32 @@ body #container .mason_filler{
 
 nav{
 	float: left;
-	width: 300px;
    left: 25px;
 	background-color: white;
 	display: inline;
 	position: fixed;
-	padding: 30px 20px 20px;
+	padding: 0 0 20px 20px;
 	z-index: 99999;
 	box-sizing: border-box;
+   overflow: visible;
+}
+#title {
+   top: 30px;
+   width: 300px;
+}
+#menu {
+   top: 250px;
+   width: 200px;
 }
 
 ul{
 	margin-top: 10%;
 }
 
-li{}
+li{ margin: 5px 0; }
 
 
-h1{}
+
 
 ul#selection{
 	color: white;
@@ -103,10 +113,6 @@ ul#selection{
 
 
 /*SELECTION*/
-.box{
-	position: relative;
-	float: left;
-}
 
 .livre{
 	margin-left: 20%;
@@ -194,5 +200,188 @@ ul#selection{
    background: white;
 }
 .ecoles_popup_visible {
+   display: inline-block;
+}
+
+#index-body {
+   background-color: black;
+   background-image: url(../img/fond.jpg);
+   ;
+}
+
+body #container {
+   position: fixed;
+   margin-left: 25%;
+   overflow-x: scroll;
+   overflow-y: hidden;
+   height: 100%;
+   border: 1px solid blue;
+}
+
+h2, ul {
+   margin-left: 30px;
+}
+
+
+/*SELECTION*/
+
+
+.box{
+   position: relative;
+   float: left;
+   display: inline-block;
+   margin: 0 50px;
+}
+
+
+.un_livre_mon,
+.un_livre_ren,
+.un_livre_lyo,
+.un_livre_val,
+.un_livre_str,
+.un_livre_bru,
+.un_livre_gen,
+.un_livre_tou,
+.un_livre_bes{
+   box-shadow: 0 0 0 black;
+   display:flex;
+   justify-content:center;
+   align-items:center;
+
+}
+
+.un_livre_mon{
+   text-align: center;
+   /*border: 1px solid red;*/
+}
+
+.un_livre_mon .livre{
+
+}
+
+.un_livre_mon:hover .livre{
+
+}
+
+.un_livre_mon h4{
+   position: absolute;
+   opacity: 0;
+   z-index: 100;
+   margin-bottom: 20px;
+   background: black;
+   color: white;
+}
+.un_livre_mon h5{
+   position: absolute;
+   opacity: 0;
+   z-index: 100;
+   margin-top: 20px;
+}
+
+.un_livre_mon:hover h4,
+.un_livre_mon:hover h5{
+   opacity: 1;
+}
+
+
+
+
+#nom_mon,
+#nom_ren,
+#nom_lyo,
+#nom_val,
+#nom_str,
+#nom_bru,
+#nom_gen,
+#nom_tou,
+#nom_bes{
+
+   display: none;
+
+}
+
+
+body #fillers {
+   display: none;
+}
+body #selection-container {
+   position: relative;
+   display: inline-block;
+   width: 200%;
+   height: 100%;
+   margin-top: 50px;
+   border: 1px solid red;
+}
+
+body #selection-container .mason_filler{
+
+}
+
+body #selection-container .mason_filler{
+   position: relative;
+   float: left;
+
+
+}
+.livre {
+   width: 100%;
+}
+
+.view {
+   display: none;
+   position: fixed;
+   width: 100%;
+   height: 100%;
+   top: 0;
+   right: 0;
+   z-index: 100;
+}
+
+.view_visible {
+   display:inline-block;
+}
+
+body,
+#livre_container,
+#livre_bg,
+#a_propos_container,
+#a_propos_bg{
+   height: 100%;
+   width: 100%;
+}
+
+#livre_bg {
+   height: 100%;
+   width: 100%;
+   z-index: 0;
+}
+
+body,
+#livre_container,
+#a_propos_container {
+   overflow-y: hidden;  
+}
+
+.livre_desc,
+.a_propos_desc {
+   z-index: 100;
+   position: fixed;
+   display: inline;
+   background: white;
+   padding: 10px;
+   top: 20%;
+   left: 40%;
+   height: 500px;
+   width: 600px;
+}
+
+
+
+#livre_cover {
+   height: 300px;
+}
+
+.livre_cover {
+   width: 50%;
    display: inline-block;
 }
