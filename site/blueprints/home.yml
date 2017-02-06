@@ -1,0 +1,15 @@
+title: Home
+
+pages:
+  template:
+    - default
+    - selection
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  text:
+    label: Text
+    type:  textarea

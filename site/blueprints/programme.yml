@@ -1,0 +1,16 @@
+title: Programme
+
+pages: false
+
+pages:
+  template:
+    - Sous-page
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  text:
+    label: Text
+    type:  yakme

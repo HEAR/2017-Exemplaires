@@ -1,0 +1,1112 @@
+/* RESET */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	vertical-align: baseline;
+	box-sizing: border-box;
+
+}
+
+li, ul, a {
+
+	text-decoration: none;
+	color: inherit;
+}
+
+li{
+
+	list-style: none;
+}
+
+
+/* --------------- scrollbar --------------- */
+
+/* Réglages généraux (largeur) */
+::-webkit-scrollbar {width: 10px; position: fixed; right: 0px; margin-top:-20px;}
+::-moz-scrollbar {width: 10px; position: fixed; right: 0px; margin-top:-20px;}
+
+/* Réglages de la barre contenante */
+::-webkit-scrollbar-track-piece {background-color: none;}
+::-moz-scrollbar-track-piece {background-color: none;}
+
+/* Réglages de la barre contenue */
+::-webkit-scrollbar-thumb {background: rgba(255, 255, 255, 1);}
+::-moz-scrollbar-thumb {background: rgba(255, 255, 255, 1);}
+
+
+/* FONTS */
+
+@font-face {
+	font-family: "newCentury";
+	src: url('../fonts/newCentuSchool/New_Century_Schoolbook_V1.ttf') format('ttf'),
+		 url('../fonts/newCentuSchool/New_Century_Schoolbook_V1.eot') format('eot'),
+		 url('../fonts/newCentuSchool/New_Century_Schoolbook_V1.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+
+	font-family: "newCentury";
+	src: url('../fonts/newCentuSchool/ufonts.com_century-schoolbook-bold.ttf');
+	font-weight: bold;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'akkurat';
+	src: url('../fonts/ak/ak.ttf') format('ttf'),
+		 url('../fonts/ak/ak.eot') format('eot'),
+		 url('../fonts/ak/ak.woff') format('woff'),
+		 url('../fonts/ak/ak.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
+/* TOUS : CONTAINERS */
+
+
+html{
+
+	font-size: 14px;
+}
+
+body{
+	font-family: "newCentury";
+	position: absolute;
+	width:100%;
+	background: #ffffff url('../images/fonds/base/bg.png') no-repeat left top;
+	background-repeat: repeat;
+	background-size: 1600px;
+	height: 100%;
+	z-index:-1;   
+
+}
+
+
+
+
+.infos {
+
+   padding: 1.4rem;
+    height: 12rem;
+    width:18rem;
+    line-height: 1.6rem;
+    background-color: #ffffff;
+    overflow: visible;
+    z-index: 0;
+
+
+}
+
+nav {
+
+	display: block;
+	width: 18rem;
+	position: absolute;
+	padding: 2.2rem;
+	padding-top: 0;
+	height: 18rem;
+	top: 18rem;
+	margin-left: 0;
+	background-color: #ffffff;
+	z-index: 1;
+
+}
+
+#container{
+
+}
+
+
+
+.rubrique{
+	border: solid 0px black;
+	background-color: #ffffff;
+	line-height: 1.4rem;
+	vertical-align: top;
+	float: left;
+	padding: 1rem;
+	color: black;
+	padding-bottom: 5%;
+	left: 22rem;
+	top:8rem;
+	position: absolute;
+	z-index: 2;
+	width:50%;
+	margin-bottom: 2rem;
+}
+
+.rubrique#a_propos{
+
+}
+
+.rubrique#programme{
+
+	padding-right: 2rem;
+	padding-left: 2rem;
+
+}
+
+
+.rubrique#ecoles{
+
+	width:60rem;
+	padding-left: 0;
+	
+}
+
+
+
+#container {
+
+
+}
+
+
+
+footer{
+	
+	
+	transform:rotate(90deg);
+	position: absolute;
+	float: right;
+	bottom: 68px;
+	right: -176px;
+	width: 380px;
+	background-color: white;
+	z-index: 0;
+	font-size: 12px;
+}
+
+/* TEXT */
+
+/* TOUS */
+
+.invisible{
+
+	display: none;
+}
+
+.visible{
+
+	display: block;
+}
+
+
+.akkurat{
+
+	font-family: akkurat;
+}
+/* TOUS : TITRE */
+.infos h1{
+	font-size: 3.2rem;
+	line-height: 1;
+}
+
+.infos h2 {
+	font-family: "akkurat";
+	padding-left: 2.2rem;
+	padding-top: 0.6rem;
+	font-size: 1.4rem;
+	line-height: 1.8rem;
+}
+
+
+
+/* TOUS : MENU */
+
+ul.menu{
+	font-family: "akkurat";
+	font-size: 1.2rem;
+	line-height: 2rem;
+	background-color: white;
+}
+
+
+li.menu-item{
+	padding-left: 1.4rem;
+}
+
+li.menu-item:hover, li.menu-item.is-active {
+	background-color: #000000;
+	color:#ffffff;
+	cursor: pointer;
+
+
+}
+
+
+li.menu-item#contact{
+	margin-top:0.8rem;
+	padding-bottom: 1rem;
+}
+
+/* TOUS : MENU > SELECTIONS */
+
+ul.sous-menu {
+
+		margin-bottom:0.4rem;
+		margin-top:0.4rem;
+		padding-left: 0rem;
+		font-size: 1rem;
+		line-height: 1.5rem;
+
+
+}
+
+
+.puce{
+
+	color: white;
+	font-size: 1.2rem;
+}
+
+ul.sous-menu li.is-active, ul.sous-menu li:hover {
+
+	background-color: #ffffff;
+	color: #000000;
+
+}
+
+ul.sous-menu li.is-active  .puce, ul.sous-menu li:hover  .puce{
+
+	color: #000000;
+}
+
+ul.menu.programme #liste-programme, ul.menu.selection #liste-selection, ul.menu.home #liste-selection{
+
+	background-color: black;
+	color: white;
+}
+
+/*PAGE : HOME*/
+
+#home table{
+
+	margin-top: 1em;
+}
+
+sup { 
+    vertical-align: super;
+    font-size: 0.6em;
+}
+
+#home table td:first-of-type{
+
+	width:2em;
+	text-align: center;
+}
+
+/*PAGE : A PROPOS*/
+
+#a-propos.rubrique{
+
+	width: 40rem;
+}
+
+#a-propos h2{
+	font-size: 1.4rem;
+	line-height: 1.8rem;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+	margin-left: 1.8rem;
+}
+
+#a-propos h2:first-of-type{
+	margin-top: 0;
+}
+
+#a-propos p{
+	padding-top: 0;
+	font-size: 1rem;
+	margin-bottom: 0.4rem;
+}
+
+.lettrine{
+
+	font-size: 2.4rem;
+	display: inline-block;
+	padding-top: 0.8rem;
+	margin-left: 0.2rem;
+	margin-right: 0.2rem;
+	float: left;
+}
+
+/* PAGE : HOME */
+
+#home {
+
+	padding-top: 2rem;
+	font-size: 3rem;
+	line-height: 3.8rem;
+}
+
+#home ul {
+
+	margin-top: 2rem;
+}
+
+/* PAGE : ECOLES */
+
+#ecoles.rubrique{
+
+/*	background-color: black;
+	color: white;*/
+	border-bottom: solid 4rem black;
+
+}
+
+#ecoles h1{
+
+	font-size: 1.6rem;
+	margin-bottom: 0.5em;
+
+}
+
+#ecoles h2{
+
+	font-size: 1.2rem;
+}
+
+#ecoles p{
+	font-size: 1rem;
+	line-height: 1.4rem;
+
+
+	
+}
+
+#ecoles h2{
+
+
+		margin-bottom: 0.4rem;
+
+
+
+
+}
+
+#ecoles em{
+
+	font-family: akkurat;
+
+
+}
+
+#ecoles ul{
+
+	display: flex;
+	flex-wrap:wrap;
+
+}
+
+#ecoles li{
+	display: block;
+	text-align: center;
+	margin: 1rem;
+	width: 17.5rem;
+}
+
+#ecoles.rubrique a:hover{
+
+	text-decoration: underline;
+}
+
+/* PAGE : INTERVENANTS */
+
+
+
+#intervenants li li{
+
+	font-size: 1rem;
+	font-family: akkurat;
+
+}
+
+#intervenants>ul{
+
+	width: 34rem;
+}
+
+#intervenants h1{
+
+	font-family: akkurat;
+	font-size: 1.6rem;
+	margin-bottom: 2rem;
+	margin-top: 1.6rem;
+	width: 6rem;
+	padding-left: 1rem; 
+}
+
+
+#intervenants h2{
+
+	font-size: 1.6rem;
+	margin-top: 1.6rem;
+	margin-right: 10rem;
+
+}
+
+
+
+#intervenants h2:hover{
+
+	font-style: italic;
+}
+
+#intervenants h2:hover em{
+	font-style: normal;
+
+}
+#intervenants h1 + ul {
+
+margin-top: 0rem;
+}
+
+
+#intervenants ul li li:nth-child(2) {
+
+	
+	margin-top: 0.6rem;
+}
+
+#intervenants li li:nth-child(1) {
+
+	margin-left: 1.2rem;
+	margin-top: 0.8rem;
+	width: 90%;
+	margin-bottom: 1rem;
+
+}
+
+#intervenants ul li:hover {
+	cursor: pointer;
+}
+
+
+
+
+.rubrique#intervenants{
+
+	margin-left: 3rem;
+	display: flex;
+	flex-wrap:wrap;
+
+
+}
+
+/* PAGE : PROGRAMME */
+
+
+#programme.rubrique{
+
+	width: 50rem;
+	padding: 1rem;
+	margin-bottom: 2.2rem;
+	padding-bottom: 2rem;
+	
+
+}
+
+#programme ul {
+
+	display: flex;
+	flex-wrap:wrap;
+/*	flex-direction: column;
+	height: 80rem;*/
+	
+
+}
+
+#programme ul>li{
+
+	width: 50%;
+	margin-bottom: 2rem;
+	align-self:flex-start;
+}
+
+#programme h1{
+
+	font-size: 1.4rem;
+	line-height: 1.7rem;
+
+
+}
+
+#programme h1 em, #programme h2, #programme h3, #programme h4{
+
+	margin-left: 1.2rem;
+}
+#programme h2{
+
+	font-size: 1.2rem;
+	font-family: akkurat;
+}
+ #programme h3 {
+
+	font-family: akkurat;
+	font-size: 1rem;
+
+
+
+}
+
+#programme h3 sup {
+
+	font-size: 0.6rem;
+	vertical-align: super;
+	line-height: 1rem;
+
+}
+
+
+#programme h4 {
+
+	font-size: 1rem;
+
+
+}
+
+#programme h3 strong{
+
+}
+
+
+#programme .colloque h1 {
+
+	font-size: 1.8rem;
+	margin-top: 1.6rem;
+	margin-bottom: 1rem;
+
+}
+
+#programme .colloque h2 {
+
+	text-align: left;
+	font-size: 1.6rem;
+	line-height: 3rem;
+	font-family: akkurat;
+
+}
+
+
+
+
+
+
+
+
+
+#programme h6{
+
+	font-size:1.2rem;
+	line-height: 1.6rem;
+}
+
+#programme p {
+
+	margin-left: 1rem;
+	margin-top: 0.8rem;
+	margin-bottom: 1.2rem;
+}
+
+/* PAGE : accés */
+
+#acces h1{
+   font-size: 1.5rem;
+   line-height: 1.5rem;
+   margin: 0;
+}
+
+#acces h2{
+   font-size: 20px;
+}
+
+#acces p{
+   font-family: 'akkurat';
+   font-size: 1rem;
+   margin-left: 2rem;
+   display: none;
+}
+#acces li.visible p{
+   display: inline-block;
+}
+
+#acces ul{
+   background: white;
+   color: black;
+   width: 330px;
+   overflow: scroll;
+   overflow-x: hidden;
+}
+
+#acces li{
+   margin: 1rem 0;
+   padding-bottom: 1rem;
+   border-bottom: 1px solid black;
+}
+#acces ul li:first-child{
+   margin-top: 0;
+}
+
+#acces #locate{
+   position: absolute;
+   left: 350px;
+   top: 0;
+   width: 580px;
+   height: 500px;
+   background: black;
+}
+
+#acces li:hover h1{
+   font-style: italic;
+}
+
+.colloque{
+
+	width: 52rem;
+
+
+}
+
+.bas{
+
+	margin-left: 1.6rem;
+}
+
+.events{
+
+	background-color: black;
+	color: white;
+	margin-left: 2.2rem;
+	padding: 0.8rem;
+	width: 22em;
+	height: 72em;
+}
+
+
+table{
+
+	margin: 0;
+}
+
+table.prog{
+
+	width:95%;
+	line-height: 1.4rem;
+	margin-bottom: 1.4rem;
+	border:0;
+	border-collapse:collapse;
+	border-spacing:0;
+	color: inherit;
+	margin-left: 1.6rem;
+	margin-top: 0.8rem;
+	padding-top: 0;
+
+
+
+}
+
+
+table.prog td{
+
+	vertical-align: top;
+	border: 0;
+	border-bottom:solid 1px black;
+	padding-top: 0.2rem;
+	padding-bottom: 0.2rem;
+
+
+}
+td.heure, td.lieu{
+
+	font-family: "akkurat";
+
+
+}
+
+td.event, td.inter, td.heure{
+
+
+
+
+
+}
+
+.detail{
+
+	width:175%;
+	padding-top: 0.4em;
+	padding-bottom: 0.4em;
+	padding-left: 0;
+
+}
+
+td.inter:hover{
+
+	cursor: pointer;
+	font-style: italic;
+
+}
+
+td.event:hover .detail{
+
+	cursor: default;
+	font-style: normal;
+
+
+}   
+
+.i{
+	float: right;
+	margin-right: 1.2rem;
+	font-size: 1.4rem;
+	font-style: normal;
+}
+
+td.inter .i:hover{
+
+	font-style: normal;
+}
+.lieuPlus{
+	font-size: 0.8em;
+	font-family: akkurat;
+}
+td.lunch{font-style: oblique;}
+
+td.lieu{width:22%; border: solid 1px;}
+td.heure{width:10%;  }
+td.event, td.empty{width:39%;}
+td.invite{width:29%;}
+
+.noInter{padding-left: 0.8em;}
+
+td.event:hover{
+
+	font-style: italic;
+	cursor: pointer;
+}
+
+
+
+/* PAGE : PARTENAIRES */
+
+#partenaires h1:first-of-type {
+	margin-top: 0;
+
+}
+
+#partenaires h1 {
+
+	font-size: 1.8rem;
+	line-height: 2.4rem;
+	font-family: akkurat;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+#partenaires ul li  {
+
+	font-size: 1rem;
+	margin-left: 24px;
+	line-height: 24px;
+	margin-bottom: 8px;
+	margin-top: 8px;
+	font-family: akkurat;
+
+}
+
+#partenaires em{
+
+	font-family: akkurat;
+}
+
+#partenaires h2 em{
+
+	font-size: 15px;
+}
+
+#partenaires strong{
+
+	display: block;
+	margin-top: 0.4rem;
+	font-family: akkurat;
+	font-size: 1rem;
+	margin-bottom: 0;
+
+}
+
+
+#partenaires>ul:first-of-type{
+
+	display: block;
+}
+
+#partenaires>ul  {
+
+	display: flex;
+	flex-wrap:wrap;
+	overflow: visible;
+	
+
+}
+
+#partenaires ul li h2  {
+
+	font-family: newCentury;
+	font-size: 16px;
+	margin-top:12px;
+	line-height: 18px;
+}
+
+#partenaires ul li h2 a {
+	font-size: 13px;
+	font-family: akkurat;
+	text-decoration: underline;
+
+}
+
+#partenaires ul li h2 a:hover {
+
+
+	text-decoration: none;
+
+}
+
+#partenaires li ul{
+
+	margin-top: 0.5em;
+
+}
+
+
+
+#partenaires li ul li {
+
+	width: 200px;
+
+margin-bottom: 0;
+margin-left: 1rem;
+margin-top: 0;
+font-size: 13px;
+line-height: 16px;
+font-family: newCentury;
+
+}
+
+#partenaires  h3{
+		width: 200px;
+		margin-top: 0;
+		line-height: 1.4rem;
+	margin-right: 4rem;
+	margin-left: 1rem;
+}
+
+
+/* Mosaique */
+
+.mosaic_livre{
+   display: inline-block;
+   margin: 0 30px 30px 0;
+}
+
+.mosaic_livre div{
+   position: fixed;
+   z-index: 10000;
+   top: 80px;
+   right: 50px;
+}
+
+.mosaic_livre div h3{
+   font-size: 24px;
+   line-height: 26px;
+}
+
+.mosaic_livre div h4{
+   font-family: 'akkurat';
+   font-size: 14px;
+   line-height: 18px;
+}
+
+.mosaic_livre div h3,
+.mosaic_livre div h4{
+   width: 180px;
+   margin: 10px;
+   color: black;
+   visibility: hidden;
+}
+
+.mosaic_livre:hover div h3,
+.mosaic_livre:hover div h4{
+   visibility: visible;
+}
+
+
+/* Liste */
+
+.list_livre{
+   display: inline-block;
+   margin: 0 30px 30px 0;
+}
+
+.list_livre div{
+   position: fixed;
+   z-index: 10000;
+   top: 190px;
+   right: 50px;
+}
+
+.list_livre div h3{
+   font-size: 24px;
+   line-height: 26px;
+}
+
+.list_livre div h4{
+   font-family: 'akkurat';
+   font-size: 14px;
+   line-height: 18px;
+}
+
+.list_header h1{
+
+}
+
+.list_livre div h3,
+.list_livre div h4{
+   width: 180px;
+   margin: 10px;
+   color: black;
+   visibility: hidden;
+}
+
+.list_livre:hover div h3,
+.list_livre:hover div h4{
+   visibility: visible;
+}
+
+#encart{
+   background: white;
+   position: fixed;
+   z-index: -1;
+   top: 80px;
+   right: 50px;
+   width: 200px;
+   height: 700px;
+}
+
+.cf{
+}
+
+#home{
+   width: 100%;
+   background: none;
+}
+
+#mosaic{
+   width: calc(100% - 500px);
+   height: 750px;
+   position: fixed;
+   left: 250px;
+   top: 125px;
+   overflow: hidden;
+   z-index: -1;
+   /* background: white;*/
+}
+/*
+#selection{
+   width: calc(100% - 400px);
+   height: 750px;
+   position: fixed;
+   left: 300px;
+   top: 100px;
+   overflow: hidden;
+   z-index: -1;
+}
+*/
+
+#mosaic-scroll{
+   width: 250%;
+   height: 100%;
+   z-index: 100;
+}#mosaic-scroll:first-child{
+   margin-left: 50px;
+}#mosaic-scroll ul{
+   width: 100%;
+   list-style: none;
+   padding: 0;
+   margin: 0 0 0 50px;
+}
+
+#mosaic header{
+   position: fixed;
+   z-index: 999999;
+   width: 180px;
+   top: 90px;
+   right: 60px;
+}
+
+
+#cover_list{
+   padding-top: 30px;
+}.cover{
+   z-index: 9999;
+   height: 450px;
+   display: inline;
+   margin-bottom: 10px;
+}
+
+#livre-info{
+   z-index: -10;
+   position: absolute;
+   top: -20px;
+   right: -260px;
+   width: 200px;
+   background: white;
+   color: black;
+   padding: 20px;
+}
+
+#livre-info ul,
+#livre-info p:first-child{
+   margin-bottom: 10px;
+}
+.intro p:first-child,
+#livre-info ul{
+   font-family: 'akkurat';
+   font-size: 14px;
+}
+#livre-info p:first-child,
+.rubrique h1,
+.wrap h1{
+   margin-bottom: 10px;
+   font-size: 32px;
+   line-height: 34px;
+}
+
+figure{
+   display: inline-block;
+}
+
+
+

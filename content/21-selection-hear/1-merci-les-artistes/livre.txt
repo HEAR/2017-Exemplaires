@@ -1,0 +1,45 @@
+Title: Merci les artistes
+
+----
+
+Year: 2012
+
+----
+
+Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Width: 187
+
+----
+
+Height: 290
+
+----
+
+Nbrpages: 5
+
+----
+
+Isbn: 
+
+----
+
+Author: Bunk Edition
+
+----
+
+Graphisme: Bunk Edition
+
+----
+
+Editor: Bunk Edition
+
+----
+
+Website: www.bunkedition.fr
+
+----
+
+Price: 5€

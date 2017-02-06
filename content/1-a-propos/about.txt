@@ -1,0 +1,28 @@
+Title: À propos
+
+----
+
+Text: 
+
+<h2>Origines</h2>
+<p><div class='lettrine'>C</div>e projet de biennale est né du constat qu’il existe  actuellement un intérêt grandissant pour les pratiques éditoriales.
+Il s’agit en effet d’un secteur en pleine mutation qui ne cesse de redéfinir ses formes et ses pratiques ;
+avec le développement de l’édition électronique, mais aussi grâce à l’évolution des technologies de l’imprimerie,
+ également liées au numérique, et à une meilleure connaissance de ce domaine, très investi dans les  écoles d’art.
+</p>
+
+<p><div class='lettrine'>O</div>n remarque qu’en France, le design éditorial rattrape enfin son retard pour acquérir ces dernières années,
+ une certaine maturité. Il convient donc d’encourager et  de valoriser ces nouvelles démarches et les réflexions qu’elles entraînent,
+ notamment auprès des étudiants en design graphique. Ces terrains éditoriaux leur permettent de développer des pratiques qui débordent
+ du seul  champ du design graphique et mêlent les disciplines.
+</p>
+
+<h2>Objectifs</h2>
+
+<p><div class='lettrine'>C</div>ette biennale est ainsi une occasion de susciter ces questionnements par un colloque associé à une exposition présentant
+un ensemble de sélections d’ouvrages que  les étudiants en écoles d’art ont jugés “exemplaires”. Cette démarche ne s’apparente pas
+à un concours (il n’y a pas  de prix décerné) mais est le fruit d’une réflexion collective de plusieurs mois sur les pratiques éditoriales.
+Ainsi,  il ne s’agit pas de juger seulement de l’apparence graphique d’objets éditoriaux mais plutôt de la cohérence entre forme et
+contenus ; pour cette raison, la biennale  est dédiée au domaine francophone, puisque ce critère permet de faciliter l’accès aux contenus,
+aux textes, etc.  De plus, le principe de francophonie permet d’élargir  les problématiques au-delà d’une seule “scène” nationale.
+</p>

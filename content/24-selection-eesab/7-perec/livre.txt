@@ -1,0 +1,45 @@
+Title: Perec
+
+----
+
+Year: 2016
+
+----
+
+Text: Résumé
+
+----
+
+Width: 210
+
+----
+
+Height: 270
+
+----
+
+Nbrpages: 280
+
+----
+
+Isbn: 9782851971869
+
+----
+
+Author: Claude Burgelin, Maryline Heck et Christelle Reggiani
+
+----
+
+Graphisme: L'Herne
+
+----
+
+Editor: L'Herne collection des cahier de l'Herne
+
+----
+
+website: http://www.editionsdelherne.com/
+
+----
+
+Price: 29€

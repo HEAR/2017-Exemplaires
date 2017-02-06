@@ -1,0 +1,45 @@
+Title: Karoo
+
+----
+
+Year: 2012
+
+----
+
+Author: Steve Tesich
+
+----
+
+Graphisme: 
+
+----
+
+Editor: Monsieur Toussaint l'Ouverture
+
+----
+
+Website: http://www.monsieurtoussaintlouverture.net/index.html
+
+----
+
+Price: 22€
+
+----
+
+Text: Résumé
+
+----
+
+Width: 140
+
+----
+
+Height: 195
+
+----
+
+Nbrpages: 608
+
+----
+
+Isbn: 

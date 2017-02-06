@@ -1,0 +1,45 @@
+Title: Renaissance noire
+
+----
+
+Year: 2016
+
+----
+
+Text: Résumé
+
+----
+
+Width: 135
+
+----
+
+Height: 200
+
+----
+
+Nbrpages: 240
+
+----
+
+Isbn: 9782960155945
+
+----
+
+Author: Miklos Szentkuthy
+
+----
+
+Graphisme: 
+
+----
+
+Editor: Vies Parallèles
+
+----
+
+Website: http://www.vies-paralleles.org/livres/
+
+----
+
+Price: 22€
