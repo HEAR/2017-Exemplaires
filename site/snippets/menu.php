@@ -13,7 +13,7 @@
 	?>">
 	
 	
-		<li class="menu-item" id="liste-selection">
+<!-- 		<li class="menu-item" id="liste-selection">
 		<a href="<?= url() ?>" rel="home">Sélections</a>
 		</li>
 		
@@ -29,7 +29,7 @@
 				</li>
 			<?php endforeach ?>
 
-		</ul> 
+		</ul>  -->
 
 
 		<li class="menu-item" id="liste-programme">	
@@ -57,6 +57,7 @@
 				<a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
 			</li>
 		<?php endforeach ?>
+	</ul>
 </nav>
 
 

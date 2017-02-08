@@ -7,7 +7,8 @@ email: marianne.plano@hear.fr
 language: fr
 role: admin
 history:
+  - programme-colloque
   - programme
-  - programme-selections-2015-2017
-  - programme-fonds-soenneken
-  - programme-exemplaires
+  - programme-20-000-exemplaires
+  - credits
+  - ecoles

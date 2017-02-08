@@ -101,7 +101,7 @@ function book_glitch(target){
 		var hidden = $(this).find('.detail');
 
 		$(this).click(function(){
-			$(hidden).toggle();
+			$(hidden).toggleClass('invisible');
 		});
 
 	});
@@ -160,7 +160,9 @@ $('ul.menu.programme').find('ul.sous-menu#programme').removeClass('invisible');
 $('ul.menu.selection').find('ul.sous-menu#selection').removeClass('invisible');
 $('ul.menu.home').find('ul.sous-menu#selection').removeClass('invisible');
 
-   
+ 
+
+
 // Horizontal Scroll
 
 $('#mosaic, #mosaic-scroll').mousewheel(function(e, delta) {
@@ -168,54 +170,78 @@ $('#mosaic, #mosaic-scroll').mousewheel(function(e, delta) {
    e.preventDefault();
 });
 
-   // Random background
+ // TOUTES : RANDOM COLOR
 
-   var link = [];
-   link[0] = "assets/css/green.css";
-   link[1] = "assets/css/blue.css";
-   link[2] = "assets/css/red.css";
+var fonds= new Array('assets/images/fonds/base/grand-fond-bleu.png','assets/images/fonds/base/grand-fond-rouge9.png','assets/images/fonds/base/grand-fond-vert1.png');
+var couleurs=new Array('rgb(0,0,255)','rgb(255,0,0)','rgb(0,255,0)');
+var rand=Math.floor(Math.random()*fonds.length);
 
+//TOUTES : Background
 
-   $(function() {
-      var style = link[Math.floor(Math.random() * link.length )];
-      $('<link />',{
-         rel :'stylesheet',
-         type:'text/css',
-         href: style
-      }).appendTo('head');
-   });
+$("body").css({"background-image":"url('"+fonds[rand]+"')"});
 
-   // Random background pour les pages de livres
+// PROGRAMME GENERAL : Highline h1 
 
-   var underlink = [];
-   underlink[0] = "../assets/css/green.css";
-   underlink[1] = "../assets/css/blue.css";
-   underlink[2] = "../assets/css/red.css";
+$("#programme h1").hover(function(){
+	if(rand==2){
+	$(this).css({"background-color": couleurs[rand], 'color':'black'});
+	
+	}else {
+	$(this).css({"background-color": couleurs[rand], 'color':'white'});
 
+	}
 
-   $(function() {
-      var style = underlink[Math.floor(Math.random() * underlink.length )];
-      $('<link />',{
-         rel :'stylesheet',
-         type:'text/css',
-         href: style
-      }).appendTo('head');
-   });
+	}, function() {
 
-   // Accés
-   
-   $('#acces li').on('click', function(e){
-      $('#acces li').removeClass('visible');
-   })
-   $('#acces li').on('click', function(e){
-      $(this).addClass('visible');
-   })
-   
-   // End
+	$(this).css({"background-color": "white", 'color':'black'});
+
+	}
+);
+
+// PROGRAMME COLLOQUE : Change color text + arrow
+
+//var under=new Array("td.inter","#intervenants h2",".rubrique#ecoles a");
+var under=new Array(".rubrique#intervenants a",".rubrique#ecoles a",".rubrique#credits a")
+
+$.each(under, function(i, item) {
+$(under[i]).hover(function(){
+	
+	$(this).find(".detail").css({"color":"black"});
+	$(this).css({"color":couleurs[rand]});
+
+	}, function() {
+
+	$(this).css({"color":"black"});
+	
+	}
+
+);
+});
+// PROGRAMME COLLOQUE : Intervenants
+var liens=new Array("td.invite a", "#programme-colloque h3 a");
+$.each(liens, function(i, item) {
+$(liens[i]).hover(function(){
+	if(rand==2){
+	$(this).css({"background-color": couleurs[rand], "color":"black"});
+	
+	}else {
+	$(this).css({"background-color": couleurs[rand], 'color':'white'});
+
+	}
+
+	}, function() {
+
+	$(this).css({"background-color": "transparent", 'color':'black'});
+
+	}
+);
+
+});
+
+ $('#credits ul').masonry({
+  itemSelector: '#credits ul li',
+  columnWidth: 160
 });
 
 
-
-
-
-
+});

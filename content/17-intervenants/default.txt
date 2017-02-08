@@ -6,86 +6,97 @@ Text:
 
 #C 
 * ##Copeland, Matthieu *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
-	* 31.03 :  « Conférence » (fr)
-	* 09h30 	&ndash;  Salle Pasteur
+	* Artiste, commissaire d'exposition et éditeur, Mathieu Copeland cultive une pratique cherchant à subvertir le rôle traditionnel des expositions et à en renouveler la perception en renégociant le rapport du spectateur aux oeuvres. Il a notamment organisé les expositions Vides (aux côtés de Laurent Le Bon, John Armleder, Gustav Metzger, Mai-Thu Perret et Clive Phillpot) au Centre Pompidou et à la Kunsthalle Bern en 2009 et Suite pour exposition(s) et publication(s) au Jeu de Paume en 2013.</br>Il enseigne à la Haute École d’art et de design de Genève.
+<a href="http://www.mathieucopeland.net/" target="_blank">mathieucopeland.net</a>
+	* 31.03 :  « Conférence » <span class='langue'> FR</span>
+	* 09h &ndash;  Salle Pasteur
 
 * ##Courant, Jean-Marie *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
+	* BIO MISSING
 	* 01.04 :  Modération
 	* Matinée 	&ndash;  Auditorium
 
 #F
 * ##Fourgeaud, Nicolas *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
+	* BIO MISSING
 	* 31.03  -  Modération
-	* Matinée, après-midi &ndash; Palais Universitaire
+	* Matinée, après-midi &ndash; Salle Pasteur
 
 
 #G
 * ##Gauthier, Michel *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
-	* 31.03 :  « Conférence » (fr)
-	* 14h 	&ndash;  Aula
+	* Critique d'art, conservateur au service des collections du Musée</br>national d'art moderne, directeur de la collection "L'espace littéraire" aux Presses du réel et conseiller éditorial pour la revue 20/27, Michel Gauthier collabore régulièrement aux Cahiers</br>du Musée national d'art moderne où il a notamment publié des études sur Brancusi, Morris Louis, Richard Serra, Didier</br>Vermeiren ou Andreas Gursky.
+	* 31.03 :  « Conférence » <span class='langue'> FR</span>
+	* 10h &ndash; Salle Pasteur
 
 * ##Geers, Alexie *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
-	* 01.04 :  « Conférence » (fr)
-	* 09h30 	&ndash;  Auditorium
+	* À COMPLETER. Docteure en Histoire Visuelle (2016). Thèse de doctorat réalisée au Lhivic (Ehess) sous la direction d’André Gunthert et de Rose-Marie Lagrave (Iris, Ehess). 
+<a href='http://apparences.hypotheses.org/' target='_blank'>apparences.hypotheses.org</a>
+	* 01.04 :  « Conférence » <span class='langue'> FR</span>
+	* 09h 	&ndash;  Auditorium
 
 * ##Gonzales Foster, Dominique *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
-	* 31.03 - 	« Conférence » (fr)
-	* 14h &ndash;  Salle Pasteur
+	* La pratique de Dominique Gonzales-Foester questionne le temps et l'espace, elle se concentre autour de "l'apparition, qui implique aussi une disparition". Ses expositions les plus récentes sont 1887-2058 au Centre Pompidou et K.20 à Dusseldorf en 2015 et 2016, Temporama au Mam, Rio de Janeiro en 2015 et Splendide Hotel au Palacio de Cristal/Museo Reina Sofia à Madrid en 2014. Elle a également participé à la Documenta XI à Kassel en 2002.
+<a href='http://www.dgf5.com/' target='_blank'>dgf5.com</a>
+	* 31.03 - 	« Conférence » <span class='langue'> FR</span>
+	* 11h &ndash;  Salle Pasteur
 
 * ##Grootens, Joost *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
-	* 31.30.03 - 	« Conférence n°1 » (fr)
-	* 14h &ndash;  Aula
+	* BIO À ÉCRIRE
+	<a href='http://www.joostgrootens.nl/' target='_blank'>joostgrootens.nl</a>
+	* 31.03 - 	« Conférence » <span class='langue'> EN</span>
+	* 16h &ndash; Salle Pasteur
 
 #K
 * ##Kemper, Christoph *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
-	* 31.30.03 - 	« Conférence n°1 »
-	* 14h &ndash;  Aula
+	* BIO À ÉCRIRE
+	SITE ?
+	* 30.03 - 	« Conférence » <span class='langue'> EN</span>
+	* 14h &ndash;  Salle Pasteur
 
 #M
 * ##Mars, Marcell *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
-	* 31.30.03 - 	« Conférence n°1 »
-	* 14h &ndash;  Aula
+	* BIO À ÉCRIRE
+	SITE ?
+	* 30.03 - 	« Conférence »  <span class='langue'> EN</span>
+	* 15h30 &ndash;  Salle Pasteur
 
 #R
 * ##Raeder, Manuel *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
-	* 31.30.03 - 	« Conférence n°1 »
-	* 14h &ndash;  Aula
+	* Manuel Raeder a fondé son studio en 2003. Son travail est interdisciplinaire et explore la porosité des limites entre création d'expositions, graphisme, édition, typographie et design d'objet. Le studio travaille autant avec des artistes que des institutions. En 2011, Manuel Raeder a créé la maison d'édition BOM DIA BOA TARDE BOA NOITE avec Manuel Goller.
+<a href='www.bomdiabooks.de' target='_blank' style='margin-bottom:0;'>bomdiabooks.de</a>
+<a href='http://www.manuelraeder.co.uk/' target='_blank' style='margin-top:0;'>manuelraeder.co.uk</a>
+	* 31.03 - 	« Conférence » <span class='langue'> EN</span>
+	* 15h &ndash;  Salle Pasteur
 
 #S
 * ##Saint-Loubert Bié, Jérôme *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
-	* 31.30.03 - 	« Conférence n°1 »
-	* 14h &ndash;  Aula
+	* ?
+	* ? - 	« Conférence »
+	* ? &ndash;  ?
 
 * ##de Smet, Catherine *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
+	* BIO MISSING
 	* 31.03  -  Modération
-	* Matinée, après-midi &ndash; Palais Universitaire
+	* Matinée, après-midi &ndash; Salle Pasteur
 	
 #T
 * ##Tloupas/Petronio *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
-	* 31.30.03 - 	« Conférence n°1 »
-	* 14h &ndash;  Aula
+	* BIO À ÉCRIRE
+	SITE ?
+	* 01.04 - 	« Conférence » <span class='langue'> FR</span>
+	* 11h &ndash;  Auditorium
 
 #V
 * ##Vasquez, Adrien *&#65515;* 
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
-	* 31.30.03 - 	« Conférence n°1 »
-	* 14h &ndash;  Aula
+	* BIO À ÉCRIRE
+	SITE ?
+	* 31.30.03 - 	« Conférence » <span class='langue'> FR</span>
+	* 10h &ndash;  Auditorium
 
 #W
 * ##Willems, Roger *&#65515;*
-	* To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes.
-	* 31.30.03 - 	« Conférence n°1 »
-	* 14h &ndash;  Aula
+	* Roger Willems s'est spécialisé dans le graphisme éditorial</br>et travaille essentiellement pour des maisons d'édition et des institutions culturelles. Il a créé en 1998, avec Mark Manders</br>et Marc Nagtzaam, Roma Publications qui s'est développée jusqu'à devenir une plateforme de production et de distribution d'éditions en collaboration avec de nombreux artistes,</br>designers, écrivains et poètes.
+<a href='http://www.rogerwillems.nl/' target='_blank'>rogerwillems.nl</a>
+	* 31.03 - 	« Conférence » <span class='langue'> EN</span>
+	* 14h &ndash;  Salle Pasteur

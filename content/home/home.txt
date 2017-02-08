@@ -4,22 +4,28 @@ Title: Home
 
 Text: 
 
-2<sup>&thinsp;e</sup> Biennale
-Strasbourg
+<h1>2<sup>&thinsp;e</sup> Biennale</h1>
+<h1>Strasbourg</h1>
 
-<table>
-<tr>
-<td>1</td><td>Colloque</td>
+<table class='un'>
+<tr><td>9</td><td>Écoles</td>
 </tr><tr>
-<td>9</td><td>Écoles</td>
+<td>54</td><td>Objets éditoriaux sélectionnés</td>
 </tr><tr>
-<td>12</td><td>Invités</td>
+<td>21</td><td>Ouvrages de comparaison retenus</td>
 </tr><tr>
-<td>54</td><td>Éditions séléctionnées</td>
+<td>8</td><td>Expositions et présentations</td>
 </tr><tr>
-<td>7</td><td>Expositions / Présentations</td>
+<td>4</td><td>Demi-journées de colloque</td>
 </tr>
 </table>
+<table class='deux'>
+<tr><td>12</td><td>Conférences</td>
+</tr><tr>
+<td>4</td><td>Tables rondes</td>
+</tr><tr>
+<td>12</td><td>Invités</td>
+</tr></table>
 
 ----
 

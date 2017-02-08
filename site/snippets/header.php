@@ -7,7 +7,7 @@
 
 	<title><?= $site->title()->html() ?>&nbsp;2017 | <?= $page->title()->html() ?></title>
 	<meta name="description" content="<?= $site->description()->html() ?>">
-
+	<script src="https://npmcdn.com/masonry-layout@4.1/dist/masonry.pkgd.js"></script>
 	<?= css('assets/css/index.css') ?>
 
 	<?= js('assets/js/jquery-3.1.0.min.js') ?>
@@ -18,7 +18,9 @@
 
 	?>
 </head>
+
 <body>
+	
 
 	<div class='infos'>
 		<h1><a href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a>,</h1>
