@@ -28,7 +28,7 @@ Text:
             Détails de l'intervention. Détails de l'intervention. 
         </div>
     </td>
-    <td class='invite'><a href='intervenants'>Christoph Kemper</a> <span class='lieuPlus'>(?)</span></td>
+    <td class='invite'><a href='intervenants'>Christoph Kepper / Pedia Press </a> <span class='lieuPlus'>(?)</span></td>
 </tr>
 <tr>       
     <td class='heure'>15h30</td>
@@ -40,7 +40,7 @@ Text:
             Détails de l'intervention. Détails de l'intervention. 
         </div>
     </td>
-    <td class='invite'><a href='intervenants'>Marcell Mars</a><span class='lieuPlus'> (?)</span></td>
+    <td class='invite'><a href='intervenants'>Nenad Ronic aka Marcell Mars</a><span class='lieuPlus'> (?)</span></td>
 </tr>
 <tr>       
     <td class='heure'>16h30</td>
@@ -100,7 +100,7 @@ Text:
                 Détails de l'intervention. Détails de l'intervention. 
             </div>
         </td>
-        <td class='invite'><a href='intervenants'>Dominique Gonzales Foster</a></td>
+        <td class='invite'><a href='intervenants'>Dominique Gonzalez-Foerster</a></td>
     </tr>
     <tr>       
         <td class='heure'>12h</td>
@@ -124,7 +124,7 @@ Text:
                 Détails de l'intervention. Détails de l'intervention. 
             </div>
         </td>
-        <td class='invite'><a href='intervenants'>Roger Willems</a></td>
+        <td class='invite'><a href='intervenants'>Roger Willems / Roma Publications</a></td>
     </tr> 
     <tr>        
         <td class='heure'>15h</td>

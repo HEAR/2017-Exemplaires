@@ -7,8 +7,10 @@ email: fromager.florian@gmail.com
 language: fr
 role: admin
 history:
-  - programme-20-000-exemplaires
-  - programme
   - acces
+  - credits
+  - programme-petrole-editions
+  - programme-affiches-des-9-ecoles
+  - programme-quiproquo-2
 firstname: ""
 lastname: ""

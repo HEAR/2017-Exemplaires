@@ -5,64 +5,64 @@ Title: Intervenants
 Text: 
 
 #C 
-* ##Copeland, Matthieu *&#65515;*
-	* Artiste, commissaire d'exposition et éditeur, Mathieu Copeland cultive une pratique cherchant à subvertir le rôle traditionnel des expositions et à en renouveler la perception en renégociant le rapport du spectateur aux oeuvres. Il a notamment organisé les expositions Vides (aux côtés de Laurent Le Bon, John Armleder, Gustav Metzger, Mai-Thu Perret et Clive Phillpot) au Centre Pompidou et à la Kunsthalle Bern en 2009 et Suite pour exposition(s) et publication(s) au Jeu de Paume en 2013.</br>Il enseigne à la Haute École d’art et de design de Genève.
+* ##Mathieu Copeland *&#65515;*
+	* Artiste, commissaire d'exposition et éditeur, Mathieu Copeland cultive une pratique cherchant à subvertir le rôle traditionnel des expositions et à en renouveler la perception en renégociant le rapport du spectateur aux oeuvres. Il a notamment organisé les expositions <a href="http://www.lespressesdureel.com/ouvrage.php?id=1478" target="_blank">vide</a> (aux côtés de Laurent Le Bon, <a href="http://www.lespressesdureel.com/auteur.php?id=121" target="_blank">John Armleder</a>, Gustav Metzger, <a href="http://www.lespressesdureel.com/auteur.php?id=563" target="_blank">Mai-Thu Perret</a> et Clive Phillpot) au Centre Pompidou et à la Kunsthalle Bern en 2009 et Suite pour exposition(s) et publication(s) au Jeu de Paume en 2013.</br>Il enseigne à la Haute École d’art et de design de Genève.
 <a href="http://www.mathieucopeland.net/" target="_blank">mathieucopeland.net</a>
 	* 31.03 :  « Conférence » <span class='langue'> FR</span>
 	* 09h &ndash;  Salle Pasteur
 
-* ##Courant, Jean-Marie *&#65515;*
-	* BIO MISSING
+* ##Jean-Marie Courant *&#65515;*
+	* Designer graphique, enseignant à l'École nationale supérieure des beaux-arts de Lyon.
 	* 01.04 :  Modération
 	* Matinée 	&ndash;  Auditorium
 
 #F
-* ##Fourgeaud, Nicolas *&#65515;*
-	* BIO MISSING
+* ##Nicolas Fourgeaud *&#65515;*
+	* Docteur en histoire de l'art, enseignant à la Haute école des arts du Rhin, Strasbourg.
 	* 31.03  -  Modération
 	* Matinée, après-midi &ndash; Salle Pasteur
 
 
 #G
-* ##Gauthier, Michel *&#65515;*
-	* Critique d'art, conservateur au service des collections du Musée</br>national d'art moderne, directeur de la collection "L'espace littéraire" aux Presses du réel et conseiller éditorial pour la revue 20/27, Michel Gauthier collabore régulièrement aux Cahiers</br>du Musée national d'art moderne où il a notamment publié des études sur Brancusi, Morris Louis, Richard Serra, Didier</br>Vermeiren ou Andreas Gursky.
+* ##Michel Gauthier *&#65515;*
+	* Critique d'art, commissaire d'expositions, conservateur au service des collections du Musée national d'art moderne, directeur de la collection <a href="http://www.lespressesdureel.com/collection_serie.php?id=10" target="_blank">L'espace littéraire</a> aux Presses du réel et conseiller éditorial pour la revue <a href="http://www.lespressesdureel.com/magazine.php?id=104&menu=3" target="_blank">20/27</a>, Michel Gauthier collabore régulièrement aux Cahiers du Musée national d'art moderne, dans lesquels il a notamment publié “Dérives périphériques” dans le numéro 56 (été-automne 1996), consacré au catalogue. Il a également contribué en tant qu'auteur à de très nombreux catalogues d'expositions.
 	* 31.03 :  « Conférence » <span class='langue'> FR</span>
 	* 10h &ndash; Salle Pasteur
 
-* ##Geers, Alexie *&#65515;*
+* ##Alexie Geers *&#65515;*
 	* À COMPLETER. Docteure en Histoire Visuelle (2016). Thèse de doctorat réalisée au Lhivic (Ehess) sous la direction d’André Gunthert et de Rose-Marie Lagrave (Iris, Ehess). 
 <a href='http://apparences.hypotheses.org/' target='_blank'>apparences.hypotheses.org</a>
 	* 01.04 :  « Conférence » <span class='langue'> FR</span>
 	* 09h 	&ndash;  Auditorium
 
-* ##Gonzales Foster, Dominique *&#65515;*
-	* La pratique de Dominique Gonzales-Foester questionne le temps et l'espace, elle se concentre autour de "l'apparition, qui implique aussi une disparition". Ses expositions les plus récentes sont 1887-2058 au Centre Pompidou et K.20 à Dusseldorf en 2015 et 2016, Temporama au Mam, Rio de Janeiro en 2015 et Splendide Hotel au Palacio de Cristal/Museo Reina Sofia à Madrid en 2014. Elle a également participé à la Documenta XI à Kassel en 2002.
+* ##Dominique Gonzalez-Foerster *&#65515;*
+	* La pratique de Dominique Gonzalez-Foerster questionne le temps et l'espace, elle se concentre autour de "l'apparition, qui implique aussi une disparition". Ses expositions les plus récentes sont 1887-2058 au Centre Pompidou et K.20 à Dusseldorf en 2015 et 2016, Temporama au Mam, Rio de Janeiro en 2015 et Splendide Hotel au Palacio de Cristal/Museo Reina Sofia à Madrid en 2014. Elle a également participé à la Documenta XI à Kassel en 2002.
 <a href='http://www.dgf5.com/' target='_blank'>dgf5.com</a>
 	* 31.03 - 	« Conférence » <span class='langue'> FR</span>
 	* 11h &ndash;  Salle Pasteur
 
-* ##Grootens, Joost *&#65515;*
+* ##Joost Grootens *&#65515;*
 	* BIO À ÉCRIRE
 	<a href='http://www.joostgrootens.nl/' target='_blank'>joostgrootens.nl</a>
 	* 31.03 - 	« Conférence » <span class='langue'> EN</span>
 	* 16h &ndash; Salle Pasteur
 
 #K
-* ##Kemper, Christoph *&#65515;*
+* ##Christoph Kepper / Pedia Press *&#65515;*
 	* BIO À ÉCRIRE
 	SITE ?
 	* 30.03 - 	« Conférence » <span class='langue'> EN</span>
 	* 14h &ndash;  Salle Pasteur
 
 #M
-* ##Mars, Marcell *&#65515;*
-	* BIO À ÉCRIRE
-	SITE ?
+* ##Nenad Romic aka Marcell Mars *&#65515;*
+	* Born 1972 in Benkovac/Croatia.
+	<a href='https://www.memoryoftheworld.org/' target='_blank'>memoryoftheworld.org/</a>
 	* 30.03 - 	« Conférence »  <span class='langue'> EN</span>
 	* 15h30 &ndash;  Salle Pasteur
 
 #R
-* ##Raeder, Manuel *&#65515;*
+* ##Manuel Raeder *&#65515;*
 	* Manuel Raeder a fondé son studio en 2003. Son travail est interdisciplinaire et explore la porosité des limites entre création d'expositions, graphisme, édition, typographie et design d'objet. Le studio travaille autant avec des artistes que des institutions. En 2011, Manuel Raeder a créé la maison d'édition BOM DIA BOA TARDE BOA NOITE avec Manuel Goller.
 <a href='www.bomdiabooks.de' target='_blank' style='margin-bottom:0;'>bomdiabooks.de</a>
 <a href='http://www.manuelraeder.co.uk/' target='_blank' style='margin-top:0;'>manuelraeder.co.uk</a>
@@ -75,28 +75,28 @@ Text:
 	* ? - 	« Conférence »
 	* ? &ndash;  ?
 
-* ##de Smet, Catherine *&#65515;*
-	* BIO MISSING
+* ##Catherine de Smet *&#65515;*
+	* Docteur en histoire de l'art, maître de conférences à l'université de Paris 8 Vincennes-Saint-Denis (équipe TEAMeD, laboratoire AI-AC) et spécialiste du design graphique.
 	* 31.03  -  Modération
 	* Matinée, après-midi &ndash; Salle Pasteur
 	
 #T
-* ##Tloupas/Petronio *&#65515;*
+* ##Yorgo Tloupas *&#65515;*
 	* BIO À ÉCRIRE
 	SITE ?
 	* 01.04 - 	« Conférence » <span class='langue'> FR</span>
 	* 11h &ndash;  Auditorium
 
 #V
-* ##Vasquez, Adrien *&#65515;* 
+* ##Adrien Vasquez *&#65515;* 
 	* BIO À ÉCRIRE
 	SITE ?
 	* 31.30.03 - 	« Conférence » <span class='langue'> FR</span>
 	* 10h &ndash;  Auditorium
 
 #W
-* ##Willems, Roger *&#65515;*
-	* Roger Willems s'est spécialisé dans le graphisme éditorial</br>et travaille essentiellement pour des maisons d'édition et des institutions culturelles. Il a créé en 1998, avec Mark Manders</br>et Marc Nagtzaam, Roma Publications qui s'est développée jusqu'à devenir une plateforme de production et de distribution d'éditions en collaboration avec de nombreux artistes,</br>designers, écrivains et poètes.
+* ##Roger Willems *&#65515;*
+	* Roger Willems s'est spécialisé dans le graphisme éditorial et travaille essentiellement pour des maisons d'édition et des institutions culturelles. Il a créé en 1998, avec Mark Manders et Marc Nagtzaam, Roma Publications qui s'est développée jusqu'à devenir une plateforme de production et de distribution d'éditions en collaboration avec de nombreux artistes, designers, écrivains et poètes.
 <a href='http://www.rogerwillems.nl/' target='_blank'>rogerwillems.nl</a>
 	* 31.03 - 	« Conférence » <span class='langue'> EN</span>
 	* 14h &ndash;  Salle Pasteur

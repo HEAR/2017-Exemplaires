@@ -1,6 +1,10 @@
 $(document).ready(function(){
 
-//EXPERIMENTATIONS LIVRES
+   
+   console.log('test');
+
+   
+   //EXPERIMENTATIONS LIVRES
 
 /* livre */
 
@@ -172,7 +176,7 @@ $('#mosaic, #mosaic-scroll').mousewheel(function(e, delta) {
 
  // TOUTES : RANDOM COLOR
 
-var fonds= new Array('assets/images/fonds/base/grand-fond-bleu.png','assets/images/fonds/base/grand-fond-rouge9.png','assets/images/fonds/base/grand-fond-vert1.png');
+var fonds= new Array('../images/fonds/base/grand-fond-bleu.png','../images/fonds/base/grand-fond-rouge9.png','../images/fonds/base/grand-fond-vert1.png');
 var couleurs=new Array('rgb(0,0,255)','rgb(255,0,0)','rgb(0,255,0)');
 var rand=Math.floor(Math.random()*fonds.length);
 
@@ -196,7 +200,7 @@ $("#programme h1").hover(function(){
 	$(this).css({"background-color": "white", 'color':'black'});
 
 	}
-);
+                        );
 
 // PROGRAMME COLLOQUE : Change color text + arrow
 
@@ -217,7 +221,9 @@ $(under[i]).hover(function(){
 
 );
 });
+   
 // PROGRAMME COLLOQUE : Intervenants
+   
 var liens=new Array("td.invite a", "#programme-colloque h3 a");
 $.each(liens, function(i, item) {
 $(liens[i]).hover(function(){
@@ -238,10 +244,20 @@ $(liens[i]).hover(function(){
 
 });
 
- $('#credits ul').masonry({
-  itemSelector: '#credits ul li',
-  columnWidth: 160
-});
+   // Crédits
+   
+    $('#credits ul').masonry({
+     itemSelector: '#credits ul li',
+     columnWidth: 160
+    });
 
+   // Accés
+
+   $('#acces li').on('click', function(e){
+      $(this).toggleClass('visible');
+   })
+
+   
+   // End
 
 });

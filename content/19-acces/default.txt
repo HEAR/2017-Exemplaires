@@ -4,6 +4,8 @@ Title: Accès
 
 Text: 
 
+<iframe id="locate" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58213/7.75901"></iframe>
+
 <ul>
 	   <li>
            <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#16/48.5873/7.7560"
@@ -12,12 +14,12 @@ Text:
 								 <p>6, place de la République
 								 <br/>67070 Strasbourg cedex
 								 <br/>+33 (0)3 88 25 28 00
-								 <br/>quid@bnu.fr
+								 <br/>↳ quid@bnu.fr
 								 <br/>Lundi au samedi&#8239;: 10h – 22h
 								 <br/>Dimanche&#8239;: 14h – 22h
             </a>
 						<a href="http://www.bnu.fr/" target="_blank">
-								 <br/>www.bnu.fr</p>
+								 <br/>↳ www.bnu.fr</p>
 						 </a>
      </li>
 	   <li>
@@ -44,7 +46,7 @@ Text:
 								 <p>1, Presqu’île André Malraux
 								 <br/>67076 Strasbourg Cedex
 								 <br/>+33 (0)3 88 45 10 10
-								 <br/>mediatheque.malraux@strasbourg.eu
+								 <br/>↳ mediatheque.malraux@strasbourg.eu
 								 <br/>Mardi - jeudi&#8239;: 12h – 19h
 								 <br/>Mercredi - samedi&#8239;: 10h – 19h
 								 <br/>Vendredi&#8239;: 12h – 20h</p>
@@ -93,5 +95,3 @@ Text:
             </a>
      </li>
 </ul>
-
-<iframe id="locate" class="glitch" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58213/7.75901"></iframe>

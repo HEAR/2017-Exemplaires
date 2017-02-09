@@ -29,7 +29,8 @@ Text:
 <a href='http://www.uqam.ca/' target='_blank'>*UQAM* – Montréal</a>
 * ##Avec le soutien de
 <a href='http://www.fedrigoni.fr/' target='_blank'>Fedrigoni</a>
-<a href='http://www.fondation-aquatique-show.org/fr/La-fondation-103.html' target='_blank'>Fondation Aquatique Show</a>
+<a href='http://www.fondation-aquatique-show.org/fr/La-fondation-103.html' target='_blank'>Fondation Aquatique Show International</a>
+<a href='http://estimprim.fr/' target='_blank'>Imprimerie Estimprim</a>
 
 #Crédits 
 
@@ -153,10 +154,38 @@ Nicolas Schneider
 Nasser Khelifi, (titre ??) atelier léger ?
 
 #Remerciements
-* ###Médiathèques de Strasbourg Eurométropole
-Élise Canaple
-Francine Haegel
-Troisième personne
-* ###Musées de</br>Strasbourg
-Franck Knoery
-Joëlle Pijaudier-Cabot (directrice)
+* ###Bibliothèque nationale<br/>et universitaire
+Alain Colas, administrateur
+Frédéric Blin, directeur de la conservation et du patrimoine
+Daniel Bornemann, responsable de la valorisation des collections
+Emmanuel Marine, chargé de l'action culturelle et de la communication externe
+* ###Bibliothèque des Musées de Strasbourg (MAMCS)
+Joëlle Pijaudier-Cabot, directrice des Musées
+Jean-Paul Gangloff, responsable de la bibliothèque
+Franck Knoery, attaché de conservation
+* ###CEAAC
+Evelyne Loux, directrice
+* ###DRAC Alsace - Champagne-Ardenne - Lorraine
+Anne Mistler, ?????
+Fedrigoni France
+Séverine Calmus, directrice
+* ###Fondation d’entreprise Aquatique Show International
+Isabelle Formhals, Présidente
+* ###Imprimerie Estimprim (Besançon)
+Stéphane Béra, président
+Philippe Berteaux, directeur général
+Jean-Frédéric Seené, attaché commercial
+* ###Lycée le Corbusier d’Illkirch-Graffenstaden
+Pascal Freund, proviseur, Nicolas Couturier, enseignant
+* ###Lycée Gutenberg
+Marie-Françoise Zorgniotti, proviseur
+* ###Médiathèque André-Malraux
+Francine Haegel, conservateur en chef, responsable de l'action culturelle
+Elise Canaple, assistante principale de conservation
+* ###Centre de l'illustration
+Marie-Hélène Lauer, assistante de bibliothèque, fonds patrimonial
+* ###Région Grand Est
+Pascal Mangin , président de la Commission Culture
+* ###Université de Strasbourg, Faculté des arts visuels
+Pierre Litzler, directeur
+Vivien Philizot, ?????

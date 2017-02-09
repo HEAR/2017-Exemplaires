@@ -8,11 +8,12 @@
 	<title><?= $site->title()->html() ?>&nbsp;2017 | <?= $page->title()->html() ?></title>
 	<meta name="description" content="<?= $site->description()->html() ?>">
 	<script src="https://npmcdn.com/masonry-layout@4.1/dist/masonry.pkgd.js"></script>
-	<?= css('assets/css/index.css') ?>
+   <?= css('assets/css/index.css') ?>
+
+<!--   <script src="../../assets/js/main.js"></script>-->
+   <?= js('assets/js/main.js') ?>
 
 	<?= js('assets/js/jquery-3.1.0.min.js') ?>
-	
-	<?= js('assets/js/main.js') ?>
 	<?php 	
 
 
