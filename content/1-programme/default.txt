@@ -1,0 +1,98 @@
+Title: Programme
+
+----
+
+Text: 
+
+* #[*Colloque*](programme-colloque)
+###Jeudi 30.03, vendredi 31.03 
+###Salle Pasteur, palais universitaire
+###Samedi 01.04.2017 
+###Auditorium, Hear Strasbourg
+####Inscription obligatoire 
+####↳ exemplaires2017@hear.fr
+
+* #[*Exposition des sélections*](programme-exemplaires)
+###30.03 — 30.04.2017
+###Vernissage :</br>Vendredi 31.03 à 18 h 00
+###La Chaufferie
+
+<div class='filet'></div>
+
+* ##Librairie éphémère
+#[Quai des brumes](programme-quai-des-brumes)
+###Jeudi 30.03, vendredi 31.03
+###Salle Pasteur, palais universitaire
+###Samedi 01.04.2017
+###Auditorium, Hear Strasbourg
+
+* ##Exposition
+#[20 000 exemplaires](programme-20-000-exemplaires)
+###27.03 — 14.04.2017
+###Vernissage :</br>Jeudi 30.03 à 12 h 00
+###Salle 27, palais universitaire
+
+* ##Conférence
+#[ La chose imprimée ](programme-la-chose-imprimee)
+<h2 class='conf'>Judith Poirier</h2>
+###Présentation du programme de recherche
+###de l'Université du Québec à Montréal (UQAM)
+###Mercredi 29.03.2017 à 18 h 00
+###Auditorium, HEAR Strasbourg
+
+* ##Autour de la biennale
+#[Fonds de la bibliothèque</br>nationale universitaire (BNU)](programme-bnu)
+###30.03 — 30.04.2017
+###Foyer de l'espace prêt-retour</br>Niveau 2, BNU
+
+* ##Autour de la biennale
+#[Fonds Soennecken](programme-bnu#soennecken) 
+###Jeudi 30.03, vendredi 31.03.2017
+###9 h 00, 10 h 00 et 11 h 00
+###BNU, rendez-vous devant la bibliothèque
+####Réservation obligatoire
+####↳ contact@bnu.fr
+
+* ##Autour de la biennale
+#[Les catalogues de</br>Willem Sandberg](programme-catalogues-sandberg) 
+###30.03 — 30.04.2017
+###Bibliothèque,
+###Musée d'art moderne et contemporain</br>de Strasbourg (MAMCS)
+
+* ##Autour de la biennale
+#[Archives de la biennale,</br>sélections 2015 et 2017](programme-archives-de-la-biennale)
+###30.03 — 30.04.2017
+###Salle du patrimoine, 3<sup>e</sup> étage,</br>Médiathèque André Malraux
+
+* ##Espace public
+#[Affiches des sélections](programme-affiches-des-9-ecoles)
+###Esplanade,
+###Médiathèque André Malraux
+
+* ##Évenement 
+#[Quiproquo #2,</br> un troc d'éditions](programme-quiproquo-2)
+###Vendredi 31.03
+###17 h 00 – 19 h 00 : Dépôt des livres
+###Samedi 01.04
+###12 h 00 – 17h00 : Troc
+###Patio, HEAR Strasbourg
+
+
+* ##Autour de la biennale
+#[Pétrole éditions](programme-petrole-editions)
+###30.03 —  30.04.2017
+###Hall, HEAR Strasbourg
+
+* ##Présentation
+#[Papiers Fedrigoni](programme-papiers-fedrigoni)
+###Séverine Calmus, directrice de</br>Fedrigoni France
+###Samedi 01.04.2017 à 14 h 00
+###Auditorium, HEAR Strasbourg
+
+* ##Également visible à Strasbourg 
+#<a href='http://www.bacm.creditmutuel.fr/fr/expos.html' target='_blank'>Cartonnages : entre art</br>& industrie (1860-1920)</a>
+###Bibliothèque Alsatique du Crédit Mutuel :
+###Espace d'accueil du Crédit Mutuel
+###27.01 - 5.04.2017
+###Entrée libre
+###Visites guidées pour groupes sur réservation

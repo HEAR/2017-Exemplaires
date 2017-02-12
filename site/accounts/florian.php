@@ -7,8 +7,10 @@ email: fromager.florian@gmail.com
 language: fr
 role: admin
 history:
-  - programme-20-000-exemplaires
-  - programme
   - acces
+  - intervenants
+  - programme-petrole-editions
+  - programme-archives-de-la-biennale
+  - programme-catalogues-sandberg
 firstname: ""
 lastname: ""

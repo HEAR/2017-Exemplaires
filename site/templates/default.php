@@ -2,21 +2,27 @@
 
 <!-- default.php -->
  
-
-<div id='container'>
-	<div class='rubrique' id='<?php
+ <?php
 
  	$id=$site->page()->id();
 	$tiret=strpos($id,"-");
-	$categorie=substr($id, 0,$tiret); 
-	
-	if ($categorie=='programme'){
-	echo $categorie;
-	}else{
+	$categorie=substr($id, 0,$tiret);
+	$prog_page=substr($id, $tiret+1);
+	?>
 
-	echo $id;		
+<div id='container'>
+	<div class='rubrique <?php
+	if($categorie=='programme'){
+	echo $categorie;
+	}elseif ($id=='programme') {
+	echo $id;
 	}
-	?>'>
+	?>' id='<?php
+	if($categorie!='programme'){
+	echo $id; }else{
+
+	echo $prog_page;} ?>'>
+
 		<!-- <h1><?= $page->title()->html() ?></h1>-->
 		
 		<?= $page->text()->kirbytext() ?>

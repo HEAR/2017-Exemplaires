@@ -1,0 +1,122 @@
+Title: Accès
+
+----
+
+Text: 
+
+<iframe id="locate" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58213/7.75901"></iframe>
+
+<ul class='acces'>
+	   <li class='lieu'>
+           <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58213/7.75901"
+            onclick="document.getElementById('locate').src=this.href; return false;">
+                 <h1>Auditorium et patio<br/>de la HEAR</h1>
+								 <p>1, rue de l’Académie
+								 <br/>CS 10032
+								 <br/>67082 Strasbourg cedex
+								 <br/>+33 (0)3 69 06 37 77</p>
+            </a>
+     </li>
+	   <li class='lieu'>
+           <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.60076/7.75708"
+            onclick="document.getElementById('locate').src=this.href; return false;">
+                 <h1>Bibliothèque alsatique<br/>credit mutuel</h1>
+								 <p>34, rue du Wacken
+								 <br/>67000 Strasbourg
+								 <br/>Mercredi, jeudi et vendredi
+								 <br/>de 9 h 00 à 12 h 00 et de 13 h 30 à 16 h 30
+								 <br/>+33 (0)3 88 14 72 55
+            </a>
+						<a href="http://www.bacm.creditmutuel.fr/" target="_blank">
+								 <br/>↳ bacm.creditmutuel.fr</p>
+						 </a>
+     </li>
+	   <li class='lieu'>
+           <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.57954/7.73649"
+            onclick="document.getElementById('locate').src=this.href; return false;">
+                 <h1>Bibliothèque du Musée d'art moderne et contemporain</h1>
+								 <p>1, place Hans Jean Arp
+								 <br/>67000 Strasbourg
+								 <br/>Mardi au dimanche de 13 h à 18 h
+								 <br/>+33 (0)3 68 98 51 55</p>
+            </a>
+     </li>
+	   <li class='lieu'>
+           <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#16/48.5873/7.7560"
+            onclick="document.getElementById('locate').src=this.href; return false;">
+                 <h1>Bibliothèque nationale<br/>et universitaire (BNU)</h1>
+								 <p>120, Grand'rue
+								 <br/>67000 Strasbourg
+								 <br/>Lundi au samedi&#8239;: 10 h – 22 h
+								 <br/>Dimanche&#8239;: 14 h – 22 h
+								 <br/>+33 (0)3 88 25 28 00
+            </a>
+						<a href="mailto:quid@bnu.fr">
+								 <br/>↳ quid@bnu.fr
+            </a>
+						<a href="http://www.bnu.fr/" target="_blank">
+								 <br/>↳ www.bnu.fr</p>
+						 </a>
+     </li>
+	   <li class='lieu'>
+           <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58107/7.75923"
+            onclick="document.getElementById('locate').src=this.href; return false;">
+                 <h1>La Chaufferie</h1>
+								 <p>5 rue de la Manufacture des tabacs,
+								 <br/>67000 Strasbourg</p>
+            </a>
+     </li>
+	   <li class='lieu'>
+           <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58492/7.73492"
+            onclick="document.getElementById('locate').src=this.href; return false;">
+                 <h1>Gare</h1>
+								 <p>Place de la Gare,
+								 <br/>67000 Strasbourg</p>
+            </a>
+     </li>
+	   <li class='lieu'>
+           <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58138/7.74567"
+            onclick="document.getElementById('locate').src=this.href; return false;">
+                 <h1>Librairie Quai des brumes</h1>
+								 <p>120, Grand'rue,
+								 <br/>67000 Strasbourg
+								 <br/>+33 (0)3 88 35 32 84
+						 </a>
+						<a href="mailto:librairie@quaidesbrumes.com">
+								 <br/>↳ librairie@quaidesbrumes.com</p>
+            </a>
+     </li>
+	   <li class='lieu'>
+           <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58458/7.75108"
+            onclick="document.getElementById('locate').src=this.href; return false;">
+                 <h1>Hôtel de ville de Strasbourg</h1>
+								 <p>9 Rue Brûlée,
+								 <br/>67000 Strasbourg
+								 <br/>+33 (0)3 68 98 51 32   </p>
+            </a>
+     </li>
+	   <li class='lieu'>
+           <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.57485/7.75848"
+            onclick="document.getElementById('locate').src=this.href; return false;">
+                 <h1>Médiathèque André Malraux</h1>
+								 <p>1, Presqu’île André Malraux
+								 <br/>67076 Strasbourg Cedex
+								 <br/>Mardi - jeudi&#8239;: 12 h – 19 h
+								 <br/>Mercredi - samedi&#8239;: 10 h – 19 h
+								 <br/>Vendredi&#8239;: 12 h – 20 h
+								 <br/>+33 (0)3 88 45 10 10
+						 </a>
+						<a href="mailto:librairie@mediatheque.malraux@strasbourg.eu">
+								 <br/>↳ mediatheque.malraux@strasbourg.eu</p>
+            </a>
+     </li>
+		 
+	   <li class='lieu'>
+           <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58519/7.76153"
+            onclick="document.getElementById('locate').src=this.href; return false;">
+                 <h1>Palais universitaire</h1>
+								 <p>9 place de l'université,
+								 <br/>67000 Strasbourg</p>
+            </a>
+     </li>
+</ul>

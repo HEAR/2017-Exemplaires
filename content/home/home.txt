@@ -4,22 +4,9 @@ Title: Home
 
 Text: 
 
-2<sup>&thinsp;e</sup> Biennale
-Strasbourg
-
-<table>
-<tr>
-<td>1</td><td>Colloque</td>
-</tr><tr>
-<td>9</td><td>Écoles</td>
-</tr><tr>
-<td>12</td><td>Invités</td>
-</tr><tr>
-<td>54</td><td>Éditions séléctionnées</td>
-</tr><tr>
-<td>7</td><td>Expositions / Présentations</td>
-</tr>
-</table>
+<h1>9 écoles, 54 objets éditoriaux sélectionnés, 21 ouvrages de comparaison, 4 demi-journées de colloque, 12 conférences,</br>4 tables rondes, 8 expositions et présentations.</h1>
+<h2>2<sup>e</sup> édition – Strasbourg</h2>
+<a href="https://www.facebook.com/Exemplaires2017/" target="_blank"><i class="fa fa-facebook fa-lg"></i></a><a href="https://www.instagram.com/Exemplaires2017/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
 
 ----
 

@@ -94,25 +94,36 @@ function book_glitch(target){
 
 
 
+
+
+
+
+
 // PAGE : TABLEAU > programme on click
 
 
-	$('td.event').each(function (index, value){
+	$('td.inter').each(function (index, value){
 		var hidden = $(this).find('.detail');
 
 		$(this).click(function(){
-			$(hidden).toggle();
+			$(hidden).toggleClass('invisible');
 		});
 
 	});
 
 
+
+
 	$('#intervenants ul li').each(function (index, value){
 
 		var bio= $(this).find(' li:nth-child(1)');
+
+
+
+
+
 		bio.addClass('invisible');
-var wesh=$(this).find("em");
-console.log($(wesh).text());
+var wesh=$(this).find("strong");
 
 		$(this).click(function(){
 			$(bio).toggle();
@@ -140,7 +151,7 @@ console.log(cate);
 
 
 
-$(".event").click(function(){
+$(".inter").click(function(){
 
 	var bro = $(this).find(".i");
 
@@ -160,7 +171,9 @@ $('ul.menu.programme').find('ul.sous-menu#programme').removeClass('invisible');
 $('ul.menu.selection').find('ul.sous-menu#selection').removeClass('invisible');
 $('ul.menu.home').find('ul.sous-menu#selection').removeClass('invisible');
 
-   
+ 
+
+
 // Horizontal Scroll
 
 $('#mosaic, #mosaic-scroll').mousewheel(function(e, delta) {
@@ -168,54 +181,144 @@ $('#mosaic, #mosaic-scroll').mousewheel(function(e, delta) {
    e.preventDefault();
 });
 
-   // Random background
-
-   var link = [];
-   link[0] = "assets/css/green.css";
-   link[1] = "assets/css/blue.css";
-   link[2] = "assets/css/red.css";
 
 
-   $(function() {
-      var style = link[Math.floor(Math.random() * link.length )];
-      $('<link />',{
-         rel :'stylesheet',
-         type:'text/css',
-         href: style
-      }).appendTo('head');
-   });
 
-   // Random background pour les pages de livres
+ // TOUTES : RANDOM COLOR
 
-   var underlink = [];
-   underlink[0] = "../assets/css/green.css";
-   underlink[1] = "../assets/css/blue.css";
-   underlink[2] = "../assets/css/red.css";
+var fonds= new Array('assets/images/fonds/base/grand-fond-bleu.png','assets/images/fonds/base/grand-fond-rouge9.png','assets/images/fonds/base/grand-fond-vert1.png');
+var couleurs=new Array('rgb(0,0,255)','rgb(255,0,0)','rgb(0,255,0)');
+var rand=Math.floor(Math.random()*fonds.length);
+
+//TOUTES : Background
+
+$("body").css({"background-image":"url('"+fonds[rand]+"')"});
+
+// PROGRAMME GENERAL : Highline h1 
 
 
-   $(function() {
-      var style = underlink[Math.floor(Math.random() * underlink.length )];
-      $('<link />',{
-         rel :'stylesheet',
-         type:'text/css',
-         href: style
-      }).appendTo('head');
-   });
+// PROGRAMME COLLOQUE : Change color text + arrow
 
-   // Accés
-   
-   $('#acces li').on('click', function(e){
-      $('#acces li').removeClass('visible');
-   })
-   $('#acces li').on('click', function(e){
-      $(this).addClass('visible');
-   })
-   
-   // End
+//var under=new Array("td.inter","#intervenants h2",".rubrique#ecoles a");
+   var sur=new Array( "#intervenants h2",".name", ".plus",".rubrique#ecoles a","#programme h1", ".rubrique#credits a", ".programme#colloque a","#acces li h1")
+var lien = new Array( ".rubrique#intervenants a");
+
+$.each(sur, function(i, item) {
+$(sur[i]).hover(function(){
+	
+	$(this).css({"color":couleurs[rand]});
+
+	}, function() {
+
+	$(this).css({"color":"black"});
+	
+	}
+
+);
 });
 
 
 
 
 
+$(".rubrique#intervenants a").css("color",couleurs[rand]);
+   $(".rubrique.programme .interne").css("color",couleurs[rand]);
 
+   // Accés
+
+   $('#acces li').click(function(){
+      $(this).toggleClass('visible');
+      $('#acces li').not(this).removeClass('visible');
+   });
+
+   // CONTACT : button 
+
+   $("#contact #envoi").hover(function(){
+      if(rand==2){
+         $(this).css({"background-color": couleurs[rand], 'color':'white'});
+      }else {
+         $(this).css({"background-color": couleurs[rand], 'color':'white'});
+
+      }
+
+   }, function() {
+
+      $(this).css({"background-color": "black", 'color':'white'});
+
+   }
+                             );
+
+   // CONTACT : error 
+
+   $("#contact .entree").hover(function(){
+      if(rand==2){
+         $(this).css({"border-color": couleurs[rand]});
+      }else {
+         $(this).css({"border-color": couleurs[rand]});
+
+      }
+
+   }, function() {
+
+      $(this).css({"border-color": "black"});
+
+   }
+                              ); 
+
+   $("#contact .uniform-errors__item").css({"color": couleurs[rand]});
+   $("#contact #answer").css({"color": couleurs[rand]});
+
+
+
+
+// PROGRAMME COLLOQUE : Intervenants
+var liens=new Array("td.invite a", "#programme-colloque h3 a");
+$.each(liens, function(i, item) {
+$(liens[i]).hover(function(){
+	if(rand==2){
+	$(this).css({"background-color": couleurs[rand], "color":"black"});
+	
+	}else {
+	$(this).css({"background-color": couleurs[rand], 'color':'white'});
+
+	}
+
+	}, function() {
+
+	$(this).css({"background-color": "transparent", 'color':'black'});
+
+	}
+);
+
+});
+
+
+
+
+		var url =$(location).attr('href');
+		var n = url.indexOf("#");
+		var ancre=url.substring(n)+"_ancre";
+
+
+		
+	$(ancre).parent().removeClass('invisible');
+
+if(ancre!='#soennecken'){
+	var ouais=$(ancre).parents('ul').find("h2 strong");
+
+          $(ouais).html('&#65516;');
+
+}
+
+
+$(function() {
+
+    $(document).scrollTop( $(ancre).offset().top-60); 
+
+});
+
+
+
+
+
+});
