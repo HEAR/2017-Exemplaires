@@ -20,7 +20,7 @@ Text:
 	   <li class='lieu'>
            <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.60076/7.75708"
             onclick="document.getElementById('locate').src=this.href; return false;">
-                 <h1>Bibliothèque alsatique<br/>credit mutuel</h1>
+                 <h1>Bibliothèque alsatique<br/>du Credit Mutuel</h1>
 								 <p>34, rue du Wacken
 								 <br/>67000 Strasbourg
 								 <br/>Mercredi, jeudi et vendredi
@@ -61,7 +61,7 @@ Text:
 	   <li class='lieu'>
            <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58107/7.75923"
             onclick="document.getElementById('locate').src=this.href; return false;">
-                 <h1>La Chaufferie</h1>
+						<h1>La Chaufferie,</br>galerie de la HEAR</h1>
 								 <p>5 rue de la Manufacture des tabacs,
 								 <br/>67000 Strasbourg</p>
             </a>

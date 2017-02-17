@@ -6,31 +6,31 @@ Text:
 
 * #[*Colloque*](programme-colloque)
 ###Jeudi 30.03, vendredi 31.03 
-###Salle Pasteur, palais universitaire
+###Salle Pasteur, Palais universitaire
 ###Samedi 01.04.2017 
-###Auditorium, Hear Strasbourg
+###Auditorium de la HEAR, Strasbourg
 ####Inscription obligatoire 
 ####↳ exemplaires2017@hear.fr
 
 * #[*Exposition des sélections*](programme-exemplaires)
 ###30.03 — 30.04.2017
 ###Vernissage :</br>Vendredi 31.03 à 18 h 00
-###La Chaufferie
+###La Chaufferie, galerie de la HEAR,</br>Strasbourg
 
 <div class='filet'></div>
 
 * ##Librairie éphémère
 #[Quai des brumes](programme-quai-des-brumes)
 ###Jeudi 30.03, vendredi 31.03
-###Salle Pasteur, palais universitaire
+###Salle Pasteur, Palais universitaire
 ###Samedi 01.04.2017
-###Auditorium, Hear Strasbourg
+###Hall de la HEAR, Strasbourg
 
 * ##Exposition
 #[20 000 exemplaires](programme-20-000-exemplaires)
 ###27.03 — 14.04.2017
 ###Vernissage :</br>Jeudi 30.03 à 12 h 00
-###Salle 27, palais universitaire
+###Salle 27, Palais universitaire
 
 * ##Conférence
 #[ La chose imprimée ](programme-la-chose-imprimee)
@@ -38,7 +38,7 @@ Text:
 ###Présentation du programme de recherche
 ###de l'Université du Québec à Montréal (UQAM)
 ###Mercredi 29.03.2017 à 18 h 00
-###Auditorium, HEAR Strasbourg
+###Auditorium de la HEAR, Strasbourg
 
 * ##Autour de la biennale
 #[Fonds de la bibliothèque</br>nationale universitaire (BNU)](programme-bnu)
@@ -54,7 +54,7 @@ Text:
 ####↳ contact@bnu.fr
 
 * ##Autour de la biennale
-#[Les catalogues de</br>Willem Sandberg](programme-catalogues-sandberg) 
+#[Sandberg, les années</br>Stedelijk (1945-1962)](programme-catalogues-sandberg) 
 ###30.03 — 30.04.2017
 ###Bibliothèque,
 ###Musée d'art moderne et contemporain</br>de Strasbourg (MAMCS)
@@ -74,20 +74,20 @@ Text:
 ###Vendredi 31.03
 ###17 h 00 – 19 h 00 : Dépôt des livres
 ###Samedi 01.04
-###12 h 00 – 17h00 : Troc
-###Patio, HEAR Strasbourg
+###12 h 00 – 17 h 00 : Troc
+###Patio de la HEAR, Strasbourg
 
 
 * ##Autour de la biennale
 #[Pétrole éditions](programme-petrole-editions)
 ###30.03 —  30.04.2017
-###Hall, HEAR Strasbourg
+###Hall de la HEAR, Strasbourg
 
 * ##Présentation
 #[Papiers Fedrigoni](programme-papiers-fedrigoni)
 ###Séverine Calmus, directrice de</br>Fedrigoni France
 ###Samedi 01.04.2017 à 14 h 00
-###Auditorium, HEAR Strasbourg
+###Auditorium de la HEAR, Strasbourg
 
 * ##Également visible à Strasbourg 
 #<a href='http://www.bacm.creditmutuel.fr/fr/expos.html' target='_blank'>Cartonnages : entre art</br>& industrie (1860-1920)</a>

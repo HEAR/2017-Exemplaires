@@ -12,7 +12,7 @@ Text:
 <h3 class='horaire'>Horaires :</h3>
 <h4 class='horaire'>Sous réserve de modifications</h4>
 <h2>Jeudi 30.03</h2>
-<h3>Salle Pasteur, palais universitaire</h3>
+<h3>Salle Pasteur, Palais universitaire</h3>
 <table>
     <tr>
       <td class='heure'>14 h 00</td>
@@ -33,7 +33,7 @@ Text:
 </tr>
 <tr>       
     <td class='heure'>16 h 30</td>
-		<td class='inter'><span style='font-style:italic;'> En cours de confirmation</span> </td>
+		<td class='inter'><span style='font-style:italic;'> Kristien Van den Brande (sous réserve)</span> </td>
 </tr>
 <tr>       
     <td class='heure'>17 h 30</td>
@@ -42,10 +42,9 @@ Text:
 </table>
 
 <h2>Vendredi 31.03</h2>
-<h3>Salle Pasteur, palais universitaire
+<h3>Salle Pasteur, Palais universitaire
 </br>Modération : 		
-<span class='name'><a href='intervenants#fourgeaud'>Nicolas Fourgeaud</a></span>|
-<span class='name'><a href='intervenants#desmet'>Catherine de Smet</a></span>
+<span class='name'><a href='intervenants#fourgeaud'>Nicolas Fourgeaud</a></span>|<span class='name'><a href='intervenants#desmet'>Catherine de Smet</a></span>
 </h3>
 <table>
     <tr>     
@@ -97,8 +96,8 @@ Text:
 </table>
 
 <h2>Samedi 01.04</h2>
-<h3>Auditorium, Hear Strasbourg
-</br>Modération : <span class='name'><a href='intervenants#courant'>Jean-Marie Courant</a></span></h3>
+<h3>Auditorium de la HEAR, Strasbourg
+</br>Modération :<span class='name'><a href='intervenants#courant'>Jean-Marie Courant</a></span></h3>
 <table>
     <tr>       
         <td class='heure'>09 h 00</td>

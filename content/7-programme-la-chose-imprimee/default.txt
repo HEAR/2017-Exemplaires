@@ -8,6 +8,6 @@ Text:
 <h2 class='conf'>Judith Poirier</h2>
 ###Présentation du programme de recherche de l'Université du Québec à Montréal (UQAM)
 ###Mercredi 29.03.2017 à 18 h 00
-###Auditorium, HEAR Strasbourg
+###Auditorium de la HEAR, Strasbourg
 Projet de recherche & création en design, la chose imprimée s’intéresse au livre en tant qu’espace d’expérimentation. Le livre imprimé, qui a été plus d’une fois remis en question avec l’arrivée du multimédia, de l’hypertexte puis du livre électronique, est non seulement encore présent, mais il exerce une réelle séduction grâce à ses qualités physiques et tactiles, et au rapport intime qu’il établit avec le lecteur. 
 <a class='interne' href='https://lachoseimprimee.com/' target='_blank'>lachoseimprimee.com</a>

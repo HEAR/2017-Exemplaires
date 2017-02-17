@@ -8,21 +8,16 @@ Text:
 ###30.03 — 30.04.2017
 ###Foyer de l'espace prêt-retour</br>Niveau 2, BNU
 
-Une sélection d'ouvrages autour de l'édition, de son histoire et de la typographie, issue des fonds de la Bibliothèque nationale et universitaire seront présentés dans des vitrines.
-
-
-(image: 1.jpg alt: image1)
-(image: 2.jpg alt: image2)
 (image: 3.jpg alt: image3)
-(image: 4.jpg alt: image4)
+
+
 <div class='legende'>
-<em>Petite histoire de l’imprimerie par l’image, Tome III</em>
+<em>Marius Audin, Petite histoire de l’imprimerie par l’image, Tome III</em>
 </br>Esthétique du livre, Paris, éditions Henri Jonquières, 1929.
-</br>(p.1-3 : pages intérieures, p.4 : page de titre).
-<div class='auteur'>Marius Audin
 </div>
 
-</div>
+Une sélection de livres et de manuels sur l'édition (typographie, mise en pages, procédés d'impression) issus des fonds de la Bibliothèque nationale et universitaire sont présentés dans des vitrines.
+
 
 
 #</br>[Fonds Soennecken](programme-bnu) <a class='ancre' id='soennecken_ancre'></a>
@@ -32,13 +27,12 @@ Une sélection d'ouvrages autour de l'édition, de son histoire et de la typogra
 ####Réservation obligatoire
 ####↳ contact@bnu.fr
 
+(image: 5.jpg alt: image5)
+
+<div class='legende'>
+<em>Ouvrage issu du fonds Soennecken</em>
+</div>
+
 Du nom de son créateur Friedrich Soennecken, ce fonds réunit une collection d'ouvrages du XVI<sup>e</sup> au XX<sup>e</sup> siècle portant sur l'écriture et le dessin de caractères dont certains ont servi de modèle à l'imprimerie. Une sélection sera présentée en détail par un conservateur de la bibliothèque lors des visites.
 
 Clara Luzolanu, Margaux Montfort, Élise Vallet *— encadrés par :* Philippe Delangle<br/>et Jérôme Saint-Loubert Bié
-
-(image: 5.jpg alt: image5)
-(image: 6.jpg alt: image6)
-(image: 7.jpg alt: image7)
-<div class='legende'>
-<em>Ouvrages issus du fonds Soennecken</em>
-</div>

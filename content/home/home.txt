@@ -6,7 +6,6 @@ Text:
 
 <h1>9 écoles, 54 objets éditoriaux sélectionnés, 21 ouvrages de comparaison, 4 demi-journées de colloque, 12 conférences,</br>4 tables rondes, 8 expositions et présentations.</h1>
 <h2>2<sup>e</sup> édition – Strasbourg</h2>
-<a href="https://www.facebook.com/Exemplaires2017/" target="_blank"><i class="fa fa-facebook fa-lg"></i></a><a href="https://www.instagram.com/Exemplaires2017/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
 
 ----
 
