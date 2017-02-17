@@ -200,8 +200,9 @@ $("body").css({"background-image":"url('"+fonds[rand]+"')"});
 // PROGRAMME COLLOQUE : Change color text + arrow
 
 //var under=new Array("td.inter","#intervenants h2",".rubrique#ecoles a");
-   var sur=new Array( "#intervenants h2",".name", ".plus",".rubrique#ecoles a","#programme h1", ".rubrique#credits a", ".programme#colloque a","#acces li h1")
-var lien = new Array( ".rubrique#intervenants a");
+   var sur=new Array( "#intervenants h2",".name", ".plus",".rubrique#ecoles a","#programme h1", ".rubrique#credits a",
+  ".programme#colloque a","#acces li h1");
+   var white=new Array("ul.liens_ext li a");
 
 $.each(sur, function(i, item) {
 $(sur[i]).hover(function(){
@@ -217,11 +218,59 @@ $(sur[i]).hover(function(){
 );
 });
 
+$.each(white, function(i, item) {
+$(white[i]).hover(function(){
+	
+	$(this).css({"color":couleurs[rand]});
 
+	}, function() {
+
+	$(this).css({"color":"white"});
+	
+	}
+
+);
+});
+
+// PROGRAMME SOUS MENU > background li
+
+var ui=$("ul.sous-menu li").not(".is-active");
+
+   $(ui).each(function(){
+   	$(this).hover(function(){
+      if(rand==2){
+         $(this).css({"background-color": couleurs[rand], 'color':'black'});
+ 
+      }else {
+         $(this).css({"background-color": couleurs[rand], 'color':'white'});
+
+
+      }
+
+   }, function() {
+
+         $(this).css({"background-color": "white", 'color':'black'});
+
+   }
+  ); });
+
+
+      if(rand==2){
+
+$("ul.sous-menu li.is-active").css({"background-color": couleurs[rand], 'color':'black'});
+
+
+    }else {
+
+$("ul.sous-menu li.is-active").css({"background-color": couleurs[rand], 'color':'white'});
+
+
+}
 
 
 
 $(".rubrique#intervenants a").css("color",couleurs[rand]);
+
    $(".rubrique.programme .interne").css("color",couleurs[rand]);
 
    // Accés

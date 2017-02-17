@@ -7,7 +7,6 @@
 
 	<title><?= $site->title()->html() ?>&nbsp;2017 | <?= $page->title()->html() ?></title>
 	<meta name="description" content="<?= $site->description()->html() ?>">
-	<script src="https://npmcdn.com/masonry-layout@4.1/dist/masonry.pkgd.js"></script>
 	<?= css('assets/css/index.css') ?>
 	<?= css('assets/css/font-awesome.css') ?>
 
@@ -25,7 +24,7 @@
 
 	<div class='infos'>
 		<h1><a href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a>,</h1>
-		<h2>formes&nbsp;et&nbsp;pratiques</br>de&nbsp;l'édition</h2>
+		<h2>formes&nbsp;et&nbsp;pratiques</br>de&nbsp;lʼédition</h2>
 		<h2>30.03 - 01.04.2017 </h2>
 	</div>
  	

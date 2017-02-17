@@ -34,21 +34,6 @@ li{
 }
 
 
-/* --------------- scrollbar --------------- */
-
-/* Réglages généraux (largeur) */
-/*::-webkit-scrollbar {width: 10px; position: fixed; right: 0px; margin-top:-20px;}
-::-moz-scrollbar {width: 10px; position: fixed; right: 0px; margin-top:-20px;}
-*/
-/* Réglages de la barre contenante */
-/*::-webkit-scrollbar-track-piece {background-color: none;}
-::-moz-scrollbar-track-piece {background-color: none;}
-*/
-/* Réglages de la barre contenue */
-/*::-webkit-scrollbar-thumb {background: rgba(255, 255, 255, 1);}
-::-moz-scrollbar-thumb {background: rgba(255, 255, 255, 1);}*/
-
-
 /* FONTS */
 
 @font-face {
@@ -61,13 +46,6 @@ li{
 
 }
 
-@font-face {
-
-	font-family: "newCentury";
-	src: url('../fonts/newCentuSchool/ufonts.com_century-schoolbook-bold.ttf');
-	font-weight: bold;
-	font-style: normal;
-}
 
 @font-face {
 
@@ -82,7 +60,7 @@ li{
 
 
 @font-face {
-	font-family: 'akkurat';
+	font-family: "akkurat";
 	src: url('../fonts/ak/ak.ttf') format('ttf'),
 		 url('../fonts/ak/ak.eot') format('eot'),
 		 url('../fonts/ak/ak.woff') format('woff'),
@@ -92,6 +70,33 @@ li{
 }
 
 
+
+
+/* FONTS : STYLES */
+
+.akkurat,
+.infos h2,
+ul.menu,
+#ecoles p,
+#ecoles em,
+#intervenants li li,
+#intervenants h1, 
+.rubrique#intervenants a, 
+.rubrique.programme .interne,
+.rubrique.programme h2,
+.rubrique.programme h3,
+.rubrique.programme strong,
+.programme#colloque h2,
+.programme#colloque h4, 
+.programme#colloque td.heure,
+#credits h2,
+#credits em, 
+#credits strong,
+#credits h3 {
+
+font-family:"akkurat";
+
+}
 
 
 /* TOUS : CONTAINERS */
@@ -110,7 +115,6 @@ body{
 	background-color: transparent;
 	background-image: url('../images/fonds/base/grand-fond.png');
 	background-repeat:no-repeat left top;
-	background-repeat: repeat;
 	background-size: 112rem;
 	z-index:-1;   
 
@@ -179,10 +183,7 @@ nav {
 
 	display: block;
 }
-.akkurat{
 
-	font-family: akkurat;
-}
 
 /* TOUS : TITRE */
 .infos h1{
@@ -191,7 +192,7 @@ nav {
 }
 
 .infos h2 {
-	font-family: "akkurat";
+
 	padding-left: 2.2rem;
 	padding-top: 0.6rem;
 	font-size: 1.4rem;
@@ -201,15 +202,36 @@ nav {
 
 /* TOUS : MENU */
 
-ul.menu{
-	font-family: "akkurat";
+ul.menu, ul.liens_ext{
 	font-size: 1.2rem;
-	line-height: 2rem;
-	background-color: white;
-	padding-top: 1rem;
 	padding-bottom: 0.4rem;
 }
 
+ul.menu{
+
+	background-color: white;
+	line-height: 2rem;
+	padding-top: 1rem;
+
+}
+
+ul.liens_ext{
+
+	color: white;
+	background-color: black;
+	width: 10rem;
+	padding-top: 2rem;
+	line-height: 1.8rem;
+	font-weight: normal;  
+}
+
+ul.liens_ext li{
+
+	margin-bottom: 1.2rem;
+	padding-left: 1.2rem;
+
+
+	}
 
 li.menu-item{
 	padding: 0.1rem;
@@ -237,17 +259,17 @@ ul.sous-menu {
 
 		margin-bottom:0.4rem;
 		margin-top:0.4rem;
-		padding-left: 0rem;
 		font-size: 1rem;
 		line-height: 1.5rem;
 }
 
 
-.puce{
+ul.sous-menu li{
 
-	color: white;
-	font-size: 1.2rem;
+	padding-left: 2rem;
+
 }
+
 
 ul.sous-menu li.is-active, ul.sous-menu li:hover {
 
@@ -256,10 +278,7 @@ ul.sous-menu li.is-active, ul.sous-menu li:hover {
 
 }
 
-ul.sous-menu li.is-active  .puce, ul.sous-menu li:hover  .puce{
 
-	color: #000000;
-}
 
 ul.menu.programme #liste-programme, ul.menu.selection #liste-selection, ul.menu.home #liste-selection{
 
@@ -306,14 +325,14 @@ sup {
 /*PAGE : A PROPOS*/
 
 
-#a-propos h1{
+#presentation h1{
 
 	font-size: 3rem;
 	margin-bottom: 1.6rem;
 	line-height: 3.6rem;	
 }
 
-#a-propos p{
+#presentation p{
 
 	margin-top: 1rem;
 	font-size: 1.2rem;
@@ -359,15 +378,9 @@ sup {
 }
 
 #ecoles p{
-		font-family: akkurat;
+
 		font-size: 0.9rem;
 		margin: 0;
-}
-
-
-#ecoles em{
-
-	font-family: akkurat;
 }
 
 
@@ -391,7 +404,6 @@ sup {
 #intervenants li li{
 
 	font-size: 1rem;
-	font-family: akkurat;
 
 }
 
@@ -404,7 +416,6 @@ sup {
 
 #intervenants h1{
 
-	font-family: akkurat;
 	font-size: 2rem;
 	margin-bottom: 2rem;
 	margin-top: 1.2rem;
@@ -445,7 +456,6 @@ sup {
 
 		margin-top: 0.6rem;
 		display: block;
-		font-family: akkurat;
 }
 
 
@@ -527,7 +537,6 @@ sup {
 
 .rubrique.programme h2{
 
-	font-family: akkurat;
 	font-size: 1rem;
 	margin-top: 0.2rem;
 
@@ -544,7 +553,6 @@ sup {
 
  .rubrique.programme h3 {
 
-	font-family: akkurat;
 	font-size: 1rem;
 	line-height: 1.5rem;
 
@@ -595,10 +603,6 @@ sup {
 	padding-top: 0.4rem;
 }
 
-.rubrique.programme strong{
-
-	font-family: akkurat;
-}
 
 .rubrique.programme em{
 
@@ -639,7 +643,6 @@ margin-left: 0;
 	text-align: left;
 	font-size: 1.4rem;
 	line-height: 3rem;
-	font-family: akkurat;
 	
 
 }
@@ -664,7 +667,7 @@ margin-left: 0;
 }
 
 .programme#colloque h4{
-	font-family: akkurat;
+
 	font-size: 1rem;
 	line-height: 1.5rem;
 
@@ -755,7 +758,6 @@ margin-left: 0;
 .programme#colloque td.heure{ 
 
 	width:20%;
-	font-family: "akkurat";
 	padding-left: 1rem;
 
 
@@ -844,7 +846,6 @@ margin-left: 0;
 #credits h1 {
 
    font-size: 1.6rem;
-   font-family: akkurat;
    margin-top: 2rem;
    margin-bottom: 1rem;
 }
@@ -860,7 +861,6 @@ margin-left: 0;
 #credits h2 {
 
    font-size: 1.2rem;
-   font-family: akkurat;
    margin-top: 0;
    margin-bottom: 0.6rem;
 
@@ -869,7 +869,7 @@ margin-left: 0;
 
 
 #credits em{
-   font-family: akkurat;
+
    font-size: 0.95rem;
 }
 
@@ -919,12 +919,11 @@ margin-left: 0;
 }
 #credits strong{
 
-   font-family: akkurat;
+
 }
 
 #credits h3{
 
-   font-family: akkurat;
    font-size: 1.2rem;
    margin-bottom: 0.6rem;
 
@@ -1356,7 +1355,7 @@ label, input, textarea {
 /* A propos responsive */
 
 @media only screen and (max-width : 700px) {
-   #a-propos {
+   #presentation {
       width: 25rem;
    }
 }
