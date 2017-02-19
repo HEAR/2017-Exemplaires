@@ -126,10 +126,9 @@ body{
 
 .infos {
 
-   padding: 1.4rem;
+   	padding: 1.4rem;
     height: 12rem;
-    width:18rem;
-    line-height: 1.6rem;
+    width:22rem;
     background-color: transparent;
     overflow: visible;
     z-index: 0;
@@ -167,6 +166,7 @@ nav {
 	z-index: 2;
 	width:48rem;
 	margin-bottom: 10rem;
+	min-height: 45rem;
 }
 
 
@@ -187,16 +187,17 @@ nav {
 
 /* TOUS : TITRE */
 .infos h1{
-	font-size: 3.2rem;
-	line-height: 1;
+	font-size: 3.8rem;
+	padding-bottom: 0.2rem;
+
 }
 
 .infos h2 {
 
-	padding-left: 2.2rem;
-	padding-top: 0.6rem;
-	font-size: 1.4rem;
-	line-height: 1.8rem;
+	padding-left: 2rem;
+	padding-top: 0rem;
+	font-size: 1.6rem;
+	line-height: 2.1rem;
 }
 
 
@@ -271,6 +272,10 @@ ul.sous-menu li{
 }
 
 
+
+
+
+
 ul.sous-menu li.is-active, ul.sous-menu li:hover {
 
 	background-color: #ffffff;
@@ -280,7 +285,7 @@ ul.sous-menu li.is-active, ul.sous-menu li:hover {
 
 
 
-ul.menu.programme #liste-programme, ul.menu.selection #liste-selection, ul.menu.home #liste-selection{
+ul.menu.programme #liste-programme, ul.menu.selections #liste-selection {
 
 	background-color: black;
 	color: white;
@@ -304,10 +309,16 @@ ul.menu.programme #liste-programme, ul.menu.selection #liste-selection, ul.menu.
 
 }
 
+#home h2, #selections h2{
+
+		font-size: 2rem;
+		line-height: 2.6rem;
+		
+}
+
 #home h2{
 
 	margin-top: 2rem;
-	font-size: 2rem;
 	margin-bottom: 3rem;
 }
 
@@ -322,7 +333,16 @@ sup {
 }
 
 
-/*PAGE : A PROPOS*/
+/*PAGE : SELECTIONS*/
+
+#selections h2{
+
+	margin-top: 0.4rem;
+
+}
+
+
+/*PAGE : PRESENTATION*/
 
 
 #presentation h1{
@@ -803,15 +823,10 @@ margin-left: 0;
 
 /* PAGE : PROGRAMME > AFFICHE */
 
-.rubrique.programme#affiches-des-9-ecoles,
-.rubrique.programme#petrole-editions,
-.rubrique.programme#la-chose-imprimee,
-.rubrique.programme#exemplaires,
-.rubrique.programme#papiers-fedrigoni {
 
+.rubrique.programme#la-chose-imprimee{
 
-	height: 45rem;
-
+	height: inherit;
 }
 
 .rubrique.programme#bnu sup {
@@ -868,12 +883,19 @@ margin-left: 0;
 }
 
 
-#credits em{
+#credits h3 em{
 
-   font-size: 0.95rem;
+	font-family:newCentury;
+	font-style:italic;
+	font-size:1.1rem;
 }
 
 
+#credits em {
+
+	font-style: 0.95rem;
+
+}
 
 #credits ul {
 
@@ -889,7 +911,7 @@ margin-left: 0;
 
 #credits ul:last-of-type {
 
-   height: 46rem;
+   height: 50rem;
 }
 
 #credits .retrait{

@@ -168,10 +168,12 @@ $(".inter").click(function(){
 
 
 $('ul.menu.programme').find('ul.sous-menu#programme').removeClass('invisible');
-$('ul.menu.selection').find('ul.sous-menu#selection').removeClass('invisible');
-$('ul.menu.home').find('ul.sous-menu#selection').removeClass('invisible');
 
- 
+if('ul.sous-menu#selections li a:empty'==true){
+$('ul.menu.selections').find('ul.sous-menu#selections').removeClass('invisible');
+
+}
+
 
 
 // Horizontal Scroll
