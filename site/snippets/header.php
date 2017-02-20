@@ -25,7 +25,7 @@
 	<div class='infos'>
 		<h1><a href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a>,</h1>
 		<h2>formes&nbsp;et&nbsp;pratiques</br>de&nbsp;lʼédition</h2>
-		<h2>30.03 - 01.04.2017 </h2>
+		<h2>30.03 - 30.04.2017 </h2>
 	</div>
  	
 
