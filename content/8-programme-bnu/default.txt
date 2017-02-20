@@ -1,28 +1,26 @@
-Title: Bibliothèque nationale et universitaire
+Title: Bibliothèque nationale et universitaire (BNU)
 
 ----
 
 Text: 
 
-#[Fonds de la bibliothèque</br>nationale universitaire (BNU)](programme-fonds-de-la-bnu)
-###30.03 — 30.04.2017
-###Foyer de l'espace prêt-retour</br>Niveau 2, BNU
+#[Sur le livre&#8239;: exemples, modèles et manuels</br>issus du fonds de la BNU](programme-fonds-de-la-bnu)
+###30.03 – 30.04.2017
+###Foyer de l’espace prêt-retour</br>Niveau 2, BNU
 
 (image: 3.jpg alt: image3)
 
-
 <div class='legende'>
-<em>Marius Audin, Petite histoire de l’imprimerie par l’image, Tome III</em>
-</br>Esthétique du livre, Paris, éditions Henri Jonquières, 1929.
+<em>Marius Audin, Petite histoire de l’imprimerie par l’image</em>, Tome III
+</br><em>Esthétique du livre</em>, Paris, éditions Henri Jonquières, 1929.
 </div>
 
-Une sélection de livres et de manuels sur l'édition (typographie, mise en pages, procédés d'impression) issus des fonds de la Bibliothèque nationale et universitaire sont présentés dans des vitrines.
-
+Une sélection de livres et de manuels sur l’édition (typographie, mise en pages, procédés d’impression) issus des fonds de la Bibliothèque nationale et universitaire sont présentés dans des vitrines.
 
 
 #</br>[Fonds Soennecken](programme-bnu) <a class='ancre' id='soennecken_ancre'></a>
 ###Jeudi 30.03, vendredi 31.03.2017
-###9 h 00, 10 h 00 et 11 h 00
+###9&#8239;h&#8239;00, 10&#8239;h&#8239;00 et 11&#8239;h&#8239;00
 ###BNU, rendez-vous devant la bibliothèque
 ####Réservation obligatoire
 ####↳ contact@bnu.fr
@@ -30,9 +28,9 @@ Une sélection de livres et de manuels sur l'édition (typographie, mise en page
 (image: 5.jpg alt: image5)
 
 <div class='legende'>
-<em>Ouvrage issu du fonds Soennecken</em>
+Ouvrage issu du fonds Soennecken
 </div>
 
-Du nom de son créateur Friedrich Soennecken, ce fonds réunit une collection d'ouvrages du XVI<sup>e</sup> au XX<sup>e</sup> siècle portant sur l'écriture et le dessin de caractères dont certains ont servi de modèle à l'imprimerie. Une sélection sera présentée en détail par un conservateur de la bibliothèque lors des visites.
+Du nom de son créateur Friedrich Soennecken, ce fonds réunit une collection d’ouvrages du XVI<sup>e</sup>&#8239;au XX<sup>e</sup>&#8239;siècle portant sur l’écriture et le dessin de caractères dont certains ont servi de modèle à l’imprimerie. Une sélection sera présentée en détail par un conservateur de la bibliothèque lors des visites.
 
-Clara Luzolanu, Margaux Montfort, Élise Vallet *— encadrés par :* Philippe Delangle<br/>et Jérôme Saint-Loubert Bié
+Clara Luzolanu, Margaux Montfort, Élise Vallet *– encadrées par&#8239;:* Philippe Delangle<br/>et Jérôme Saint-Loubert Bié

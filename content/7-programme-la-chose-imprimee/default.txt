@@ -6,8 +6,18 @@ Text:
 
 #[ La chose imprimée ](programme-la-chose-imprimee)
 <h2 class='conf'>Judith Poirier</h2>
-###Présentation du programme de recherche de l'Université du Québec à Montréal (UQAM)
-###Mercredi 29.03.2017 à 18 h 00
+###Présentation de projets en recherche & création à l’Université du Québec à Montréal (UQAM)
+###Mercredi 29.03.2017 à 18&#8239;h&#8239;00
 ###Auditorium de la HEAR, Strasbourg
-Projet de recherche & création en design, la chose imprimée s’intéresse au livre en tant qu’espace d’expérimentation. Le livre imprimé, qui a été plus d’une fois remis en question avec l’arrivée du multimédia, de l’hypertexte puis du livre électronique, est non seulement encore présent, mais il exerce une réelle séduction grâce à ses qualités physiques et tactiles, et au rapport intime qu’il établit avec le lecteur. 
+
+(image: kayak.jpg alt: kayak.jpg)
+<div class='legende'>
+<em>Latitude</em>, police de caractères modulaire en bois
+</br> (alphabet romain et syllabaire inuktitut).
+</br> Premier test d’impression, La chose imprimée, 2014.
+</div>
+
+Projet de recherche & création en design, *La chose imprimée* s’intéresse au livre en tant qu’espace d’expérimentation, à partir de thèmes tels que la tactilité, la lisibilité, l’abstraction, la manipulation et la collection. Présentation du processus et des résultats de ce projet qui a réuni chercheurs et étudiants dans une démarche plutôt rhizomique et interdisciplinaire. Judith Poirier, qui a aussi développé un procédé aléatoire d’animation en imprimant directement sur pellicule 35&#8239;mm avec une presse typographique, présentera quelques-uns de ses films pour conclure.
 <a class='interne' href='https://lachoseimprimee.com/' target='_blank'>lachoseimprimee.com</a>
+
+**Judith Poirier** (MA Royal College of Art, Londres) est professeure à l’École de design de l’Université du Québec à Montréal. Elle dirige le projet de recherche et de création *La chose imprimée*, qui s’intéresse aux qualités physiques du livre à l’ère numérique. Son travail se concentre principalement sur la typographie expérimentale et explore les rapports entre la page imprimée et l’écran de cinéma. Ses films ont été présentés dans de nombreux festivals internationaux et certains se sont distingués (Prix du meilleur film canadien 2013 et Mention honorable au Nashville Film Festival 2016). Ses livres ont reçu plusieurs mentions honorables au concours Excellence de la conception graphique du livre au Canada (société Alcuin) et en lice pour le Concours des plus beaux livres du monde à Leipzig.

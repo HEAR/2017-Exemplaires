@@ -1,0 +1,61 @@
+Title: Écoles
+
+----
+
+Text: 
+
+* #<a href="http://www.isba-besancon.fr/" target="_blank">*ISBA* Besançon</a> (*fr*)
+###Institut supérieur des</br>beaux-arts de Besançon
+##*Ma.* Graphisme
+Enseignants
+###Daniele Balit</br>Thomas Bizzarri
+
+* #<a href="http://www.erg.be/erg/" target="_blank">*ERG* Bruxelles</a> (*be*)
+###École de recherche</br>graphique Bruxelles
+##*Ma.* Graphisme
+Enseignantes
+###Françoise Tahon</br>Alexia de Visscher
+
+* #<a href="https://www.hesge.ch/head/ " target="_blank">*HEAD* Genève</a> (*ch*)
+###Haute école  </br>d’art et de design
+##*Ba.* Communication visuelle 
+Coordinateur
+###Jérôme Baratelli
+Enseignante
+###Anette Lenz
+
+* #<a href="http://www.ensba-lyon.fr/" target="_blank">*ENSBA* Lyon</a> (*fr*) 
+###École nationale supérieure</br>des beaux-arts de Lyon
+##*Ma.* Design graphique
+Enseignants
+###Jean-Marie Courant</br>Catherine Guiral
+
+* #<a href="http://www.uqam.ca/" target="_blank">*UQAM* Montréal</a> (*ca*)
+###Université du Québec</br>à Montréal
+##*Bac.* Design graphique
+Enseignants
+###Alessandro Colizzi</br>Judith Poirier
+
+* #<a href="http://www.eesab.fr/rennes" target="_blank">*EESAB* Rennes</a> (*fr*)
+###École européenne</br>supérieure d’art de Bretagne</br>- site de Rennes
+##*Ma.* Design graphique
+Enseignante 
+###Marie Proyart
+
+* #<a href="https://www.hear.fr/" target="_blank">*HEAR* Strasbourg</a> (*fr*)
+###Haute école des arts</br>du Rhin
+##*Ma.* Communication</br>graphique
+Enseignants
+###Philippe Delangle</br>Jérôme Saint-Loubert Bié
+
+* #<a href="http://www.isdat.fr/" target="_blank">*isdaT* Toulouse</a> (*fr*)
+###Institut supérieur des arts</br>de Toulouse
+##*Programme de recherche* </br>LabBooks — écritures éditoriales
+Enseignants
+###Laurence Cathala</br>Sébastien Dégeilh</br>Jérôme Dupeyrat</br>Olivier Huz
+
+* #<a href="http://www.esad-gv.fr/fr/" target="_blank">*ESAD* Valence</a> (*fr*)
+###École supérieure d’art et design</br>de Grenoble-Valence
+##*Ma.* Design graphique
+Enseignants
+###David Poullard</br>Samuel Vermeil

@@ -5,91 +5,91 @@ Title: Colloque
 Text: 
 
 <h1>Colloque</h1>
-<h4>Jeudi 30.03 — Samedi 01.04.2017</h4>
+<h4>Jeudi 30.03 – Samedi 01.04.2017</h4>
 <h5>Inscription obligatoire </br>↳ exemplaires2017@hear.fr</h5> 
 
-<p>Le programme de conférences a été conçu à partir des différentes thématiques<br/>abordées dans les sélections d'ouvrages exposés à la Chaufferie (l'interface et les processus de sélection, la somme, la monographie, le territoire, l'inventaire, la couverture, l'objet éditorial comme anticipation, le catalogue d'exposition, les concepteurs du livre à l’initiative de pratiques éditoriales contemporaines), qui se recoupent, se croisent<br/>et se complètent.</p>
-<h3 class='horaire'>Horaires :</h3>
+<p>Le programme de conférences a été conçu à partir des différentes thématiques<br/>abordées dans les sélections d'ouvrages exposés à la Chaufferie (l’interface et les processus de sélection, la somme, les portraits de travail, le territoire, l’inventaire, la couverture, la fonction d’anticipation de l’édition, le catalogue d’exposition, les concepteurs du livre à l’initiative de pratiques éditoriales contemporaines), qui se recoupent, se croisent<br/>et se complètent.</p>
+<h3 class='horaire'>Horaires&#8239;:</h3>
 <h4 class='horaire'>Sous réserve de modifications</h4>
 <h2>Jeudi 30.03</h2>
 <h3>Salle Pasteur, Palais universitaire</h3>
 <table>
     <tr>
-      <td class='heure'>14 h 00</td>
+      <td class='heure'>14&#8239;h&#8239;00</td>
 			<td class='inter'>Ouverture de la biennale</td>
 </tr>
 <tr>       
-    <td class='heure'>14 h 30</td>
+    <td class='heure'>14&#8239;h&#8239;30</td>
 		<td class='inter'><span class='name'><a href='intervenants#kepper'>Christoph Kepper</a></span>
 		<span class='langue'> (en anglais)</span></div>
     </td>
 </tr>
 <tr>       
-    <td class='heure'>15 h 30</td>
+    <td class='heure'>15&#8239;h&#8239;30</td>
 		<td class='inter'><span class='name'><a href='intervenants#mars'>Nenad Ronic aka Marcell Mars</a></span>
 		<span class='langue'> (en anglais)</span>
         </div>
     </td>
 </tr>
 <tr>       
-    <td class='heure'>16 h 30</td>
-		<td class='inter'><span style='font-style:italic;'> Kristien Van den Brande (sous réserve)</span> </td>
+    <td class='heure'>16&#8239;h&#8239;30</td>
+		<td class='inter'><span class='name'><a href='intervenants#vandenbrande'> Kristien Van den Brande</a></span> </td>
 </tr>
 <tr>       
-    <td class='heure'>17 h 30</td>
+    <td class='heure'>17&#8239;h&#8239;30</td>
     <td class='inter'>Table ronde</td>
 </tr>
 </table>
 
 <h2>Vendredi 31.03</h2>
 <h3>Salle Pasteur, Palais universitaire
-</br>Modération : 		
+</br>Modération&#8239;: 		
 <span class='name'><a href='intervenants#fourgeaud'>Nicolas Fourgeaud</a></span>|<span class='name'><a href='intervenants#desmet'>Catherine de Smet</a></span>
 </h3>
 <table>
     <tr>     
-        <td class='heure'>09 h 00</td>
+        <td class='heure'>09&#8239;h&#8239;00</td>
 				<td class='inter'><span class='name'><a href='intervenants#copeland'>Mathieu Copeland</a></span> </td>
     </tr>       
     <tr>       
-        <td class='heure'>10 h 00</td>
+        <td class='heure'>10&#8239;h&#8239;00</td>
 				<td class='inter'><span class='name'><a href='intervenants#gauthier'>Michel Gauthier</a></span> </td>
     </tr>
     <tr>       
-        <td class='heure'>11 h 00</td>
+        <td class='heure'>11&#8239;h&#8239;00</td>
 				<td class='inter'><span class='name'><a href='intervenants#gonzalez'>Dominique Gonzalez Foerster</a></span> </td>
     </tr>
     <tr>       
-        <td class='heure'>12 h 00</td>
+        <td class='heure'>12&#8239;h&#8239;00</td>
         <td class='inter'>Table ronde</td>
     </tr>
     <tr>
-        <td class='heure'>12 h 30</td>
+        <td class='heure'>12&#8239;h&#8239;30</td>
         <td class='event lunch'>Pause</td>
     </tr>
     <tr>
 
-        <td class='heure'>14 h 00</td>
+        <td class='heure'>14&#8239;h&#8239;00</td>
 
 <td class='inter'><span class='name'><a href='intervenants#willems'>Roger Willems</a></span>
 	<span class='langue'> (en anglais)</span>
         </td>
     </tr> 
     <tr>        
-        <td class='heure'>15 h 00</td>
+        <td class='heure'>15&#8239;h&#8239;00</td>
 
 <td class='inter'><span class='name'><a href='intervenants#raeder'>Manuel Raeder</a></span>
       <span class='langue'> (en anglais)</span>
         </td>
     </tr>
     <tr>
-       <td class='heure'>16 h 00</td>
+       <td class='heure'>16&#8239;h&#8239;00</td>
 			 <td class='inter'><span class='name'><a href='intervenants#grootens'>Joost Grootens</a></span>
 <span class='langue'> (en anglais)</span>
     </td>
     </tr>
     <tr>       
-        <td class='heure'>17 h 30</td>
+        <td class='heure'>17&#8239;h&#8239;30</td>
         <td class='event'>Table ronde</td>
     </tr>
 
@@ -97,32 +97,32 @@ Text:
 
 <h2>Samedi 01.04</h2>
 <h3>Auditorium de la HEAR, Strasbourg
-</br>Modération :<span class='name'><a href='intervenants#courant'>Jean-Marie Courant</a></span></h3>
+</br>Modération&#8239;:<span class='name'><a href='intervenants#courant'>Jean-Marie Courant</a></span></h3>
 <table>
     <tr>       
-        <td class='heure'>09 h 00</td>
+        <td class='heure'>09&#8239;h&#8239;00</td>
 
 <td class='inter'><span class='name'><a href='intervenants#geers'>Alexie Geers</a></span>
         </td>
     </tr>
         <tr>       
-            <td class='heure'>10 h 00</td>
+            <td class='heure'>10&#8239;h&#8239;00</td>
 
 <td class='inter'><span class='name'><a href='intervenants#vasquez'>Adrien Vasquez</a></span>
             </td>
         </tr>
         <tr>       
-            <td class='heure'>11 h 00</td>
+            <td class='heure'>11&#8239;h&#8239;00</td>
 						<td class='inter'><span class='name'><a href='intervenants#tloupas'>Yorgo Tloupas</a></span>
             </td>
 
         </tr>    
            <tr>
-        <td class='heure'>12 h 00</td>
+        <td class='heure'>12&#8239;h&#8239;00</td>
         <td class='event'>Table ronde</td>
     </tr>
 		           <tr>
-        <td class='heure'>12 h 30</td>
+        <td class='heure'>12&#8239;h&#8239;30</td>
 				<td class='inter'>Clôture du colloque</td>
     </tr>
 </table>

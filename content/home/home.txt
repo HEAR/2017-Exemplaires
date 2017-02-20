@@ -4,7 +4,7 @@ Title: Home
 
 Text: 
 
-<h1>9 écoles, 54 objets éditoriaux sélectionnés, 21 ouvrages de comparaison, 4 demi-journées de colloque, 12 conférences,</br>4 tables rondes, 8 expositions et présentations.</h1>
+<h1>9&nbsp;écoles supérieures d’art, 54&nbsp;objets éditoriaux sélectionnés, 21&nbsp;ouvrages de comparaison, 9&nbsp;publications d’accompagnement, 4&nbsp;demi-journées de colloque, 12&nbsp;conférences, 4&nbsp;tables rondes, 8&nbsp;expositions et présentations.</h1>
 <h2>2<sup>e</sup> édition – Strasbourg</h2>
 
 ----
