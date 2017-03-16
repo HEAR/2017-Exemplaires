@@ -4,7 +4,7 @@ Title: Accès
 
 Text: 
 
-<iframe id="locate" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58213/7.75901"></iframe>
+<iframe id="locate" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#14/48.5832/7.7484"></iframe>
 
 <ul class='acces'>
 	   <li class='lieu'>
@@ -70,7 +70,7 @@ Text:
            <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58492/7.73492"
             onclick="document.getElementById('locate').src=this.href; return false;">
                  <h1>Gare SNCF</h1>
-								 <p>Place de la Gare,
+								 <p>Place de la Gare
 								 <br/>67000 Strasbourg</p>
             </a>
      </li>
@@ -78,7 +78,7 @@ Text:
            <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58138/7.74567"
             onclick="document.getElementById('locate').src=this.href; return false;">
                  <h1>Librairie Quai des Brumes</h1>
-								 <p>120, Grand'rue,
+								 <p>120, Grand'rue
 								 <br/>67000 Strasbourg
 								 <br>Lundi : 14 h 00  – 19 h 00
 								 <br> Mardi – Samedi&#8239;: 10&#8239;h&#8239;00 – 19&#8239;h&#8239;00
@@ -92,7 +92,7 @@ Text:
            <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58458/7.75108"
             onclick="document.getElementById('locate').src=this.href; return false;">
                  <h1>Hôtel de ville de Strasbourg</h1>
-								 <p>9 Rue Brûlée,
+								 <p>9, rue Brûlée
 								 <br/>67000 Strasbourg
 								 <br/>+33 (0)3 68 98 51 32   </p>
             </a>
@@ -117,7 +117,7 @@ Text:
            <a href="http://umap.openstreetmap.fr/fr/map/carte-sans-nom_124607?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&editinosmControl=false&measureControl=false#17/48.58519/7.76153"
             onclick="document.getElementById('locate').src=this.href; return false;">
                  <h1>Palais universitaire</h1>
-								 <p>9 place de l'université,
+								 <p>9, place de l'université,
 								 <br/>67000 Strasbourg
 								 <br/>Lundi – vendredi&#8239;: 8 &#8239;h&#8239;00 – 19&#8239;h&#8239;00</p>
             </a>

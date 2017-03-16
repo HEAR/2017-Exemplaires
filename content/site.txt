@@ -6,7 +6,7 @@ Author: Atelier de communication graphique
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Biennale sur les formes et pratiques de l’édition, organisée par la Haute école des arts du Rhin de Strasbourg.
 
 ----
 

@@ -6,9 +6,9 @@ Text:
 
 <h1>Colloque</h1>
 <h4>Jeudi 30.03 – Samedi 01.04.2017</h4>
-<h5>Inscription obligatoire </br>↳ exemplaires2017@hear.fr</h5> 
+<a class='interne' href='#' target='_blank'>↳ <span  style="text-decoration:line-through">inscription obligatoire</span> &#65515; COMPLET</a> 
 
-<p>Le programme de conférences a été conçu à partir des différentes thématiques<br/>abordées dans les sélections d'ouvrages exposés à la Chaufferie (l’interface et les processus de sélection, la somme, les portraits de travail, le territoire, l’inventaire, la couverture, la fonction d’anticipation de l’édition, le catalogue d’exposition, les concepteurs du livre à l’initiative de pratiques éditoriales contemporaines), qui se recoupent, se croisent<br/>et se complètent.</p>
+<p>Le programme de conférences a été conçu à partir des différentes thématiques abordées dans les sélections d’ouvrages exposés à la Chaufferie, dont les thématiques se recoupent, se croisent et se complètent.</p>
 <h3 class='horaire'>Horaires&#8239;:</h3>
 <h4 class='horaire'>Sous réserve de modifications</h4>
 <h2>Jeudi 30.03</h2>
@@ -18,22 +18,24 @@ Text:
       <td class='heure'>14&#8239;h&#8239;00</td>
 			<td class='inter'>Ouverture de la biennale</td>
 </tr>
-<tr>       
+<tr>
     <td class='heure'>14&#8239;h&#8239;30</td>
 		<td class='inter'><span class='name'><a href='intervenants#kepper'>Christoph Kepper</a></span>
 		<span class='langue'> (en anglais)</span></div>
     </td>
 </tr>
-<tr>       
+<tr>     
     <td class='heure'>15&#8239;h&#8239;30</td>
+		<td class='inter'><span class='name'><a href='intervenants#vandenbrande'> Kristien Van den Brande</a></span>
+		<span class='langue'> (en anglais)</span></div>
+    </td>
+</tr>
+<tr>       
+<td class='heure'>16&#8239;h&#8239;30</td>
 		<td class='inter'><span class='name'><a href='intervenants#mars'>Nenad Ronic aka Marcell Mars</a></span>
 		<span class='langue'> (en anglais)</span>
         </div>
     </td>
-</tr>
-<tr>       
-    <td class='heure'>16&#8239;h&#8239;30</td>
-		<td class='inter'><span class='name'><a href='intervenants#vandenbrande'> Kristien Van den Brande</a></span> </td>
 </tr>
 <tr>       
     <td class='heure'>17&#8239;h&#8239;30</td>
@@ -49,17 +51,17 @@ Text:
 <table>
     <tr>     
         <td class='heure'>09&#8239;h&#8239;00</td>
-				<td class='inter'><span class='name'><a href='intervenants#copeland'>Mathieu Copeland</a></span> </td>
+				<td class='inter'><span class='name'><a href='intervenants#gauthier'>Michel Gauthier</a></span> </td>
     </tr>       
     <tr>       
         <td class='heure'>10&#8239;h&#8239;00</td>
-				<td class='inter'><span class='name'><a href='intervenants#gauthier'>Michel Gauthier</a></span> </td>
+				<td class='inter'><span class='name'><a href='intervenants#aubart'>François Aubart</a></span> </td>
     </tr>
     <tr>       
         <td class='heure'>11&#8239;h&#8239;00</td>
-				<td class='inter'><span class='name'><a href='intervenants#gonzalez'>Dominique Gonzalez Foerster</a></span> </td>
+				<td class='inter'><span class='name'><a href='intervenants#gonzalez'>Dominique Gonzalez-Foerster</a></span> </td>
     </tr>
-    <tr>       
+    <tr> 
         <td class='heure'>12&#8239;h&#8239;00</td>
         <td class='inter'>Table ronde</td>
     </tr>
@@ -78,9 +80,7 @@ Text:
     <tr>        
         <td class='heure'>15&#8239;h&#8239;00</td>
 
-<td class='inter'><span class='name'><a href='intervenants#raeder'>Manuel Raeder</a></span>
-      <span class='langue'> (en anglais)</span>
-        </td>
+<td class='inter'><span class='name'><a href='intervenants#lebrun'>Olivier Lebrun</a></span> </td>
     </tr>
     <tr>
        <td class='heure'>16&#8239;h&#8239;00</td>
