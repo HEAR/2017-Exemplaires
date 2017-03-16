@@ -319,7 +319,7 @@ ul.menu.programme #liste-programme, ul.menu.selections #liste-selection {
 #home h2{
 
 	margin-top: 0rem;
-	margin-bottom: 3rem;
+	margin-bottom: 1rem;
 }
 
 
@@ -476,6 +476,12 @@ sup {
 
 		margin-top: 0.6rem;
 		display: block;
+}
+
+.rubrique#intervenants a.inline,  .rubrique.programme .interne {
+
+		margin-top: 0;
+		display: inline-block;
 }
 
 
@@ -903,7 +909,7 @@ margin-left: 0;
    display: flex;
    flex-wrap:wrap;
    flex-direction: column;
-   height: 46rem;
+   height: 55rem;
    justify-content: flex-start;
    margin-bottom: 0;
 
@@ -911,7 +917,7 @@ margin-left: 0;
 
 #credits ul:last-of-type {
 
-   height: 50rem;
+   height: 53rem;
 }
 
 #credits .retrait{
