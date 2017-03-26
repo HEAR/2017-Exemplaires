@@ -19,10 +19,10 @@ Une sélection de livres et de manuels sur l’édition (typographie, mise en pa
 
 
 #</br>[Fonds Soennecken](programme-bnu) <a class='ancre' id='soennecken_ancre'></a>
-###Jeudi 30.03, vendredi 31.03.2017
+###Jeudi 30.03.2017
 ###9&#8239;h&#8239;00, 10&#8239;h&#8239;00 et 11&#8239;h&#8239;00
 ###BNU, rendez-vous devant la bibliothèque
-####Réservation obligatoire
+###Gratuit (17 pers. max./groupe) – Réservation obligatoire
 ####↳ contact@bnu.fr
 
 (image: 5.jpg alt: image5)
@@ -34,3 +34,5 @@ Ouvrage issu du fonds Soennecken
 Du nom de son créateur Friedrich Soennecken, ce fonds réunit une collection d’ouvrages du XVI<sup>e</sup>&#8239;au XX<sup>e</sup>&#8239;siècle portant sur l’écriture et le dessin de caractères dont certains ont servi de modèle à l’imprimerie. Une sélection sera présentée en détail par un conservateur de la bibliothèque lors des visites.
 
 Clara Luzolanu, Margaux Montfort, Élise Vallet *– encadrées par&#8239;:* Philippe Delangle<br/>et Jérôme Saint-Loubert Bié
+
+<a class='interne' href='http://www.bnu.fr/' target='_blank'>bnu.fr</a>
