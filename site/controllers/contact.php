@@ -18,8 +18,8 @@ return function ($site, $pages, $page)
 
    if (r::is('POST')) {
       $form->emailAction([
-         'to' => 'florian.fromager@hear.fr',
-         'from' => 'info@example.com',
+         'to' => 'exemplaires2017@hear.fr',
+         'from' => 'exemplaires2017@hear.fr',
          'subject' => 'Nouvelle requete de la part de {email}',
       ]);
    }
