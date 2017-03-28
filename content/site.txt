@@ -6,7 +6,11 @@ Author: Atelier de communication graphique
 
 ----
 
-Description: Biennale sur les formes et pratiques de l’édition, organisée par la Haute école des arts du Rhin de Strasbourg.
+Description: 
+
+Biennale sur les formes et pratiques de l’édition, organisée par la Haute école des arts du Rhin de Strasbourg.
+Cette deuxième biennale, née de la collaboration de neuf écoles supérieures d’art (Belgique, Canada, France et Suisse) et coordonnée par l’atelier de Communication graphique de la HEAR à Strasbourg, propose un ensemble de publications jugées « exemplaires ».
+Partagez vos impressions et photos sur Facebook, Twitter et Instagram avec #exemplaires2017
 
 ----
 
@@ -15,3 +19,11 @@ Copyright: © 2017 (link: http://comgraph.hear.fr text: Atelier de communication
 ----
 
 Maintenance: 0
+
+----
+
+Keywords: Exemplaires,2017,HEAR Strasbourg,Atelier de communication graphique,Biennale,Édition,Graphisme
+
+----
+
+Ogimage: http://www.exemplaires2017.fr/content/16508143_790543497777769_4262230658236165386_n.png
