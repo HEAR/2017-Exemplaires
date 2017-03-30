@@ -1194,21 +1194,12 @@ margin-left: 0;
 }
 
 #credits ul {
-
-
-   display: flex;
-   flex-wrap:wrap;
-   flex-direction: column;
-   height: 55rem;
-   justify-content: flex-start;
-   margin-bottom: 0;
-
+	column-count: 3;
+	margin-bottom: 0;
+	// font-size: 0.95rem;
 }
 
-#credits ul:last-of-type {
 
-   height: 53rem;
-}
 
 #credits .retrait{
 
@@ -1676,9 +1667,6 @@ label, input, textarea {
 }
 
 #credits ul li{
-
-	font-size: 1.2rem;
-	line-height: 1.7rem;
 	width: 100%;
 	margin-left: 0.2rem;
 }
