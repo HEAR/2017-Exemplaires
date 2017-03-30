@@ -7,8 +7,9 @@
 
 	<div class='rubrique' id="<?php echo $page->id(); ?>">
 			<?= $page->text()->kirbytext() ?>
+		
 		</div>
-	<?php /*snippet('bookmosaic')*/ ?>
+
 	</div>
 
 

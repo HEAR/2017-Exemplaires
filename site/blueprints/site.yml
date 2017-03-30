@@ -3,7 +3,9 @@ title: Site
 pages:
   template:
     - default
+    - programme
     - selection
+    - selections
 
 fields:
   title:
@@ -17,7 +19,8 @@ fields:
   description:
     label: Description
     type:  textarea
-
+    
+  
   maintenance:
     label: Maintenance
     type: checkbox

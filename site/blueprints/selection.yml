@@ -7,14 +7,21 @@ pages:
     - livre
 
 fields:
-  title:
-    label: Title
+  sigle:
+    label: Sigle de l'école
     type:  text
+    width: 1/2
 
-  text:
-    label: Text
-    type:  textarea
-
-  test:
-    label: Test
+  ville:
+    label: Ville
     type:  text
+    width: 1/2
+
+  theme:
+    label: Thème de la sélection
+    type:  text
+    width: 1/2
+
+  about:
+    label: À propos 
+    type:  yakme

@@ -1,9 +1,7 @@
 title: Home
 
-pages:
-  template:
-    - default
-    - selection
+pages: false
+files: false
 
 fields:
   title:

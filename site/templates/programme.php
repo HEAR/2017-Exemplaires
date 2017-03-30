@@ -3,7 +3,7 @@
 <!-- default.php -->
 
 <div id='container'>
-	<div class='rubrique' id="<?php echo $page->id(); ?>">
+	<div class='rubrique programme' id="<?php echo $page->id(); ?>">
 		<!-- <h1><?= $page->title()->html() ?></h1>-->
 		
 		<?= $page->text()->kirbytext() ?>

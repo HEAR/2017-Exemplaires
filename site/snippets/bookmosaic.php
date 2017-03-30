@@ -1,50 +1,27 @@
 <!-- snippets/bookmosaic.php -->
 
-<div id="encart" class="glitch"></div>
+<?php $pxtorem=16; ?>
 
-<div id="mosaic">
-   
-   <div id="mosaic-scroll">
 
-<?php foreach($pages->children()->filterBy('template', 'livre')->visible() as $livre): ?>
-	
-	
 
-	<?php if($image = $livre->images()->sortBy('sort', 'asc')->first()): ?>
+	<div class="mosaic">
+ <?php foreach($page->children()->visible() as $ecoles){ ?>
 
-	<div class='mosaic_livre <?php echo  $livre->parent()->id() ?>'>
-      <div>
-         <h4>Livre de la sélection<br/><?php echo  $livre->parent()->title() ?></h4>
-         <a href="<?php echo $livre->parent()->url() ?>">
-            <h3><?php echo  $livre->title()->html() ?></h3>
-         </a>
-         <h4><?php echo  $livre->author()->html() ?></h4>
-      </div>
-		<a class="test" href="<?php echo $livre->parent()->url() ?>">
-			<?php
+ <?php	 foreach($ecoles->children()->visible()->slice(1,7) as $livre){ 
 
-			$ratio = 0.4;
 
-			if( !empty( $livre->width()->int() ) && !empty( $livre->height()->int() ) ) {
-				$width  = $livre->width()->int() * $ratio;
-				$height = $livre->height()->int() * $ratio;
-				$crop   = true;
-			} else {
-				$width  = 400 * $ratio;
-				$height = 300 * $ratio;
-				$crop   = false;
-			}
-			?>
 
-         <?php echo thumb($image, array('width' => $width, 'height' => $height, 'crop' => $crop )); ?>
-		</a>
-	</div>
+ 	 	if ($livre->images()->first()!= NULL) {?>
 
-	<?php endif ?>
+ 	 	<a href="<?= $ecoles->uri() ?>">
+ 			<img src="<?= $livre->images()->first()->uri() ?>" class="<?= $ecoles->ville()->lower() ?>" width="<?= (($livre->width()->value()/25)*$pxtorem) ?>"/>
 
-      <?php endforeach ?>
-  
-   </div>
+ 		</a>
+<?php  }	
+
+	}
+
+  } ?>
+
 </div>
-
 <!-- fin snippets/bookmosaic.php -->

@@ -1,10 +1,6 @@
 title: Programme
 
-pages: false
-
-pages:
-  template:
-    - Sous-page
+pages: true
 
 fields:
   title:

@@ -2,8 +2,7 @@
 <html lang="<?= site()->language() ? site()->language()->code() : 'fr' ?>">
 <head>
 
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<meta charset="utf-8">	<meta name="viewport" content="width=device-width,initial-scale=1.0">
 	<meta name="description" content="<?php echo $site->description()->html() ?>">
  	<meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
  	<meta name="author" content="<?php echo $site->author()->html() ?>">
@@ -28,20 +27,30 @@
 
 	<meta name="apple-mobile-web-app-capable" content="yes">
 
-	<?= css('assets/css/index.css') ?>
+
+	 <script>
+
+         var fonds= new Array(
+            '<?= url() ?>/assets/images/fonds/base/grand-fond-bleu.png',
+            '<?= url() ?>/assets/images/fonds/base/grand-fond-rouge9.png',
+            '<?= url() ?>/assets/images/fonds/base/grand-fond-vert1.png'
+         );
+
+      </script>
+
 	<?= css('assets/css/font-awesome.css') ?>
-
-	<?= js('assets/js/jquery-3.1.0.min.js') ?>
-	
+	<?= css('assets/css/index.css') ?>
+	<?= js('assets/js/jquery-3.1.0.min.js') ?>	
 	<?= js('assets/js/main.js') ?>
-	<?php 	
 
-
-	?>
 </head>
 
 <body>
-	
+
+	<div class="phone">
+	<div class="header"><a href="<?= url() ?>" rel="home"> E</a></div>
+	<i class="fa fa-bars" aria-hidden="true"></i>
+	</div>
 
 	<div class='infos'>
 		<h1><a href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a>,</h1>

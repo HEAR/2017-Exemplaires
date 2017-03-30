@@ -1,0 +1,15 @@
+title: Selections
+
+pages: false
+files: false
+
+
+pages:
+  template:
+    - selection
+
+fields:
+  title:
+    label: Title
+    type:  text
+
