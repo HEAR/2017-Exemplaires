@@ -48,19 +48,19 @@ Text:
 </br>Modération&#8239;: 		
 <span class='name'><a href='intervenants#fourgeaud'>Nicolas Fourgeaud</a></span>|<span class='name'><a href='intervenants#desmet'>Catherine de Smet</a></span>
 </h3>
-<table>
-    <tr>     
-        <td class='heure'>09&#8239;h&#8239;00</td>
-				<td class='inter'><span class='name'><a href='intervenants#gauthier'>Michel Gauthier</a></span> </td>
-    </tr>       
+<table>   
     <tr>       
-        <td class='heure'>10&#8239;h&#8239;00</td>
+        <td class='heure'>9&#8239;h&#8239;00</td>
 				<td class='inter'><span class='name'><a href='intervenants#aubart'>François Aubart</a></span> </td>
     </tr>
     <tr>       
-        <td class='heure'>11&#8239;h&#8239;00</td>
+        <td class='heure'>10&#8239;h&#8239;00</td>
 				<td class='inter'><span class='name'><a href='intervenants#gonzalez'>Dominique Gonzalez-Foerster</a></span> </td>
     </tr>
+		    <tr>     
+        <td class='heure'>11&#8239;h&#8239;00</td>
+				<td class='inter'><span class='name'><a href='intervenants#gauthier'>Michel Gauthier</a></span> </td>
+    </tr>    
     <tr> 
         <td class='heure'>12&#8239;h&#8239;00</td>
         <td class='inter'>Table ronde</td>

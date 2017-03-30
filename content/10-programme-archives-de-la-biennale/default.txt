@@ -17,5 +17,4 @@ Vue de l’exposition de la biennale <em>Exemplaires&#8239;2015</em>,</br>École
 </div>
 
 La Médiathèque André Malraux a entrepris de conserver l’ensemble des ouvrages des sélections passées et futures. Les sélections 2015 et 2017 seront visibles dans la salle du Patrimoine et seront ensuite intégrées au fonds de la bibliothèque sous une côte spécifique. </br>
-Ces sélections seront enrichies d’une présentation d’ouvrages complémentaires issus des fonds patrimoniaux de la médiathèque. 
 <a class='interne' href='http://www.mediatheques.strasbourg.eu/' target='_blank'>mediatheques.strasbourg.eu</a>
