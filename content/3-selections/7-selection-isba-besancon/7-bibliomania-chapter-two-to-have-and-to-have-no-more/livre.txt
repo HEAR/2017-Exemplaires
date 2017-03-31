@@ -1,0 +1,93 @@
+Number: 8
+
+----
+
+Title: Bibliomania, Chapter Two: <p>To Have and To Have No More</p>
+
+----
+
+Year: 2016
+
+----
+
+Author: Alex Balgiu et Olivier Lebrun
+
+----
+
+Editor: Tombolo Presses
+
+----
+
+Website: http://presses.t-o-m-b-o-l-o.eu
+
+----
+
+Price: 18 €
+
+----
+
+Width: 103
+
+----
+
+Height: 110
+
+----
+
+Isbn: 2,27901E+14
+
+----
+
+Writter: Alex Balgiu et Olivier Lebrun
+
+----
+
+Traduction: 
+
+----
+
+Design: Alex Balgiu et Olivier Lebrun
+
+----
+
+Publisher: Tombolo Presses
+
+----
+
+Place: Nevers
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: 
+
+----
+
+Binding: 
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 10
+
+----
+
+Nb-pages: 40

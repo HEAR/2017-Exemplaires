@@ -1,0 +1,93 @@
+Title: Pour l'un dit
+
+----
+
+Writter: Camille Aussibal, Laurence Cathala, Sébastien Dégeihl, Jérôme Dupeyrat, Juliette Flécheux, Barbara Gabriac, Lucie Humbert, Olivier Huz, Juliette Kersuzan, Marine La Rosa, Marie-Lou Layotte, Timothée Villemur Ponselle 
+
+----
+
+Design: Camille Aussibal, Laurence Cathala, Sébastien Dégeihl, Jérôme Dupeyrat, Juliette Flécheux, Barbara Gabriac, Lucie Humbert, Olivier Huz, Juliette Kersuzan, Marine La Rosa, Marie-Lou Layotte, Timothée Villemur Ponselle
+
+----
+
+Year: 
+
+----
+
+Publisher: 
+
+----
+
+Place: 
+
+----
+
+Website: 
+
+----
+
+Isbn: 
+
+----
+
+Price: 
+
+----
+
+Nb-copies: 700
+
+----
+
+Printer: Reprint, Toulouse 
+
+----
+
+Print: 
+
+----
+
+Binding: 
+
+----
+
+Width: 330
+
+----
+
+Height: 240
+
+----
+
+Thickness: 5
+
+----
+
+Nb-pages: 
+
+----
+
+Typeface1: Avenir, Souvenir
+
+----
+
+Typeface2: Souvenir Monospaced, ThePyteFoundry
+
+----
+
+Typeface3: Times New Roman, Times sans serif
+
+----
+
+Paper: 
+
+----
+
+Photo: 
+
+----
+
+Coordinate: Laurence Cathala, Sébastien Dégeihl, Jérôme Dupeyrat et Olivier Huz
+
+----
+
+Traduction: 

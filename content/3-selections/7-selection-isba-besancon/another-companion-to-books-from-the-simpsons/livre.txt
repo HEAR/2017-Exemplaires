@@ -1,0 +1,93 @@
+Number: 2
+
+----
+
+Title: Another Companion to Books from The Simpsons
+
+----
+
+Year: 2013
+
+----
+
+Author: Olivier Lebrun
+
+----
+
+Editor: Rollo Press
+
+----
+
+Website: rollo-press.com
+
+----
+
+Price: 15 € – Épuisé
+
+----
+
+Width: 120
+
+----
+
+Height: 170
+
+----
+
+Isbn: 978-3-906213-00-2
+
+----
+
+Writter: Olivier Lebrun
+
+----
+
+Traduction: 
+
+----
+
+Design: Olivier Lebrun
+
+----
+
+Publisher: Rollo Press
+
+----
+
+Place: Londres
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: 
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 
+
+----
+
+Nb-pages: 352

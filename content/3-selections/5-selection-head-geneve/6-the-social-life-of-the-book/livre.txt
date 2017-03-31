@@ -1,0 +1,93 @@
+Title: The Social Life of the Book
+
+----
+
+Year: 2013-2015
+
+----
+
+Width: 161
+
+----
+
+Height: 226
+
+----
+
+Isbn: 978-2-918252-34-4
+
+----
+
+Author: castillo/corrales et Will Holder
+
+----
+
+Editor: Paraguay press
+
+----
+
+Website: paraguaypress.com
+
+----
+
+Price: 40 € les 6 numéros
+
+----
+
+Number: 5
+
+----
+
+Writter: Collectif
+
+----
+
+Traduction: 
+
+----
+
+Design: Collectif
+
+----
+
+Publisher: Paraguay Press
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Brochures à couture piquée
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 
+
+----
+
+Nb-pages: 16

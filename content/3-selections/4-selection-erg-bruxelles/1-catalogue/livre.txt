@@ -1,0 +1,124 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red11\green76\blue180;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Title: 
+\fs30 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 LIVRE=(\'c9 (M + G + L + I) / S (R + F + P + C +T +A)) x Ex T.\AppleTypeServices \'a0
+\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+----\
+\
+Writter: \
+\
+----\
+\
+Design: \
+\
+----\
+\
+Year: 2017\
+\
+----\
+\
+Publisher: 
+\fs30 \AppleTypeServices\AppleTypeServicesF65539 \expnd0\expndtw0\kerning0
+erg, \'e9ditrice\AppleTypeServices \'a0
+\fs24 \kerning1\expnd0\expndtw0 \
+\
+----\
+\
+Place: Bruxelles\
+\
+----\
+\
+Website: {\field{\*\fldinst{HYPERLINK "http://www.erg.be/erg"}}{\fldrslt 
+\fs30 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \cb3 \expnd0\expndtw0\kerning0
+\ul \ulc4 \outl0\strokewidth0 \strokec4 erg.be/erg}}
+\fs30 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'a0
+\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+----\
+\
+Isbn: \
+\
+----\
+\
+Price: Gratuit\
+\
+----\
+\
+Nb-copies: 500\
+\
+----\
+\
+Print: 
+\fs30 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Risographie\AppleTypeServices \'a0
+\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+----\
+\
+Printer: 
+\fs30 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Printlab erg, Bruxelles\AppleTypeServices \'a0
+\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+----\
+\
+Binding: 
+\fs30 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Deux points m\'e9tallique
+\fs24 \AppleTypeServices \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+----\
+\
+Width: 210\
+\
+----\
+\
+Height: 278\
+\
+----\
+\
+Thickness: 5\
+\
+----\
+\
+Nb-pages: \
+\
+----\
+\
+Typeface1: 
+\fs30 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Chentenham Old Style\AppleTypeServices \'a0
+\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+----\
+\
+Typeface2: 
+\fs30 \AppleTypeServices\AppleTypeServicesF65539 \expnd0\expndtw0\kerning0
+Belgika
+\fs24 \AppleTypeServices \kerning1\expnd0\expndtw0 \
+\
+----\
+\
+Typeface3: \
+\
+----\
+\
+Paper: \
+\
+----\
+\
+Photo:\
+\
+----\
+\
+Coordinate:  
+\fs30 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Alexia de Vischer et Fran\'e7oise Tahon\AppleTypeServices \'a0}

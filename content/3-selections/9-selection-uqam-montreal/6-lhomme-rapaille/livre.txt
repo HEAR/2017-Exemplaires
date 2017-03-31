@@ -1,0 +1,89 @@
+Title: L’Homme rapaillé
+
+----
+
+Year: 2015
+
+----
+
+Width: 165
+
+----
+
+Height: 235
+
+----
+
+Isbn: 978-2-89648-088-3
+
+----
+
+Author: Gaston Miron
+
+----
+
+Editor: L’Hexagone
+
+----
+
+Website: edhexagone.com
+
+----
+
+Price: 39,95 $ CAN
+
+----
+
+Writter: Gaston Miron
+
+----
+
+Traduction: 
+
+----
+
+Design: Marie Tourigny et Catherine Métayer
+
+----
+
+Publisher: L’Hexagone
+
+----
+
+Place: Montréal
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Dos carré collé
+
+----
+
+Typeface1: Apercu
+
+----
+
+Typeface2: Akkurat Office
+
+----
+
+Typeface3: Minion
+
+----
+
+Thickness: 18
+
+----
+
+Nb-pages: 264

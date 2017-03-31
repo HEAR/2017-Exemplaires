@@ -1,0 +1,93 @@
+Title: Hello !
+
+----
+
+Year: 2015
+
+----
+
+Width: 95
+
+----
+
+Height: 120
+
+----
+
+Isbn: 301-0-00-006074-1
+
+----
+
+Author: Collectif
+
+----
+
+Editor: Le Guide du Routard (Hachette)
+
+----
+
+Website: routard.com
+
+----
+
+Price: Distribution gratuite
+
+----
+
+Number: 6
+
+----
+
+Writter: Collectif
+
+----
+
+Traduction: 
+
+----
+
+Design: 
+
+----
+
+Publisher: Le Guide du Routard (Hachette)
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: offset </br>+ téléchargement en pdf
+
+----
+
+Binding: 
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 
+
+----
+
+Nb-pages: 

@@ -1,0 +1,93 @@
+Title: Plus c'est facile, plus c'est <p>beau&thinsp;: prolégomènes à la plus</p> belle exposition du monde
+
+----
+
+Year: 2015
+
+----
+
+Width: 134
+
+----
+
+Height: 190
+
+----
+
+Isbn: 978-2-914291-71-2
+
+----
+
+Author: Eric Watier
+
+----
+
+Editor: Incertain Sens
+
+----
+
+Website: incertain-sens.org
+
+----
+
+Price: 8 €
+
+----
+
+Number: 2
+
+----
+
+Writter: Eric Watier
+
+----
+
+Traduction: 
+
+----
+
+Design: Eric Watier
+
+----
+
+Publisher: Incertain Sens
+
+----
+
+Place: Rennes
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Dos carré collé
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 8
+
+----
+
+Nb-pages: 96

@@ -1,0 +1,93 @@
+Number: 4
+
+----
+
+Title: Against Translation
+
+----
+
+Year: 2016
+
+----
+
+Author: Kenneth Goldsmith
+
+----
+
+Editor: Jean Boîte éditions
+
+----
+
+Website: jean-boite.fr
+
+----
+
+Price: 39 €
+
+----
+
+Width: 90
+
+----
+
+Height: 160
+
+----
+
+Isbn: 978-2-365-680-127
+
+----
+
+Writter: Kenneth Goldsmith
+
+----
+
+Traduction: 
+
+----
+
+Design: Groupe CcC
+
+----
+
+Publisher: Jean Boîte éditions
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: 
+
+----
+
+Binding: 
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 
+
+----
+
+Nb-pages: 32

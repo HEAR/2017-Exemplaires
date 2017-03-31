@@ -1,0 +1,93 @@
+Title: Une exposition a être lue <p>– volume 4 (2-1-2)</p>
+
+----
+
+Year: 2013
+
+----
+
+Width: 150
+
+----
+
+Height: 222
+
+----
+
+Isbn: 978-2-91570-442-6
+
+----
+
+Author: Louise Hervé & Chloé Maillet
+
+----
+
+Editor: Les presses du réel
+
+----
+
+Website: lespressesdureel.com
+
+----
+
+Price: 16 €
+
+----
+
+Number: 6
+
+----
+
+Writter: Mathieu Copeland
+
+----
+
+Traduction: 
+
+----
+
+Design: Mathieu Copeland
+
+----
+
+Publisher: Jeu de Paume
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Dos carré collé
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 5
+
+----
+
+Nb-pages: 72

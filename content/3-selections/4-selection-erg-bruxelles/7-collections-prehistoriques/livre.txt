@@ -1,0 +1,85 @@
+Title: Collections préhistoriques
+
+----
+
+Writter: Camille Henrot
+
+----
+
+Design: Simon Dara
+
+----
+
+Year: 2015
+
+----
+
+Publisher: Manuella éditions
+
+----
+
+Place: Paris
+
+----
+
+Website: manuella-editions.fr
+
+----
+
+Isbn: 978-2-917217-58-0
+
+----
+
+Price: 35 €
+
+----
+
+Nb-copies: 1500
+
+----
+
+Print: Offset
+
+----
+
+Binding: Cousu fil de lin,</br>couverture cartonnée
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Width: 210
+
+----
+
+Height: 270
+
+----
+
+Thickness: 18
+
+----
+
+Nb-pages: 184
+
+----
+
+Print-worker: Die Keure, Bruges
+
+----
+
+Traduction: 
+
+----
+
+Printer: 

@@ -1,0 +1,93 @@
+Title: Money
+
+----
+
+Year: 2015
+
+----
+
+Text: Résumé
+
+----
+
+Width: 240
+
+----
+
+Height: 330
+
+----
+
+Isbn: 978-3-905929-91-1
+
+----
+
+Author: Tania Prill, Alberto Vieceli, Sebastian Cremers
+
+----
+
+Editor: Edition Patrick Frey
+
+----
+
+Website: editionpatrickfrey.com
+
+----
+
+Price: 60 €
+
+----
+
+Number: 4
+
+----
+
+Writter: Tania Prill, Alberto Vieceli, Sebastian Cremers
+
+----
+
+Design: Prill Vieceli Cremers
+
+----
+
+Publisher: Edition Patrick Frey
+
+----
+
+Place: Zurich
+
+----
+
+Printer: DZA Druckerei zu Altenburg GmbH
+
+----
+
+Nb-copies: 800
+
+----
+
+Print: Offset
+
+----
+
+Binding: Couverture cartonnée
+
+----
+
+Typeface1: Grey (Aurèle Sack)
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 25
+
+----
+
+Nb-pages: 256

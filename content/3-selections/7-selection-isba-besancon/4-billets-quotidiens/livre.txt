@@ -1,0 +1,93 @@
+Number: 5
+
+----
+
+Title: Billets quotidiens
+
+----
+
+Year: 2014
+
+----
+
+Author: Sieg Dagerman
+
+----
+
+Editor: Cent pages
+
+----
+
+Website: centpages.atheles.org
+
+----
+
+Price: 11 €
+
+----
+
+Width: 170
+
+----
+
+Height: 110
+
+----
+
+Isbn: 9,78292E+12
+
+----
+
+Writter: Sieg Dagerman
+
+----
+
+Traduction: 
+
+----
+
+Design: SP Millot
+
+----
+
+Publisher: Cent pages
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: 
+
+----
+
+Binding: 
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 
+
+----
+
+Nb-pages: 96

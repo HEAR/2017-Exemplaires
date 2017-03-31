@@ -1,0 +1,93 @@
+Title: Scénario
+
+----
+
+Year: 2014
+
+----
+
+Author: Nicolas Chardon
+
+----
+
+Editor: Galerie Jean Brolly
+
+----
+
+Website: jeanbrolly.com
+
+----
+
+Price: 10 €
+
+----
+
+Width: 120
+
+----
+
+Height: 210
+
+----
+
+Isbn: 
+
+----
+
+Number: 3
+
+----
+
+Writter: Nicolas Chardon
+
+----
+
+Traduction: 
+
+----
+
+Design: Vier 5
+
+----
+
+Publisher: Galerie Jean Brolly
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset, noir seul
+
+----
+
+Binding: Otabind
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 5
+
+----
+
+Nb-pages: 32

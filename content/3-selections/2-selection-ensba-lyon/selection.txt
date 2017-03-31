@@ -1,0 +1,17 @@
+Title: ENSBA Lyon
+
+----
+
+About: Nous avons identifié certains archétypes de couvertures et essayé de comprendre leur origine. Chaque ouvrage de notre sélection est une interprétation exemplaire de l’un de ces archétypes.
+
+----
+
+Theme: Couvertures
+
+----
+
+Sigle: ENSBA
+
+----
+
+Ville: Lyon

@@ -1,0 +1,93 @@
+Title: L'humain expliqué <p>aux extra-terrestres</p>
+
+----
+
+Year: 2016
+
+----
+
+Width: 135
+
+----
+
+Height: 180
+
+----
+
+Isbn: 978-2-84162-398-3
+
+----
+
+Author: Yona Friedman
+
+----
+
+Editor: Éditions de l'éclat / cneai
+
+----
+
+Website: lyber-eclat.net
+
+----
+
+Price: 29,50 €
+
+----
+
+Number: 4
+
+----
+
+Writter: Yona Friedman
+
+----
+
+Traduction: 
+
+----
+
+Design: Léna Araguas
+
+----
+
+Publisher: Édition de l’éclat
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Dos carré collé
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 50
+
+----
+
+Nb-pages: 1312

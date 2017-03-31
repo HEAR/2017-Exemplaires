@@ -1,0 +1,97 @@
+Title: Grammaire générale </br>et raisonnée
+
+----
+
+Year: 2016
+
+----
+
+Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Width: 115
+
+----
+
+Height: 185
+
+----
+
+Isbn: 979-10-304-0432-6
+
+----
+
+Author: Antoine Arnauld, Claude Lancelot
+
+----
+
+Editor: Allia
+
+----
+
+Website: editions-allia.com
+
+----
+
+Price: 9,50 €
+
+----
+
+Number: 1
+
+----
+
+Writter: Antoine Arnauld, Claude Lancelot
+
+----
+
+Traduction: 
+
+----
+
+Design: Allia
+
+----
+
+Publisher: Allia
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Dos carré cousu collé
+
+----
+
+Typeface1: Plantin
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 11
+
+----
+
+Nb-pages: 160

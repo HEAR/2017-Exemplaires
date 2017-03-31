@@ -1,0 +1,93 @@
+Title: Série graphique, Connaître <p>et pratiquer le design gaphique</p> au collège
+
+----
+
+Year: 2014
+
+----
+
+Width: 210
+
+----
+
+Height: 297
+
+----
+
+Isbn: 978-2-11-138863-5
+
+----
+
+Author: Collectif
+
+----
+
+Editor: Cnap, Canopé
+
+----
+
+Website: reseau-canope.fr
+
+----
+
+Price: Diffusion gratuite
+
+----
+
+Number: 5
+
+----
+
+Writter: Collectif
+
+----
+
+Traduction: 
+
+----
+
+Design: Fanette Mellier, avec Julia Joffre et Claire Moreux
+
+----
+
+Publisher: Cnap, Canopé
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Piqûre à cheval
+
+----
+
+Typeface1: Kit
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 20
+
+----
+
+Nb-pages: 48

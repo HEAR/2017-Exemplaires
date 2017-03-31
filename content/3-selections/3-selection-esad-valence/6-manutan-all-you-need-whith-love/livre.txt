@@ -1,0 +1,93 @@
+Title: Manutan: All you Need. </br>With Love.
+
+----
+
+Year: 2016
+
+----
+
+Author: Groupe Manutan
+
+----
+
+Editor: Groupe Manutan
+
+----
+
+Website: manutan.fr
+
+----
+
+Price: Gratuit
+
+----
+
+Width: 195
+
+----
+
+Height: 277
+
+----
+
+Isbn: 
+
+----
+
+Number: 5
+
+----
+
+Writter: Groupe Manutan
+
+----
+
+Traduction: 
+
+----
+
+Design: Groupe Manutan
+
+----
+
+Publisher: Groupe Manutan
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Dos carré collé
+
+----
+
+Typeface1: Verdana
+
+----
+
+Typeface2: Taz
+
+----
+
+Typeface3: Aniuk
+
+----
+
+Thickness: 45
+
+----
+
+Nb-pages: 2652

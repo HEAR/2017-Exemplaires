@@ -1,0 +1,93 @@
+Title: Doublure&thinsp;: catalogues d’exposition 
+
+----
+
+Year: 2011
+
+----
+
+Width: 215
+
+----
+
+Height: 275
+
+----
+
+Isbn: 
+
+----
+
+Author: Koenraad Dedobbeleer
+
+----
+
+Editor: Christophe Daviet-Thery
+
+----
+
+Editor-website: http://www.daviet-thery.fr
+
+----
+
+Price: 17 €
+
+----
+
+Writter: Koenraad Dedobbeleer
+
+----
+
+Traduction: 
+
+----
+
+Design: Koenraad Dedobbeleer
+
+----
+
+Publisher: &: Christophe Daviet-Thery
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Website: daviet-thery.fr
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Cahier cousu, couverture </br>souple avec un rabat
+
+----
+
+Typeface1: Franklin Gothic
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 2
+
+----
+
+Nb-pages: 18

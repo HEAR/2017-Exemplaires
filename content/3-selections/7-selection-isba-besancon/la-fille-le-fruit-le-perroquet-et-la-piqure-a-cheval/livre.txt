@@ -1,0 +1,93 @@
+Number: 3
+
+----
+
+Title: La fille, le fruit, le perroquet et la piqûre à cheval
+
+----
+
+Year: 2013
+
+----
+
+Author: Sacha Léopold et François Havegeer
+
+----
+
+Editor: Tombolo Presses
+
+----
+
+Website: presses.t-o-m-b-o-l-o.eu
+
+----
+
+Price: 15 €
+
+----
+
+Width: 205
+
+----
+
+Height: 305
+
+----
+
+Isbn: 978-2-9546842-0-8
+
+----
+
+Writter: Sacha Léopold et François Havegeer
+
+----
+
+Traduction: 
+
+----
+
+Design: Syndicat
+
+----
+
+Publisher: Tombolo Presses
+
+----
+
+Place: Rennes
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: 
+
+----
+
+Binding: 
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 
+
+----
+
+Nb-pages: 148

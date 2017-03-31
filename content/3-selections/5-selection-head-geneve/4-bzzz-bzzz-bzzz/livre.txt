@@ -1,0 +1,93 @@
+Title: Bzzz Bzzz Bzzz
+
+----
+
+Year: 2014
+
+----
+
+Width: 210
+
+----
+
+Height: 290
+
+----
+
+Isbn: 
+
+----
+
+Author: Ramaya Tegegne
+
+----
+
+Editor: beckbooks
+
+----
+
+Website: marbriers4.ch
+
+----
+
+Price: 30,00 CHF
+
+----
+
+Number: 3
+
+----
+
+Writter: Ramaya Tegegne
+
+----
+
+Traduction: 
+
+----
+
+Design: Ramaya Tegegne
+
+----
+
+Publisher: Marbriers 4
+
+----
+
+Place: Genève
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Numérique
+
+----
+
+Binding: Dos carré collé
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 12
+
+----
+
+Nb-pages: 140

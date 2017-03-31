@@ -1,0 +1,89 @@
+Title: Merci les artistes
+
+----
+
+Year: 2012
+
+----
+
+Width: 187
+
+----
+
+Height: 290
+
+----
+
+Isbn: 
+
+----
+
+Author: Bunk Edition
+
+----
+
+Editor: Bunk Edition
+
+----
+
+Website: bunkedition.fr
+
+----
+
+Price: 5 €
+
+----
+
+Writter: Bunk Edition
+
+----
+
+Traduction: 
+
+----
+
+Design: Bunk Edition
+
+----
+
+Publisher: Bunk Edition
+
+----
+
+Place: Hettange-Grande
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Numérique couleur
+
+----
+
+Binding: Affiches pliées et encartées
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 1
+
+----
+
+Nb-pages: 5

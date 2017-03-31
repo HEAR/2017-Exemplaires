@@ -1,0 +1,89 @@
+Title: La vie matérielle
+
+----
+
+Year: 2013
+
+----
+
+Width: 140
+
+----
+
+Height: 240
+
+----
+
+Isbn: 
+
+----
+
+Author: Yann Chateigné, en collaboration avec la revue Criticism
+
+----
+
+Editor: Éditions Fondation d’entreprise Ricard
+
+----
+
+Website: fondation-entreprise-ricard.com
+
+----
+
+Price: gratuit
+
+----
+
+Writter: Yann Chateigné
+
+----
+
+Traduction: 
+
+----
+
+Design: Coline Sunier & Charles Mazé
+
+----
+
+Publisher: Éditions Fondation d’entreprise Ricard
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Dos carré collé avec </br>vignettes encartées
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 1
+
+----
+
+Nb-pages: 96

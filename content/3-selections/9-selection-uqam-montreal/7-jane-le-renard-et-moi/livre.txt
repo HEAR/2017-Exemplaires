@@ -1,0 +1,89 @@
+Title: Jane, le renard et moi
+
+----
+
+Year: 2012
+
+----
+
+Width: 229
+
+----
+
+Height: 305
+
+----
+
+Isbn: 978-2-92384-132-8
+
+----
+
+Author: Fanny Britt (texte) et Isabelle Arsenault (illustrations)
+
+----
+
+Editor: La Pastèque
+
+----
+
+Website: lapasteque.com
+
+----
+
+Price: 26.95 $ CAN
+
+----
+
+Writter: Fanny Britt
+
+----
+
+Traduction: 
+
+----
+
+Design: Isabelle Arsenault
+
+----
+
+Publisher: La Pastèque
+
+----
+
+Place: Montréal
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Reliure avec couverture cartonnée, tranchefile, dos rond
+
+----
+
+Typeface1: Mrs Eaves
+
+----
+
+Typeface2: écriture manuscrite
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 17
+
+----
+
+Nb-pages: 104

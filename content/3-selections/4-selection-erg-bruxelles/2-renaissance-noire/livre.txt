@@ -1,0 +1,101 @@
+Title: Renaissance noire
+
+----
+
+Year: 2016
+
+----
+
+Text: Résumé
+
+----
+
+Width: 135
+
+----
+
+Height: 200
+
+----
+
+Nbrpages: 240
+
+----
+
+Isbn: 978-2-9601559-45
+
+----
+
+Author: Miklos Szentkuthy
+
+----
+
+Editor: Vies Parallèles
+
+----
+
+Website: vies-paralleles.org
+
+----
+
+Price: 22 €
+
+----
+
+Number: 1
+
+----
+
+Writter: Miklos Szentkuthy
+
+----
+
+Design: The theatre of operations
+
+----
+
+Publisher: Vies Parallèles
+
+----
+
+Place: Bruxelles
+
+----
+
+Printer: PurePrint, Oostkamp
+
+----
+
+Print: Offset
+
+----
+
+Binding: Cousu fil de lin, </br>couverture souple
+
+----
+
+Typeface1: Today
+
+----
+
+Typeface2: Custodia
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 15
+
+----
+
+Nb-pages: 240
+
+----
+
+Traduction: 
+
+----
+
+Nb-copies: 

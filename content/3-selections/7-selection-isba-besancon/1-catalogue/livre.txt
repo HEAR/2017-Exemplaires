@@ -1,0 +1,89 @@
+Title: 0.65 ISB
+
+----
+
+Writter: Laurent Devèze
+
+----
+
+Design: Loriane Bouhier, Alexis Faudot, </br>Marie-Lou Garcia, Léo Gauttier, Juliette Poirot Bourdain, Ivana Serra et Paul Tubert
+
+----
+
+Year: Mars 2017
+
+----
+
+Publisher: 
+
+----
+
+Place: Besançon
+
+----
+
+Website: 
+
+----
+
+Isbn: 
+
+----
+
+Price: Gratuit
+
+----
+
+Nb-copies: 100
+
+----
+
+Printer: à l’Institut supérieur des beaux-arts de Besançon
+
+----
+
+Print: Impression thermique
+
+----
+
+Binding: Roulé
+
+----
+
+Width: 33
+
+----
+
+Height: 80
+
+----
+
+Thickness: 33
+
+----
+
+Nb-pages: 1
+
+----
+
+Typeface1: Univers Lt Bold (Adrian Frutiger)
+
+----
+
+Typeface2: Belwe (George Belwe)
+
+----
+
+Typeface3: Jean-Pierre (Paul Tubert)
+
+----
+
+Paper: Papier thermique
+
+----
+
+Photo:
+
+----
+
+Coordinate: Thomas Bizzarri Daniele Ballit

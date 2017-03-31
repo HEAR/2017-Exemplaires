@@ -1,0 +1,93 @@
+Title: Karoo
+
+----
+
+Year: 2012
+
+----
+
+Author: Steve Tesich
+
+----
+
+Editor: Monsieur Toussaint l'Ouverture
+
+----
+
+Website: monsieurtoussaintlouverture.net
+
+----
+
+Price: 22 €
+
+----
+
+Width: 140
+
+----
+
+Height: 195
+
+----
+
+Isbn: 978-2-9533664-95
+
+----
+
+Number: 5
+
+----
+
+Writter: Steve Tesich
+
+----
+
+Design: Isabelle Boinot & Monsieur Toussaint L’ouverture
+
+----
+
+Publisher: Monsieur Toussaint l’Ouverture
+
+----
+
+Place: Cenon
+
+----
+
+Printer: Imprimerie Floch, Mayenne
+
+----
+
+Print: Roto-page
+
+----
+
+Binding: 
+
+----
+
+Typeface1: Linotype Adobe Garamond
+
+----
+
+Typeface2: Vendetta
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 34
+
+----
+
+Nb-pages: 608
+
+----
+
+Traduction: Traduit de l’anglais (États-Unis) par Anne Wicke
+
+----
+
+Nb-copies: 

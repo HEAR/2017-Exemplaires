@@ -1,0 +1,37 @@
+Title: Ungaretti
+
+----
+
+Year: 1969
+
+----
+
+Width: 210
+
+----
+
+Height: 275
+
+----
+
+Isbn: 9782851970077
+
+----
+
+Author: Piero Sanavio
+
+----
+
+Editor: L' Herne collection les cahiers de L'Herne
+
+----
+
+Website: http://www.editionsdelherne.com/publication/cahier-ungaretti/
+
+----
+
+Price: 39€
+
+----
+
+Number: 8

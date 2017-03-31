@@ -1,0 +1,93 @@
+Title: Chandigarh Furniture
+
+----
+
+Year: 2014
+
+----
+
+Width: 215
+
+----
+
+Height: 295
+
+----
+
+Isbn: 
+
+----
+
+Author: Maximage
+
+----
+
+Editor: Maximage - David Keshavjee, Andreas Koller, Zürich; Guy Meldem, Lausanne
+
+----
+
+Website: maximage.biz
+
+----
+
+Price: 40,00 € – Épuisé
+
+----
+
+Number: 2
+
+----
+
+Writter: Maximage – David Keshavjee, Andreas Koller, Guy Meldem
+
+----
+
+Traduction: 
+
+----
+
+Design: David Keshavjee, Guy Meldem
+
+----
+
+Publisher: Maximage – David Keshavjee, Andreas Koller, Guy Meldem
+
+----
+
+Place: Zurich
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: 
+
+----
+
+Binding: Piqûre à cheval
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 3
+
+----
+
+Nb-pages: 28

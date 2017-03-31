@@ -1,0 +1,89 @@
+Title: Dead Obies Montréal $ud
+
+----
+
+Year: 2014
+
+----
+
+Width: 114
+
+----
+
+Height: 202
+
+----
+
+Isbn: 978-2-98148-960-9
+
+----
+
+Author: Jean-Christian Aubry
+
+----
+
+Editor: Bonsound
+
+----
+
+Website: bonsound.com/fr
+
+----
+
+Price: 25 $ CAN
+
+----
+
+Writter: Jean-Christian Aubry
+
+----
+
+Traduction: 
+
+----
+
+Design: Uniform (Patrick Pellerin et Laurie Castilloux-Bouchard)
+
+----
+
+Publisher: Bonsound
+
+----
+
+Place: Montréal
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Dos carré collé et jaquette fixée au dos
+
+----
+
+Typeface1: Theinhardt
+
+----
+
+Typeface2: Times
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 10
+
+----
+
+Nb-pages: 140

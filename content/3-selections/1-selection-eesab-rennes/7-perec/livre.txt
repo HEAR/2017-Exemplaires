@@ -1,0 +1,93 @@
+Title: Cahier&thinsp;: Perec
+
+----
+
+Year: 2016
+
+----
+
+Width: 210
+
+----
+
+Height: 270
+
+----
+
+Isbn: 9,78285E+12
+
+----
+
+Author: Claude Burgelin, Maryline Heck et Christelle Reggiani
+
+----
+
+Editor: L'Herne collection des cahier de l'Herne
+
+----
+
+Website: editionsdelherne.com
+
+----
+
+Price: 29 €
+
+----
+
+Number: 7
+
+----
+
+Writter: Claude Burgelin, Maryline Heck et Christelle Reggiani
+
+----
+
+Traduction: 
+
+----
+
+Design: L’Herne
+
+----
+
+Publisher: L’Herne collection des cahiers de l’Herne
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: 
+
+----
+
+Binding: Dos carré collé
+
+----
+
+Typeface1: Rockwell
+
+----
+
+Typeface2: Calibri
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 22
+
+----
+
+Nb-pages: 280

@@ -1,0 +1,97 @@
+Title: Encastrable
+
+----
+
+Year: 2015
+
+----
+
+Author: Antoine Lejolivet, Paul Souviron
+
+----
+
+Editor: Encastrable
+
+----
+
+Editor-website: www.encastrable.net
+
+----
+
+Price: Gratuit
+
+----
+
+Width: 193
+
+----
+
+Height: 274
+
+----
+
+Isbn: 
+
+----
+
+Number: 
+
+----
+
+Website: encastrable.net
+
+----
+
+Writter: Antoine Lejolivet, Paul Souviron
+
+----
+
+Traduction: 
+
+----
+
+Design: Paul Cabanes
+
+----
+
+Publisher: auto-édité
+
+----
+
+Place: Strasbourg
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Laser noir et blanc
+
+----
+
+Binding: Piqûre à cheval
+
+----
+
+Typeface1: Berthold Akzidenz </br>Grotesk
+
+----
+
+Typeface2: Futura
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 2
+
+----
+
+Nb-pages: 40

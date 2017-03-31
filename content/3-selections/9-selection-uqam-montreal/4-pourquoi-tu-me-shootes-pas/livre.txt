@@ -1,0 +1,89 @@
+Title: Pourquoi tu me shootes pas ?
+
+----
+
+Year: 2015
+
+----
+
+Width: 185
+
+----
+
+Height: 260
+
+----
+
+Isbn: 978-2-98153-160-5
+
+----
+
+Author: Catherine D’Amours et Jerry Pigeon
+
+----
+
+Editor: LePigeon
+
+----
+
+Website: jerrypigeonbook.bigcartel.com
+
+----
+
+Price: 60$ CAN
+
+----
+
+Writter: Catherine D’Amours et Jerry Pigeon
+
+----
+
+Traduction: 
+
+----
+
+Design: Catherine D’Amours
+
+----
+
+Publisher: LePigeon
+
+----
+
+Place: Montréal
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Numérique HP Indigo
+
+----
+
+Binding: Reliure avec couverture cartonnée, tranchefile et signet, dos carré
+
+----
+
+Typeface1: Neutral
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 18
+
+----
+
+Nb-pages: 132

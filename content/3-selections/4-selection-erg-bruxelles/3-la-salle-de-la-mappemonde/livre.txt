@@ -1,0 +1,97 @@
+Title: La salle de la mappemonde
+
+----
+
+Year: 2016
+
+----
+
+Text: Résumé
+
+----
+
+Width: 150
+
+----
+
+Height: 210
+
+----
+
+Isbn: 978-2-916383-52-1
+
+----
+
+Author: Yûichi Yokoyama
+
+----
+
+Editor: Éditions Matière
+
+----
+
+Website: matiere.org
+
+----
+
+Price: 12 €
+
+----
+
+Number: 2
+
+----
+
+Writter: Yûichi Yokoyama
+
+----
+
+Design: Yûichi Yokoyama
+
+----
+
+Publisher: Éditions Matière
+
+----
+
+Place: Montreuil
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 355
+
+----
+
+Print: Intérieur – offset noir et blanc | Couverture – offset (trichromie avec couleurs Pantone dont un orange fluo)
+
+----
+
+Binding: Cousu fil de lin, couverture souple
+
+----
+
+Typeface1: DIN Mittelschrift – partiellement redessinée (onomatopées)
+
+----
+
+Typeface2: Orator Slanted (dialogues)
+
+----
+
+Typeface3: Prestige Elite Bold (titre, colophon, folios et postface)
+
+----
+
+Thickness: 18
+
+----
+
+Nb-pages: 184
+
+----
+
+Traduction: 

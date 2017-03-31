@@ -1,0 +1,93 @@
+Title: Théorie
+
+----
+
+Year: 2015
+
+----
+
+Author: Kenneth Goldsmith
+
+----
+
+Editor: Jean Boîte Éditions
+
+----
+
+Website: jean-boite.fr
+
+----
+
+Price: 24 €
+
+----
+
+Width: 210
+
+----
+
+Height: 297
+
+----
+
+Isbn: 978-2-365-680-097
+
+----
+
+Number: 4
+
+----
+
+Writter: Kenneth Goldsmith
+
+----
+
+Traduction: 
+
+----
+
+Design: Groupe CcC
+
+----
+
+Publisher: Jean Boîte Éditions
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Ramette de feuilles A4 standard enveloppées dans un poster plié et fermé par deux étiquettes
+
+----
+
+Typeface1: Courier
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 50
+
+----
+
+Nb-pages: 500

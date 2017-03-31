@@ -1,9 +1,0 @@
-Title: ESAD Valence
-
-----
-
-Text: La somme
-
-----
-
-Test: 

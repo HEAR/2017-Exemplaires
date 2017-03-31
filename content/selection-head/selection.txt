@@ -1,9 +1,0 @@
-Title: HEAD Genève
-
-----
-
-Text: Thématique de la HEAD
-
-----
-
-Test: 

@@ -1,0 +1,93 @@
+Number: 7
+
+----
+
+Title: Pas maintenant
+
+----
+
+Year: 2014
+
+----
+
+Author: Arthur Cravan
+
+----
+
+Editor: Cent pages
+
+----
+
+Website: centpages.atheles.org
+
+----
+
+Price: 40 €
+
+----
+
+Width: 110
+
+----
+
+Height: 170
+
+----
+
+Isbn: 978-2916390376
+
+----
+
+Writter: Arthur Cravan
+
+----
+
+Traduction: 
+
+----
+
+Design: SP Millot
+
+----
+
+Publisher: Cent pages
+
+----
+
+Place: Paris
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: 
+
+----
+
+Binding: 
+
+----
+
+Typeface1: 
+
+----
+
+Typeface2: 
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 
+
+----
+
+Nb-pages: 256

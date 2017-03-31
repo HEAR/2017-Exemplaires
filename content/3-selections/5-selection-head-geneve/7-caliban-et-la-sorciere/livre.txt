@@ -1,0 +1,93 @@
+Title: Caliban et la Sorcière
+
+----
+
+Year: 2016
+
+----
+
+Width: 140
+
+----
+
+Height: 210
+
+----
+
+Isbn: 978-2-940426-37-9
+
+----
+
+Author: Silvia Federici
+
+----
+
+Editor: Entremonde
+
+----
+
+Website: entremonde.net
+
+----
+
+Price: 24 €
+
+----
+
+Number: 6
+
+----
+
+Writter: Silvia Federici
+
+----
+
+Traduction: 
+
+----
+
+Design: Metablock
+
+----
+
+Publisher: Entremonde, Senonevero
+
+----
+
+Place: Genève, Paris, Marseille
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Offset
+
+----
+
+Binding: Dos carré collé PUR
+
+----
+
+Typeface1: Akkurat
+
+----
+
+Typeface2: Charter
+
+----
+
+Typeface3: 
+
+----
+
+Thickness: 27
+
+----
+
+Nb-pages: 410

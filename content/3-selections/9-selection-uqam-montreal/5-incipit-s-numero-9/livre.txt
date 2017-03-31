@@ -1,0 +1,89 @@
+Title: Incipit(s) – numéro 9
+
+----
+
+Year: 2015
+
+----
+
+Width: 230
+
+----
+
+Height: 303
+
+----
+
+Isbn: 979-10-93544-01-4
+
+----
+
+Author: Cousins de personne​ et 12 auteurs invités
+
+----
+
+Editor: Cousins de personne
+
+----
+
+Website: cousinsdepersonne.com
+
+----
+
+Price: 20 $ CAN
+
+----
+
+Writter: Cousins de personne et 12 auteurs invités
+
+----
+
+Traduction: 
+
+----
+
+Design: Collectif Blanc et 15 designers invités
+
+----
+
+Publisher: Cousins de personne
+
+----
+
+Place: Montréal
+
+----
+
+Printer: 
+
+----
+
+Nb-copies: 
+
+----
+
+Print: Risographie, sérigraphie, presse typographique
+
+----
+
+Binding: Piqûre latérale avec couverture enveloppant l’ouvrage
+
+----
+
+Typeface1: Futura, Dala Moa, Soleil, Crimson Text
+
+----
+
+Typeface2: Noe Display Medium, Gotham, Calluna, Adobe Caslon Pro Bold
+
+----
+
+Typeface3: Hasan Hiba (arabe), Quarto Bold (et Dactilo : Hermes Ambassador 1963)
+
+----
+
+Thickness: 10
+
+----
+
+Nb-pages: 112
