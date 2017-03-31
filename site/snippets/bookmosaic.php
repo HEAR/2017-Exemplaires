@@ -14,7 +14,7 @@
  	 	if ($livre->images()->first()!= NULL) {?>
 
  	 	<a href="<?= $ecoles->uri() ?>">
- 			<img src="<?= $livre->images()->first()->uri() ?>" class="<?= $ecoles->ville()->lower() ?>" width="<?= (($livre->width()->value()/25)*$pxtorem) ?>"/>
+ 			<img src="<?= $livre->images()->first()->resize(400, 400)->url() ?>" class="<?= $ecoles->ville()->lower() ?>" width="<?= (($livre->width()->value()/25)*$pxtorem) ?>"/>
 
  		</a>
 <?php  }	

@@ -37,7 +37,7 @@
               <?php foreach(page()->children()->visible()->limit(1)  as $livre){ ?>
        <li id="i<?= $livre->images()->first()->name() ?>">
           <a href="<?= $livre->url() ?>">
-            <img class="gray" src="<?= $livre->images()->first()->url() ?>" height="<?= (($livre->height()->value()/10)*$pxtorem)?>">
+            <img class="gray" src="<?= $livre->images()->first()->resize(800, 800)->url() ?>" height="<?= (($livre->height()->value()/10)*$pxtorem)?>">
          </a>
        </li>
   <?php }  ?>
@@ -47,7 +47,7 @@
       <?php foreach($page->children()->visible()->not('catalogue')->sortBy('title', 'asc') as $livre){ ?>
         <li id="i<?= $livre->images()->first()->name() ?>">
           <a href="<?= $livre->url() ?>">
-            <img class="gray" src="<?= $livre->images()->first()->url() ?>" height="<?= (($livre->height()->value()/10)*$pxtorem)?>">
+            <img class="gray" src="<?= $livre->images()->first()->resize(800, 800)->url() ?>" height="<?= (($livre->height()->value()/10)*$pxtorem)?>">
          </a>
        </li>
  

@@ -2,11 +2,17 @@
 
 <nav>
 
+<!--   <p>isChildOf("selections") : <?= $page->isChildOf("selections") ?></p>
+  <p>is("selections") : <?= $page->is("selections") ?></p>
+  <p>hasTemplate("livre") : <?= $page->hasTemplate("livre") ?></p>
+  <p>template() : <?= $page->template() ?></p> -->
+
+
    <ul class="menu <?php
 
     if ( $page->isChildOf("programme")) { 
       echo "programme";
-    } elseif($page->isChildOf("selections") || $page->is("selections") || $page->hasTemplate("livre") ) {
+    } elseif($page->isChildOf("selections") || $page->template() == "selections" || $page->template() == "livre" ) {
       echo "selections";
     } else{
       echo $page->uid();
