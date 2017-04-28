@@ -11,7 +11,7 @@
    <div class="main">
     <?php foreach ($page->images() as $image): ?>
 
-      <img id="<?= $page->uid() ?>" src="<?= $image->url() ?>" alt="<?= $page->images()->html() ?>" width="<?= (($page->width()->value()/10)*$pxtorem) ?>"/>
+      <img id="<?= $page->uid() ?>" src="<?= $image->url() ?>" alt="<?= $page->images()->html() ?>" width="<?= (($page->width()->value()/15)*$pxtorem) ?>"/>
     <?php endforeach ?>
 </div>
    <div class="side">
@@ -55,9 +55,23 @@
         <?php if($page->design()->isNotEmpty()) { ?>
          <li><span class="categorie">Design&thinsp;: </span><?= $page->design()->html() ?></li>
          <?php } ?>
+                  
+                    <?php if($page->photo()->isNotEmpty()) { ?>
+         <li><span class="categorie">Photo&thinsp;: </span><?= $page->photo()->html() ?></li>
+         <?php } ?>
+
+
+                 <?php if($page->coordinate()->isNotEmpty()) { ?>
+         <li><span class="categorie">Coordination&thinsp;: </span><?= $page->coordinate()->html() ?></li>
+         <?php } ?>
          <?php if($page->nb_copies()->isNotEmpty()){?><li><span class="categorie">Nombre d'exemplaires&thinsp;: </span><?= $page->nb_copies()->html(); ?></li><?php }?> 
 
          <?php if($page->print()->isNotEmpty()){?><li><span class="categorie">Type d'impression&thinsp;: </span><?= $page->print()->html(); ?></li><?php }?> 
+                  
+                    <?php if($page->paper()->isNotEmpty()) { ?>
+         <li><span class="categorie">Papier&thinsp;: </span><?= $page->paper()->html() ?></li>
+         <?php } ?>
+
          <?php if($page->binding()->isNotEmpty()){?><li><span class="categorie">Type de reliure&thinsp;: </span><?= $page->binding()->html(); ?></li><?php }?>
 
          <li>

@@ -77,6 +77,21 @@ fields:
       type:  text
       width: 1/3
 
+   photo:
+      label: Photographie
+      type:  text
+      width: 1/3
+   
+   paper:
+      label: Papier
+      type:  text
+      width: 1/3
+
+   coordinate:
+      label: Coordination
+      type:  text
+      width: 1/3    
+
    typeface1:
       label: Caractère 1
       type:  text
