@@ -481,11 +481,11 @@ i.fa-instagram, i.fa-facebook{
 
 
 .gray{
-
 	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
    filter: grayscale(100%);
    -webkit-transition: filter 0.2s; /* Safari */
    transition: filter 0.2s;
+   background: #FFF;
 }
 
 .hover{
@@ -494,6 +494,7 @@ i.fa-instagram, i.fa-facebook{
    -webkit-transition: filter 0.2s; /* Safari */
    transition: filter 0.2s;
    outline: 1rem solid black;
+   background: #000;
 }
 
 .selection .side{
