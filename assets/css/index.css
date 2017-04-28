@@ -443,6 +443,7 @@ i.fa-instagram, i.fa-facebook{
 .hover_selections{
 
 	outline:solid 8px black;
+	background: #000;
 }
 
 /* PAGE : SELECTION */
